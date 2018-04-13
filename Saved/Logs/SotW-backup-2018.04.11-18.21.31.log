@@ -1,0 +1,1565 @@
+﻿Log file open, 04/10/18 21:44:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SotW
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1766062218) SRandInit(-1766062218).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207486
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/JSONParser/Binaries/Win64/UE4Editor-JSONParser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin JSONParser
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.590s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.107:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.11-00.44.31:323][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.11-00.44.31:323][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.11-00.44.31:347][  0]LogInit: Computer: DESKTOP-J55RO49
+[2018.04.11-00.44.31:347][  0]LogInit: User: Franco
+[2018.04.11-00.44.31:347][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.11-00.44.31:347][  0]LogInit: High frequency timer resolution =3.134210 MHz
+[2018.04.11-00.44.31:348][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.11-00.44.31:348][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.11-00.44.31:348][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2018.04.11-00.44.31:348][  0]LogMemory: Process Virtual Memory: 263.98 MB used, 263.98 MB peak
+[2018.04.11-00.44.31:348][  0]LogMemory: Physical Memory: 4584.29 MB used,  3560.14 MB free, 8144.43 MB total
+[2018.04.11-00.44.31:348][  0]LogMemory: Virtual Memory: 672.18 MB used,  3560.14 MB free, 134217728.00 MB total
+[2018.04.11-00.44.31:400][  0]LogInit: Using OS detected language (en-US).
+[2018.04.11-00.44.31:400][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.11-00.44.31:410][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.11-00.44.31:874][  0]LogStreaming: Display: Took  0.475s to EndInitTextLocalization.
+[2018.04.11-00.44.31:875][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.11-00.44.31:920][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.11-00.44.31:920][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.11-00.44.32:488][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.11-00.44.32:510][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
+[2018.04.11-00.44.32:510][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.04.11-00.44.32:515][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.11-00.44.32:515][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.11-00.44.32:515][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.11-00.44.32:521][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.11-00.44.32:521][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.11-00.44.32:521][  0]LogWindows: EnumDisplayDevices:
+[2018.04.11-00.44.32:521][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
+[2018.04.11-00.44.32:522][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
+[2018.04.11-00.44.32:522][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-00.44.32:522][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-00.44.32:522][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-00.44.32:523][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-00.44.32:523][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.11-00.44.32:523][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
+[2018.04.11-00.44.32:523][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.11-00.44.32:523][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.11-00.44.32:523][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
+[2018.04.11-00.44.32:569][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.11-00.44.32:583][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.04.11-00.44.32:585][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Intermediate/Shaders/WorkingDirectory/13192/).
+[2018.04.11-00.44.32:586][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/00E6F6F1433B9100EB0EBF99FE41AF1E/'.
+[2018.04.11-00.44.32:982][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.11-00.44.33:005][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.11-00.44.33:029][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.11-00.44.33:052][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.11-00.44.33:076][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.11-00.44.33:099][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.11-00.44.33:122][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.11-00.44.33:145][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.11-00.44.33:157][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.11-00.44.33:178][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.11-00.44.33:199][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.11-00.44.33:220][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.11-00.44.33:240][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.11-00.44.33:261][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.11-00.44.33:282][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.11-00.44.33:323][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.11-00.44.33:323][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.11-00.44.33:345][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.11-00.44.33:350][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.11-00.44.33:400][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.11-00.44.33:419][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.11-00.44.33:440][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.11-00.44.33:460][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.11-00.44.33:481][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.11-00.44.33:502][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.11-00.44.33:503][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.11-00.44.33:822][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.11-00.44.33:823][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.11-00.44.33:823][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.11-00.44.35:180][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.11-00.44.35:283][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.11-00.44.35:301][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.11-00.44.35:316][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.11-00.44.35:329][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.11-00.44.35:330][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.11-00.44.35:332][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.11-00.44.35:332][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.11-00.44.35:656][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2018.04.11-00.44.36:195][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.11-00.44.36:443][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.11-00.44.36:450][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.11-00.44.36:450][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.11-00.44.36:450][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.11-00.44.36:450][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.11-00.44.36:450][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.11-00.44.36:527][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.04.11-00.44.37:389][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.308056 seconds
+[2018.04.11-00.44.37:395][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.11-00.44.37:395][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.11-00.44.37:395][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.11-00.44.40:716][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `C77ACE9E477FDE568B335E8E4AEAF279` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.11-00.44.40:718][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.11-00.44.40:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.11-00.44.40:896][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.11-00.44.42:072][  0]SourceControl: Source control is disabled
+[2018.04.11-00.44.42:072][  0]SourceControl: Source control is disabled
+[2018.04.11-00.44.42:139][  0]SourceControl: Source control is disabled
+[2018.04.11-00.44.42:235][  0]SourceControl: Source control is disabled
+[2018.04.11-00.44.43:873][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.11-00.44.44:395][  0]LogOcInput: OculusInput pre-init called
+[2018.04.11-00.44.44:680][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.11-00.44.44:709][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.11-00.44.44:710][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.11-00.44.44:711][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `9F8C3EAE40A38CEF6CFF3E81A7ADA50D` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.11-00.44.44:715][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue`
+[2018.04.11-00.44.44:715][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `4E6C5BD544B12F0A6DA0E1A8940B7C68` for Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue` because of new created Dialogue.
+[2018.04.11-00.44.44:716][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.11-00.44.44:810][  0]LogEngine: Initializing Engine...
+[2018.04.11-00.44.44:814][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.11-00.44.44:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.11-00.44.44:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.11-00.44.45:223][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.11-00.44.45:289][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-00.44.45:318][  0]LogInit: FAudioDevice initialized.
+[2018.04.11-00.44.45:553][  0]LogDerivedDataCache: Saved boot cache 0.23s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.11-00.44.45:574][  0]LogInit: Texture streaming: Enabled
+[2018.04.11-00.44.45:611][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.11-00.44.45:640][  0]LogInit: Transaction tracking system initialized
+[2018.04.11-00.44.45:695][  0]BlueprintLog: New page: Editor Load
+[2018.04.11-00.44.45:878][  0]LocalizationService: Localization service is disabled
+[2018.04.11-00.44.46:105][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.11-00.44.46:105][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.11-00.44.46:105][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.04.11-00.44.46:152][  0]LogConsoleResponse: Display: 
+[2018.04.11-00.44.46:431][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.11-00.44.46:431][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.11-00.44.46:431][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.11-00.44.46:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.11-00.44.46:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.11-00.44.46:716][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' took 0.02s
+[2018.04.11-00.44.47:618][  0]SourceControl: Source control is disabled
+[2018.04.11-00.44.47:619][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.04.11-00.44.47:619][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.11-00.44.47:863][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 244.352ms to complete.
+[2018.04.11-00.44.47:863][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.245
+[2018.04.11-00.44.48:034][  0]LogCollectionManager: Loaded 0 collections in 0.003450 seconds
+[2018.04.11-00.44.48:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Collections/' took 0.01s
+[2018.04.11-00.44.48:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Developers/Franco/Collections/' took 0.01s
+[2018.04.11-00.44.48:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Collections/' took 0.01s
+[2018.04.11-00.44.48:100][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.11-00.44.48:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2492 classes and 574 folders.
+[2018.04.11-00.44.48:128][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.11-00.44.48:291][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.11-00.44.48:301][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.11-00.44.48:322][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.11-00.44.48:324][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.11-00.44.48:332][  0]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.11-00.44.48:448][  0]LogRenderer: Reallocating scene render targets to support 808x376 Format 10 NumSamples 1 (Frame:1).
+[2018.04.11-00.44.48:501][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.11-00.44.48:637][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.11-00.44.48:637][  0]LogLoad: (Engine Initialization) Total time: 24.04 seconds
+[2018.04.11-00.44.48:637][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.11-00.44.49:000][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.11-00.44.49:325][  1]LogAssetRegistry: Asset discovery search completed in 13.6919 seconds
+[2018.04.11-00.44.49:327][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.11-00.44.49:327][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.04.11-00.44.49:985][  3]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.11-00.45.01:780][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.11-00.45.01:932][406]LogDlgSystemEditor: Clicked a Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue`
+[2018.04.11-00.45.01:932][406]LogDlgSystem: Compiling Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue` (Graph data -> Dialogue data)`
+[2018.04.11-00.45.01:933][406]LogDlgSystem: Refreshing data for Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue`
+[2018.04.11-00.45.02:008][406]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.11-00.45.04:906][697]LogSlate: Window 'NewDlgDialogue' being destroyed
+[2018.04.11-00.45.07:942][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.11-00.45.09:382][219]LogEditorViewport: Clicking Background
+[2018.04.11-00.45.13:155][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.11-00.45.59:799][727]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-00.45.59:827][727]Cmd: MAP LOAD FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.11-00.45.59:827][727]LightingResults: New page: Lighting Build
+[2018.04.11-00.45.59:832][727]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.04.11-00.45.59:833][727]LoadErrors: New page: Loading map: 2DTestWorld.umap
+[2018.04.11-00.45.59:834][727]MapCheck: New page: Map Check
+[2018.04.11-00.45.59:834][727]LightingResults: New page: Lighting Build
+[2018.04.11-00.45.59:850][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.11-00.45.59:909][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.11-00.46.00:149][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 239.594ms to complete.
+[2018.04.11-00.46.00:151][727]LogFileHelpers: Loading map '2DTestWorld' took 0.325
+[2018.04.11-00.46.02:345][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-00.46.02:371][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-00.46.02:371][968]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 6:46:02 PM)
+[2018.04.11-00.46.02:371][968]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-00.46.02:373][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001118s)
+[2018.04.11-00.46.02:373][968]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-00.46.02:374][968]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.04.11-00.46.02:374][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002239s)
+[2018.04.11-00.46.02:411][968]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-00.46.02:426][968]LogInit: FAudioDevice initialized.
+[2018.04.11-00.46.02:788][968]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-00.46.02:790][968]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-21.46.02
+[2018.04.11-00.46.02:791][968]LogWorld: Bringing up level for play took: 0.002173
+[2018.04.11-00.46.02:798][968]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.11-00.46.02:804][968]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.029
+[2018.04.11-00.46.02:845][968]LogRenderer: Reallocating scene render targets to support 1452x936 Format 10 NumSamples 1 (Frame:1).
+[2018.04.11-00.46.02:916][969]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-00.46.04:650][105]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-00.46.31:195][738]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.11-00.46.35:069][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:070][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:070][ 83]LoadErrors: Error: /Game/Map/TextBox_Test : Can't find file for asset. /Game/BP/Dialogue_Box
+[2018.04.11-00.46.35:070][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:071][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:073][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:073][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:074][ 83]LogLinker: Warning: Can't find file '/Game/Sprites/Environment/tile_test_sheet_TileMap'
+[2018.04.11-00.46.35:074][ 83]LogLinker: Warning: Can't find file for asset '/Game/Sprites/Environment/tile_test_sheet_TileMap' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:074][ 83]LoadErrors: Error: /Game/Map/TextBox_Test : Can't find file for asset. /Game/Sprites/Environment/tile_test_sheet_TileMap
+[2018.04.11-00.46.35:075][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:075][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:075][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:076][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:076][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:077][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:077][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:077][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:078][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:078][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:079][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:079][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:079][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:080][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:080][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:080][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:081][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:081][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:081][ 83]LogLinker: Warning: Can't find file '/Game/Sprites/Environment/tile_test_sheet_TileMap'
+[2018.04.11-00.46.35:082][ 83]LogLinker: Warning: Can't find file for asset '/Game/Sprites/Environment/tile_test_sheet_TileMap' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:082][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:083][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/TextBox_Test.umap.
+[2018.04.11-00.46.35:083][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:083][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading NULL.
+[2018.04.11-00.46.35:084][ 83]LogLinker: Warning: Can't find file '/Game/BP/Dialogue_Box'
+[2018.04.11-00.46.35:084][ 83]LogLinker: Warning: Can't find file for asset '/Game/BP/Dialogue_Box' while loading NULL.
+[2018.04.11-00.46.35:087][ 83]LogLinker: Warning: Can't find file '/Game/Sprites/Environment/tile_test_sheet_TileMap'
+[2018.04.11-00.46.35:087][ 83]LoadErrors: Failed to load /Game/Sprites/Environment/tile_test_sheet_TileMap.tile_test_sheet_TileMap Referenced by tile_test_sheet_TileMap_4
+[2018.04.11-00.46.35:087][ 83]LogLinker: Warning: Can't find file for asset '/Game/Sprites/Environment/tile_test_sheet_TileMap' while loading NULL.
+[2018.04.11-00.46.35:089][ 83]LogAIModule: Creating AISystem for world TextBox_Test
+[2018.04.11-00.46.36:161][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'background': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'down_border': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'left_border': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Left_downCorner': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Left_upCorner': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'right_border': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'right_downCorner': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'right_upCorner': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'up_border': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddTextRenderComponent-1_84': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddTextRenderComponent-1_85': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.46.36:323][ 83]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': Dialogue_Box_C /Game/Map/TextBox_Test.TextBox_Test:PersistentLevel.Dialogue_Box_222
+[2018.04.11-00.49.11:757][846]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.11-00.49.31:255][935]LogSlate: Window 'Replace References' being destroyed
+[2018.04.11-00.49.52:506][120]LogSlate: Window 'Asset Report' being destroyed
+[2018.04.11-00.50.33:649][495]LogSlate: Window 'Replace References' being destroyed
+[2018.04.11-02.17.53:966][571]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.04.11-02.17.55:485][572]LogSlate: Took 0.000751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.11-02.25.06:916][421]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.25.29:180][633]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.04.11-02.25.32:441][942]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.04.11-02.27.00:591][897]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.11-02.30.23:378][668]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.30.23:672][674]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.30.24:339][725]LogEditorTransaction: Undo Move Node
+[2018.04.11-02.30.24:982][776]LogEditorTransaction: Undo Move Node
+[2018.04.11-02.31.19:559][498]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.33.14:009][523]LogEditorTransaction: Undo Move Node
+[2018.04.11-02.34.07:186][906]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.34.23:532][159]LogEditorTransaction: Undo Move Node
+[2018.04.11-02.37.11:872][311]LogSlate: Took 0.028500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.11-02.37.23:381][639]BlueprintLog: New page: Compile Blue_BP
+[2018.04.11-02.38.28:831][988]LogEditorTransaction: Undo Move Nodes
+[2018.04.11-02.38.48:209][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.38.48:239][213]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.38.48:291][213]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.38.48:596][213]LogPlayLevel: PlayLevel: Blueprint regeneration took 357 ms (1 blueprints)
+[2018.04.11-02.38.48:596][213]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:38:48 PM)
+[2018.04.11-02.38.48:597][213]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.38.48:598][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2018.04.11-02.38.48:599][213]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.38.48:599][213]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.04.11-02.38.48:599][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002460s)
+[2018.04.11-02.38.48:641][213]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.38.48:657][213]LogInit: FAudioDevice initialized.
+[2018.04.11-02.38.48:705][213]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.38.48:708][213]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.38.48
+[2018.04.11-02.38.48:709][213]LogWorld: Bringing up level for play took: 0.002507
+[2018.04.11-02.38.48:713][213]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.062
+[2018.04.11-02.38.48:966][214]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.38.51:530][415]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.39.19:789][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/2DTestWorld' took 0.025
+[2018.04.11-02.39.19:814][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Blue_BP] ([1] browsable assets)...
+[2018.04.11-02.39.19:823][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Blue_BP]
+[2018.04.11-02.39.20:766][657]LogSavePackage: Save=268.30ms
+[2018.04.11-02.39.20:766][657]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BP_Auto1BCAFCBCA468BC7238D701A88665C3EAB.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto1.uasset'
+[2018.04.11-02.39.20:777][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto1.uasset
+[2018.04.11-02.39.20:777][657]LogFileHelpers: Auto-saving content packages took 0.986
+[2018.04.11-02.39.28:335][845]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.39.28:364][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-02.39.28:364][845]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:39:28 PM)
+[2018.04.11-02.39.28:364][845]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.39.28:366][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2018.04.11-02.39.28:366][845]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.39.28:367][845]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.04.11-02.39.28:367][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002134s)
+[2018.04.11-02.39.28:410][845]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.39.28:424][845]LogInit: FAudioDevice initialized.
+[2018.04.11-02.39.28:480][845]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.39.28:482][845]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.39.28
+[2018.04.11-02.39.28:483][845]LogWorld: Bringing up level for play took: 0.002102
+[2018.04.11-02.39.28:491][845]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.283
+[2018.04.11-02.39.54:016][826]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.40.02:709][801]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.40.02:738][801]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.40.02:790][801]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.40.03:096][801]LogPlayLevel: PlayLevel: Blueprint regeneration took 357 ms (1 blueprints)
+[2018.04.11-02.40.03:096][801]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:40:03 PM)
+[2018.04.11-02.40.03:096][801]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.40.03:097][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001194s)
+[2018.04.11-02.40.03:098][801]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.40.03:099][801]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2018.04.11-02.40.03:099][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002479s)
+[2018.04.11-02.40.03:140][801]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.40.03:154][801]LogInit: FAudioDevice initialized.
+[2018.04.11-02.40.03:208][801]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.40.03:211][801]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.40.03
+[2018.04.11-02.40.03:212][801]LogWorld: Bringing up level for play took: 0.002499
+[2018.04.11-02.40.03:216][801]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.441
+[2018.04.11-02.40.03:400][802]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077765 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.40.09:390][273]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.40.26:180][991]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.40.26:209][991]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.40.26:260][991]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.40.26:571][991]LogPlayLevel: PlayLevel: Blueprint regeneration took 362 ms (1 blueprints)
+[2018.04.11-02.40.26:571][991]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:40:26 PM)
+[2018.04.11-02.40.26:571][991]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.40.26:572][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001134s)
+[2018.04.11-02.40.26:573][991]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.40.26:573][991]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.04.11-02.40.26:573][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002037s)
+[2018.04.11-02.40.26:616][991]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.40.26:629][991]LogInit: FAudioDevice initialized.
+[2018.04.11-02.40.26:683][991]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.40.26:685][991]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.40.26
+[2018.04.11-02.40.26:686][991]LogWorld: Bringing up level for play took: 0.002146
+[2018.04.11-02.40.26:691][991]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.084
+[2018.04.11-02.40.26:869][992]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.40.33:329][501]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.40.42:556][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.40.42:585][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.40.42:638][428]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.40.42:946][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 360 ms (1 blueprints)
+[2018.04.11-02.40.42:946][428]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:40:42 PM)
+[2018.04.11-02.40.42:946][428]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.40.42:947][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001095s)
+[2018.04.11-02.40.42:948][428]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.40.42:948][428]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.04.11-02.40.42:948][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001987s)
+[2018.04.11-02.40.42:991][428]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.40.43:006][428]LogInit: FAudioDevice initialized.
+[2018.04.11-02.40.43:055][428]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.40.43:057][428]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.40.43
+[2018.04.11-02.40.43:058][428]LogWorld: Bringing up level for play took: 0.002018
+[2018.04.11-02.40.43:062][428]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.287
+[2018.04.11-02.40.43:240][429]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078666 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.40.49:416][915]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.40.50:695][ 53]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.40.50:724][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-02.40.50:724][ 53]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:40:50 PM)
+[2018.04.11-02.40.50:724][ 53]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.40.50:725][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2018.04.11-02.40.50:726][ 53]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.40.50:726][ 53]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.04.11-02.40.50:726][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002248s)
+[2018.04.11-02.40.50:780][ 53]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.40.50:796][ 53]LogInit: FAudioDevice initialized.
+[2018.04.11-02.40.50:854][ 53]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.40.50:856][ 53]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.40.50
+[2018.04.11-02.40.50:857][ 53]LogWorld: Bringing up level for play took: 0.002202
+[2018.04.11-02.40.50:866][ 53]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.091
+[2018.04.11-02.40.55:788][430]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.40.58:050][683]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.40.58:080][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-02.40.58:080][683]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:40:58 PM)
+[2018.04.11-02.40.58:080][683]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.40.58:082][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001486s)
+[2018.04.11-02.40.58:082][683]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.40.58:083][683]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2018.04.11-02.40.58:083][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002729s)
+[2018.04.11-02.40.58:124][683]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.40.58:139][683]LogInit: FAudioDevice initialized.
+[2018.04.11-02.40.58:197][683]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.40.58:199][683]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.40.58
+[2018.04.11-02.40.58:200][683]LogWorld: Bringing up level for play took: 0.001656
+[2018.04.11-02.40.58:208][683]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.567
+[2018.04.11-02.41.19:622][317]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.41.36:375][239]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.41.36:405][239]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.41.36:456][239]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.41.36:766][239]LogPlayLevel: PlayLevel: Blueprint regeneration took 361 ms (1 blueprints)
+[2018.04.11-02.41.36:766][239]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:41:36 PM)
+[2018.04.11-02.41.36:766][239]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.41.36:767][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001120s)
+[2018.04.11-02.41.36:768][239]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.41.36:768][239]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.04.11-02.41.36:769][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002278s)
+[2018.04.11-02.41.36:810][239]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.41.36:825][239]LogInit: FAudioDevice initialized.
+[2018.04.11-02.41.36:873][239]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.41.36:874][239]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.41.36
+[2018.04.11-02.41.36:875][239]LogWorld: Bringing up level for play took: 0.001609
+[2018.04.11-02.41.36:878][239]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.104
+[2018.04.11-02.41.37:056][240]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.41.40:535][513]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.43.33:872][722]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.43.33:906][722]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.43.33:960][722]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.43.34:302][722]LogPlayLevel: PlayLevel: Blueprint regeneration took 395 ms (1 blueprints)
+[2018.04.11-02.43.34:302][722]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:43:34 PM)
+[2018.04.11-02.43.34:302][722]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.43.34:303][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2018.04.11-02.43.34:304][722]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.43.34:304][722]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.04.11-02.43.34:304][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002230s)
+[2018.04.11-02.43.34:349][722]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.43.34:366][722]LogInit: FAudioDevice initialized.
+[2018.04.11-02.43.34:421][722]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.43.34:425][722]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.43.34
+[2018.04.11-02.43.34:426][722]LogWorld: Bringing up level for play took: 0.004662
+[2018.04.11-02.43.34:433][722]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.342
+[2018.04.11-02.43.34:617][723]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.43.51:530][971]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.44.22:355][ 89]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.44.22:388][ 89]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.44.22:449][ 89]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.44.22:788][ 89]LogPlayLevel: PlayLevel: Blueprint regeneration took 400 ms (1 blueprints)
+[2018.04.11-02.44.22:789][ 89]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:44:22 PM)
+[2018.04.11-02.44.22:789][ 89]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.44.22:790][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
+[2018.04.11-02.44.22:791][ 89]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.44.22:791][ 89]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2018.04.11-02.44.22:792][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002861s)
+[2018.04.11-02.44.22:841][ 89]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.44.22:859][ 89]LogInit: FAudioDevice initialized.
+[2018.04.11-02.44.22:913][ 89]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.44.22:915][ 89]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.44.22
+[2018.04.11-02.44.22:916][ 89]LogWorld: Bringing up level for play took: 0.002746
+[2018.04.11-02.44.22:923][ 89]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.148
+[2018.04.11-02.44.23:147][ 90]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079131 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.44.35:504][964]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.44.48:993][929]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.45.13:926][680]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.45.54:418][446]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.45.54:455][446]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.45.54:518][446]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.45.54:869][446]LogPlayLevel: PlayLevel: Blueprint regeneration took 414 ms (1 blueprints)
+[2018.04.11-02.45.54:870][446]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:45:54 PM)
+[2018.04.11-02.45.54:870][446]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.45.54:871][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001262s)
+[2018.04.11-02.45.54:872][446]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.45.54:873][446]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2018.04.11-02.45.54:873][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002854s)
+[2018.04.11-02.45.54:921][446]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.45.54:939][446]LogInit: FAudioDevice initialized.
+[2018.04.11-02.45.54:994][446]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.45.54:997][446]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.45.54
+[2018.04.11-02.45.54:997][446]LogWorld: Bringing up level for play took: 0.002070
+[2018.04.11-02.45.55:001][446]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.226
+[2018.04.11-02.45.55:185][447]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.46.00:456][829]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.46.03:416][ 42]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.46.09:127][595]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.46.09:158][595]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.46.09:226][595]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.46.09:580][595]LogPlayLevel: PlayLevel: Blueprint regeneration took 421 ms (1 blueprints)
+[2018.04.11-02.46.09:581][595]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:46:09 PM)
+[2018.04.11-02.46.09:581][595]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.46.09:582][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2018.04.11-02.46.09:583][595]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.46.09:583][595]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2018.04.11-02.46.09:583][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002567s)
+[2018.04.11-02.46.09:636][595]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.46.09:653][595]LogInit: FAudioDevice initialized.
+[2018.04.11-02.46.09:704][595]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.46.09:706][595]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.46.09
+[2018.04.11-02.46.09:707][595]LogWorld: Bringing up level for play took: 0.001912
+[2018.04.11-02.46.09:711][595]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.936
+[2018.04.11-02.46.09:928][596]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080654 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.46.16:851][ 74]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.46.21:351][492]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.46.21:382][492]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.46.21:444][492]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.46.21:784][492]LogPlayLevel: PlayLevel: Blueprint regeneration took 401 ms (1 blueprints)
+[2018.04.11-02.46.21:784][492]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:46:21 PM)
+[2018.04.11-02.46.21:784][492]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.46.21:786][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001620s)
+[2018.04.11-02.46.21:787][492]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.46.21:788][492]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2018.04.11-02.46.21:788][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.003496s)
+[2018.04.11-02.46.21:843][492]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.46.21:860][492]LogInit: FAudioDevice initialized.
+[2018.04.11-02.46.21:912][492]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.46.21:914][492]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.46.21
+[2018.04.11-02.46.21:915][492]LogWorld: Bringing up level for play took: 0.002145
+[2018.04.11-02.46.21:919][492]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.144
+[2018.04.11-02.46.22:126][493]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077970 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.46.33:352][279]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.46.40:706][792]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.48.04:406][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.48.04:441][843]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.48.04:505][843]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.48.04:609][843]LogBlueprint: Error: [Compiler Blue_BP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.04.11-02.48.04:609][843]LogBlueprint: Error: [Compiler Blue_BP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.04.11-02.48.04:619][843]LogBlueprint: Error: [Compiler Blue_BP] Variable node  Set bApplyGravityWhileJumping  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.11-02.48.04:620][843]LogBlueprint: Error: [Compiler Blue_BP] Variable node  Set GravityScale  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.11-02.48.04:625][843]LogBlueprint: Warning: [Compiler Blue_BP] [7420.03] Compile of Blue_BP failed. 4 Fatal Issue(s) 0 Warning(s) [in 121 ms] (/Game/BP/Blue_BP.Blue_BP)
+[2018.04.11-02.48.04:967][843]LogPlayLevel: PlayLevel: Blueprint regeneration took 525 ms (1 blueprints)
+[2018.04.11-02.48.04:967][843]BlueprintLog: Blueprint Blue_BP failed to compile
+[2018.04.11-02.48.07:004][843]LogSlate: Window 'Message' being destroyed
+[2018.04.11-02.48.07:013][843]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:48:07 PM)
+[2018.04.11-02.48.07:013][843]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.48.07:015][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001467s)
+[2018.04.11-02.48.07:015][843]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.48.07:016][843]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.04.11-02.48.07:016][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002694s)
+[2018.04.11-02.48.07:065][843]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.48.07:082][843]LogInit: FAudioDevice initialized.
+[2018.04.11-02.48.07:137][843]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.48.07:140][843]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.48.07
+[2018.04.11-02.48.07:141][843]LogWorld: Bringing up level for play took: 0.002695
+[2018.04.11-02.48.07:145][843]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 2.37
+[2018.04.11-02.48.07:363][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079749 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.48.09:588][992]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.48.23:707][192]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.48.23:741][192]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.48.23:804][192]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.48.24:167][192]LogPlayLevel: PlayLevel: Blueprint regeneration took 426 ms (1 blueprints)
+[2018.04.11-02.48.24:168][192]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:48:24 PM)
+[2018.04.11-02.48.24:168][192]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.48.24:169][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2018.04.11-02.48.24:170][192]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.48.24:170][192]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.04.11-02.48.24:170][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002411s)
+[2018.04.11-02.48.24:224][192]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.48.24:246][192]LogInit: FAudioDevice initialized.
+[2018.04.11-02.48.24:304][192]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.48.24:308][192]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.48.24
+[2018.04.11-02.48.24:310][192]LogWorld: Bringing up level for play took: 0.003721
+[2018.04.11-02.48.24:316][192]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.541
+[2018.04.11-02.48.24:569][193]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080280 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.48.41:491][321]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.48.52:154][194]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.48.52:188][194]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.48.52:250][194]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.48.52:621][194]LogPlayLevel: PlayLevel: Blueprint regeneration took 433 ms (1 blueprints)
+[2018.04.11-02.48.52:622][194]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:48:52 PM)
+[2018.04.11-02.48.52:622][194]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.48.52:623][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2018.04.11-02.48.52:624][194]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.48.52:624][194]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.04.11-02.48.52:624][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002500s)
+[2018.04.11-02.48.52:678][194]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.48.52:696][194]LogInit: FAudioDevice initialized.
+[2018.04.11-02.48.52:755][194]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.48.52:758][194]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.48.52
+[2018.04.11-02.48.52:759][194]LogWorld: Bringing up level for play took: 0.003227
+[2018.04.11-02.48.52:765][194]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.01
+[2018.04.11-02.48.53:020][195]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.49.00:107][691]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.51.50:479][585]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.51.50:510][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.51.50:564][585]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.51.50:899][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 388 ms (1 blueprints)
+[2018.04.11-02.51.50:899][585]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:51:50 PM)
+[2018.04.11-02.51.50:899][585]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.51.50:900][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2018.04.11-02.51.50:901][585]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.51.50:901][585]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.04.11-02.51.50:901][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002122s)
+[2018.04.11-02.51.50:944][585]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.51.50:958][585]LogInit: FAudioDevice initialized.
+[2018.04.11-02.51.51:017][585]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.51.51:019][585]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.51.51
+[2018.04.11-02.51.51:019][585]LogWorld: Bringing up level for play took: 0.001971
+[2018.04.11-02.51.51:023][585]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.248
+[2018.04.11-02.51.51:204][586]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.52.02:614][477]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.03:392][537]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.04:212][601]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.06:311][762]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.11:612][166]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.12:688][249]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.21:341][919]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.52.34:661][945]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.53.14:571][ 53]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.54.08:576][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.54.08:605][990]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.54.08:661][990]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.54.08:988][990]LogPlayLevel: PlayLevel: Blueprint regeneration took 383 ms (1 blueprints)
+[2018.04.11-02.54.08:989][990]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:54:08 PM)
+[2018.04.11-02.54.08:989][990]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.54.08:990][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001564s)
+[2018.04.11-02.54.08:991][990]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.54.08:991][990]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.04.11-02.54.08:992][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002739s)
+[2018.04.11-02.54.09:035][990]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.54.09:053][990]LogInit: FAudioDevice initialized.
+[2018.04.11-02.54.09:103][990]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.54.09:105][990]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.54.09
+[2018.04.11-02.54.09:106][990]LogWorld: Bringing up level for play took: 0.001873
+[2018.04.11-02.54.09:110][990]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.336
+[2018.04.11-02.54.09:294][991]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077640 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.54.56:774][708]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.54.57:723][781]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.54.58:724][858]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.03:321][215]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.04:208][284]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.04:791][329]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.05:473][381]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.07:094][505]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.13:467][995]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.14:275][ 56]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.15:074][118]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.55.16:340][214]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.57.59:063][862]BlueprintLog: New page: Compile Blue_BP
+[2018.04.11-02.57.59:186][862]LogBlueprint: Error: [Compiler Blue_BP] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2018.04.11-02.57.59:187][862]LogBlueprint: Error: [Compiler Blue_BP] Variable node  Set Velocity  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.11-02.57.59:447][862]LogBlueprint: Warning: [Compiler Blue_BP] [8014.85] Compile of Blue_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/BP/Blue_BP.Blue_BP)
+[2018.04.11-02.58.12:127][ 42]BlueprintLog: New page: Compile Blue_BP
+[2018.04.11-02.58.13:597][138]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.58.13:626][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-02.58.13:626][138]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:58:13 PM)
+[2018.04.11-02.58.13:626][138]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.58.13:627][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2018.04.11-02.58.13:628][138]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.58.13:628][138]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.04.11-02.58.13:628][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002288s)
+[2018.04.11-02.58.13:677][138]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.58.13:693][138]LogInit: FAudioDevice initialized.
+[2018.04.11-02.58.13:759][138]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.58.13:762][138]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.58.13
+[2018.04.11-02.58.13:762][138]LogWorld: Bringing up level for play took: 0.002082
+[2018.04.11-02.58.13:773][138]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.998
+[2018.04.11-02.58.21:668][728]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.28:848][269]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.29:746][337]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.30:722][410]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.31:326][455]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.31:866][495]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.32:672][555]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.33:531][618]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.34:401][683]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.58.35:204][743]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.59.00:876][679]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-02.59.09:986][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-02.59.10:015][570]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-02.59.10:074][570]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-02.59.10:407][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 392 ms (1 blueprints)
+[2018.04.11-02.59.10:408][570]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 8:59:10 PM)
+[2018.04.11-02.59.10:408][570]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-02.59.10:409][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001184s)
+[2018.04.11-02.59.10:410][570]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-02.59.10:410][570]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.04.11-02.59.10:410][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002244s)
+[2018.04.11-02.59.10:459][570]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-02.59.10:474][570]LogInit: FAudioDevice initialized.
+[2018.04.11-02.59.10:527][570]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-02.59.10:529][570]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.10-23.59.10
+[2018.04.11-02.59.10:530][570]LogWorld: Bringing up level for play took: 0.001900
+[2018.04.11-02.59.10:534][570]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.241
+[2018.04.11-02.59.10:749][571]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078297 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-02.59.31:468][112]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.59.49:994][482]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-02.59.53:564][746]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.03:215][454]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.04:442][542]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.06:168][669]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.13:097][184]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.16:743][457]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.23:793][975]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.00.35:738][187]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.00.35:767][187]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.00.35:823][187]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.00.36:154][187]LogPlayLevel: PlayLevel: Blueprint regeneration took 387 ms (1 blueprints)
+[2018.04.11-03.00.36:155][187]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:00:36 PM)
+[2018.04.11-03.00.36:155][187]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.00.36:156][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001136s)
+[2018.04.11-03.00.36:156][187]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.00.36:157][187]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.04.11-03.00.36:157][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002029s)
+[2018.04.11-03.00.36:199][187]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.00.36:214][187]LogInit: FAudioDevice initialized.
+[2018.04.11-03.00.36:260][187]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.00.36:262][187]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.00.36
+[2018.04.11-03.00.36:263][187]LogWorld: Bringing up level for play took: 0.001916
+[2018.04.11-03.00.36:268][187]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.493
+[2018.04.11-03.00.36:472][188]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.00.38:256][321]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.00.52:569][390]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.01.06:545][428]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.01.26:024][393]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.01.26:055][393]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.01.26:111][393]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.01.26:438][393]LogPlayLevel: PlayLevel: Blueprint regeneration took 382 ms (1 blueprints)
+[2018.04.11-03.01.26:438][393]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:01:26 PM)
+[2018.04.11-03.01.26:438][393]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.01.26:440][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2018.04.11-03.01.26:440][393]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.01.26:440][393]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.04.11-03.01.26:441][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002171s)
+[2018.04.11-03.01.26:483][393]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.01.26:498][393]LogInit: FAudioDevice initialized.
+[2018.04.11-03.01.26:544][393]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.01.26:546][393]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.01.26
+[2018.04.11-03.01.26:547][393]LogWorld: Bringing up level for play took: 0.001762
+[2018.04.11-03.01.26:551][393]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.224
+[2018.04.11-03.01.26:770][394]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079324 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.02.03:061][ 76]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.02.56:267][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/2DTestWorld' took 0.023
+[2018.04.11-03.02.56:277][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Blue_BP] ([1] browsable assets)...
+[2018.04.11-03.02.56:277][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Blue_BP]
+[2018.04.11-03.02.56:501][487]LogSavePackage: Save=150.00ms
+[2018.04.11-03.02.56:501][487]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BP_Auto22B59832D4A1035CC339F2E83C5BA7F40.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto2.uasset'
+[2018.04.11-03.02.56:511][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto2.uasset
+[2018.04.11-03.02.56:511][487]LogFileHelpers: Auto-saving content packages took 0.240
+[2018.04.11-03.15.30:194][990]BlueprintLog: New page: Compile Blue_BP
+[2018.04.11-03.15.32:367][ 97]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.15.32:396][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-03.15.32:397][ 97]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:15:32 PM)
+[2018.04.11-03.15.32:397][ 97]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.15.32:398][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001364s)
+[2018.04.11-03.15.32:399][ 97]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.15.32:400][ 97]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2018.04.11-03.15.32:400][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002957s)
+[2018.04.11-03.15.32:449][ 97]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.15.32:468][ 97]LogInit: FAudioDevice initialized.
+[2018.04.11-03.15.32:531][ 97]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.15.32:534][ 97]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.15.32
+[2018.04.11-03.15.32:534][ 97]LogWorld: Bringing up level for play took: 0.002189
+[2018.04.11-03.15.32:546][ 97]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.229
+[2018.04.11-03.16.05:576][ 16]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.16.41:608][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.16.41:637][802]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.16.41:697][802]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.16.42:039][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 401 ms (1 blueprints)
+[2018.04.11-03.16.42:039][802]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:16:42 PM)
+[2018.04.11-03.16.42:040][802]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.16.42:041][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001192s)
+[2018.04.11-03.16.42:041][802]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.16.42:042][802]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.04.11-03.16.42:042][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002076s)
+[2018.04.11-03.16.42:084][802]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.16.42:098][802]LogInit: FAudioDevice initialized.
+[2018.04.11-03.16.42:149][802]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.16.42:152][802]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.16.42
+[2018.04.11-03.16.42:153][802]LogWorld: Bringing up level for play took: 0.002361
+[2018.04.11-03.16.42:157][802]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.382
+[2018.04.11-03.16.42:406][803]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079109 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.17.30:082][372]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.18.42:986][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.18.43:016][497]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.18.43:075][497]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.18.43:424][497]LogPlayLevel: PlayLevel: Blueprint regeneration took 407 ms (1 blueprints)
+[2018.04.11-03.18.43:425][497]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:18:43 PM)
+[2018.04.11-03.18.43:425][497]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.18.43:426][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2018.04.11-03.18.43:427][497]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.18.43:427][497]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2018.04.11-03.18.43:427][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002182s)
+[2018.04.11-03.18.43:472][497]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.18.43:487][497]LogInit: FAudioDevice initialized.
+[2018.04.11-03.18.43:533][497]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.18.43:535][497]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.18.43
+[2018.04.11-03.18.43:536][497]LogWorld: Bringing up level for play took: 0.001647
+[2018.04.11-03.18.43:539][497]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.764
+[2018.04.11-03.18.43:805][498]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080051 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.19.34:749][195]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.19.45:734][981]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.20.08:869][ 55]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.20.08:901][ 55]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.20.08:969][ 55]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.20.09:321][ 55]LogPlayLevel: PlayLevel: Blueprint regeneration took 419 ms (1 blueprints)
+[2018.04.11-03.20.09:321][ 55]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:20:09 PM)
+[2018.04.11-03.20.09:321][ 55]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.20.09:323][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001348s)
+[2018.04.11-03.20.09:323][ 55]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.20.09:323][ 55]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.04.11-03.20.09:323][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002252s)
+[2018.04.11-03.20.09:371][ 55]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.20.09:385][ 55]LogInit: FAudioDevice initialized.
+[2018.04.11-03.20.09:434][ 55]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.20.09:437][ 55]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.20.09
+[2018.04.11-03.20.09:438][ 55]LogWorld: Bringing up level for play took: 0.002267
+[2018.04.11-03.20.09:442][ 55]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.667
+[2018.04.11-03.20.09:646][ 56]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078730 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.21.00:696][674]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.21.01:615][740]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.21.18:272][926]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.21.43:934][144]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.21.43:967][144]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.21.44:040][144]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-03.21.44:402][144]LogPlayLevel: PlayLevel: Blueprint regeneration took 434 ms (1 blueprints)
+[2018.04.11-03.21.44:402][144]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:21:44 PM)
+[2018.04.11-03.21.44:402][144]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.21.44:404][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2018.04.11-03.21.44:405][144]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.21.44:405][144]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2018.04.11-03.21.44:405][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002696s)
+[2018.04.11-03.21.44:454][144]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.21.44:470][144]LogInit: FAudioDevice initialized.
+[2018.04.11-03.21.44:522][144]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.21.44:525][144]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.21.44
+[2018.04.11-03.21.44:525][144]LogWorld: Bringing up level for play took: 0.002012
+[2018.04.11-03.21.44:530][144]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.245
+[2018.04.11-03.21.44:727][145]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080037 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.21.51:957][672]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.21.58:253][291]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.21.58:284][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-03.21.58:284][291]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:21:58 PM)
+[2018.04.11-03.21.58:284][291]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.21.58:286][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001197s)
+[2018.04.11-03.21.58:286][291]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.21.58:286][291]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.04.11-03.21.58:286][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002095s)
+[2018.04.11-03.21.58:339][291]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.21.58:357][291]LogInit: FAudioDevice initialized.
+[2018.04.11-03.21.58:419][291]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.21.58:421][291]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.21.58
+[2018.04.11-03.21.58:422][291]LogWorld: Bringing up level for play took: 0.001774
+[2018.04.11-03.21.58:431][291]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.344
+[2018.04.11-03.22.03:680][636]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.04.11-03.23.11:738][302]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-03.24.17:868][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Blue_BP" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset" SILENT=true
+[2018.04.11-03.24.18:108][935]LogSavePackage: Save=168.16ms
+[2018.04.11-03.24.18:108][935]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BP618E30914996354F7FB02B93EB1BAF1F.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset'
+[2018.04.11-03.24.18:128][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset
+[2018.04.11-03.24.18:860][988]BlueprintLog: New page: Compile Blue_BP
+[2018.04.11-03.34.25:787][307]LogSlate: Window 'Save Asset As' being destroyed
+[2018.04.11-03.38.44:839][763]LogEditorTransaction: Undo Resize Widget
+[2018.04.11-03.38.55:190][212]LogSavePackage: Save=28.14ms
+[2018.04.11-03.38.55:190][212]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/DialogueBox7F202777476F675EA209629F435D7E7D.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/DialogueBox.uasset'
+[2018.04.11-03.38.55:211][212]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/DialogueBox.uasset
+[2018.04.11-03.38.56:055][249]LogSlate: Window 'DialogueBox' being destroyed
+[2018.04.11-03.39.00:485][705]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-03.39.00:523][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-03.39.00:525][705]LogPlayLevel: [PlayLevel] Compiling DialogueBox before play...
+[2018.04.11-03.39.00:721][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (1 blueprints)
+[2018.04.11-03.39.00:721][705]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 9:39:00 PM)
+[2018.04.11-03.39.00:722][705]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-03.39.00:723][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001427s)
+[2018.04.11-03.39.00:724][705]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-03.39.00:724][705]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2018.04.11-03.39.00:724][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002744s)
+[2018.04.11-03.39.00:769][705]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-03.39.00:787][705]LogInit: FAudioDevice initialized.
+[2018.04.11-03.39.00:839][705]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-03.39.00:841][705]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-00.39.00
+[2018.04.11-03.39.00:842][705]LogWorld: Bringing up level for play took: 0.002235
+[2018.04.11-03.39.00:848][705]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.073
+[2018.04.11-03.39.00:929][706]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-03.39.03:083][869]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.09.37:247][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Blue_BP" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset" SILENT=true
+[2018.04.11-04.09.37:487][888]LogSavePackage: Save=164.66ms
+[2018.04.11-04.09.37:487][888]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BP354AA9EC47F4246C98121995DE86FE46.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset'
+[2018.04.11-04.09.37:507][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset
+[2018.04.11-04.09.59:746][840]BlueprintLog: New page: Compile JsonReader
+[2018.04.11-04.10.00:955][897]LogSavePackage: Save=18.00ms
+[2018.04.11-04.10.00:955][897]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReader0EC2C996403E21CAE9A22992867E5DC5.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset'
+[2018.04.11-04.10.00:976][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset
+[2018.04.11-04.10.06:208][208]LogSlate: Window 'JsonReader' being destroyed
+[2018.04.11-04.10.08:137][418]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.04.11-04.10.09:431][455]LogEditorViewport: Clicking on Actor (LMB): JsonReader_C (JsonReader)
+[2018.04.11-04.10.11:690][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.11-04.10.11:760][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.10.11:799][681]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.10.11:855][681]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-04.10.12:210][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 411 ms (1 blueprints)
+[2018.04.11-04.10.12:210][681]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:10:12 PM)
+[2018.04.11-04.10.12:210][681]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.10.12:212][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001191s)
+[2018.04.11-04.10.12:212][681]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.10.12:212][681]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.04.11-04.10.12:213][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002070s)
+[2018.04.11-04.10.12:332][681]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.10.12:348][681]LogInit: FAudioDevice initialized.
+[2018.04.11-04.10.12:404][681]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.10.12:406][681]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.10.12
+[2018.04.11-04.10.12:407][681]LogWorld: Bringing up level for play took: 0.002416
+[2018.04.11-04.10.12:437][681]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.10.12:443][681]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.332
+[2018.04.11-04.10.12:529][682]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.10.15:509][912]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.10.20:869][495]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.11-04.11.10:409][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.11.10:448][737]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.11.10:452][737]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.11.10:821][737]LogPlayLevel: [PlayLevel] Compiling Blue_BP before play...
+[2018.04.11-04.11.10:932][737]LogPlayLevel: PlayLevel: Blueprint regeneration took 484 ms (2 blueprints)
+[2018.04.11-04.11.10:932][737]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:11:10 PM)
+[2018.04.11-04.11.10:933][737]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.11.10:934][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001242s)
+[2018.04.11-04.11.10:935][737]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.11.10:935][737]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.04.11-04.11.10:935][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002133s)
+[2018.04.11-04.11.10:982][737]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.11.10:996][737]LogInit: FAudioDevice initialized.
+[2018.04.11-04.11.11:056][737]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.11.11:058][737]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.11.11
+[2018.04.11-04.11.11:059][737]LogWorld: Bringing up level for play took: 0.001836
+[2018.04.11-04.11.11:061][737]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.11.11:067][737]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.292
+[2018.04.11-04.11.11:168][738]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079774 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.11.12:814][851]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.11.48:783][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.11.48:821][802]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.11.48:825][802]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.11.49:157][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2018.04.11-04.11.49:158][802]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:11:49 PM)
+[2018.04.11-04.11.49:158][802]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.11.49:159][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001165s)
+[2018.04.11-04.11.49:160][802]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.11.49:160][802]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.04.11-04.11.49:160][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002151s)
+[2018.04.11-04.11.49:205][802]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.11.49:219][802]LogInit: FAudioDevice initialized.
+[2018.04.11-04.11.49:276][802]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.11.49:278][802]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.11.49
+[2018.04.11-04.11.49:278][802]LogWorld: Bringing up level for play took: 0.001679
+[2018.04.11-04.11.49:334][802]LogBlueprintUserMessages: [JsonReader_24] -1
+[2018.04.11-04.11.49:340][802]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.565
+[2018.04.11-04.11.49:463][803]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080793 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.11.51:300][927]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.11.58:316][512]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.11.58:355][512]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.11.58:359][512]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.11.58:685][512]LogPlayLevel: PlayLevel: Blueprint regeneration took 330 ms (1 blueprints)
+[2018.04.11-04.11.58:686][512]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:11:58 PM)
+[2018.04.11-04.11.58:686][512]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.11.58:687][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001214s)
+[2018.04.11-04.11.58:688][512]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.11.58:688][512]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.04.11-04.11.58:689][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002635s)
+[2018.04.11-04.11.58:735][512]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.11.58:749][512]LogInit: FAudioDevice initialized.
+[2018.04.11-04.11.58:808][512]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.11.58:810][512]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.11.58
+[2018.04.11-04.11.58:811][512]LogWorld: Bringing up level for play took: 0.001780
+[2018.04.11-04.11.58:813][512]LogBlueprintUserMessages: [JsonReader_24] -1
+[2018.04.11-04.11.58:819][512]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.045
+[2018.04.11-04.11.58:929][513]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079688 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.11.59:727][565]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.12.03:976][908]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.12.04:017][908]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.12.04:020][908]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.12.04:359][908]LogPlayLevel: PlayLevel: Blueprint regeneration took 342 ms (1 blueprints)
+[2018.04.11-04.12.04:359][908]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:12:04 PM)
+[2018.04.11-04.12.04:359][908]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.12.04:360][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001151s)
+[2018.04.11-04.12.04:361][908]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.12.04:361][908]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.04.11-04.12.04:361][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002146s)
+[2018.04.11-04.12.04:405][908]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.12.04:419][908]LogInit: FAudioDevice initialized.
+[2018.04.11-04.12.04:478][908]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.12.04:480][908]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.12.04
+[2018.04.11-04.12.04:481][908]LogWorld: Bringing up level for play took: 0.001789
+[2018.04.11-04.12.04:483][908]LogBlueprintUserMessages: [JsonReader_24] -1
+[2018.04.11-04.12.04:489][908]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.286
+[2018.04.11-04.12.04:589][909]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080032 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.12.05:574][973]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.12.49:722][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.12.49:766][599]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.12.49:770][599]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.12.50:109][599]LogPlayLevel: PlayLevel: Blueprint regeneration took 343 ms (1 blueprints)
+[2018.04.11-04.12.50:110][599]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:12:50 PM)
+[2018.04.11-04.12.50:110][599]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.12.50:111][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001185s)
+[2018.04.11-04.12.50:112][599]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.12.50:112][599]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.04.11-04.12.50:112][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002350s)
+[2018.04.11-04.12.50:162][599]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.12.50:176][599]LogInit: FAudioDevice initialized.
+[2018.04.11-04.12.50:233][599]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.12.50:235][599]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.12.50
+[2018.04.11-04.12.50:236][599]LogWorld: Bringing up level for play took: 0.001992
+[2018.04.11-04.12.50:238][599]LogBlueprintUserMessages: [JsonReader_24] -1
+[2018.04.11-04.12.50:245][599]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.47
+[2018.04.11-04.12.50:367][600]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082897 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.12.52:436][726]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.13.26:508][416]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.13.26:548][416]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.13.26:551][416]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.13.26:888][416]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.04.11-04.13.26:888][416]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:13:26 PM)
+[2018.04.11-04.13.26:889][416]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.13.26:890][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2018.04.11-04.13.26:890][416]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.13.26:891][416]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.04.11-04.13.26:891][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002156s)
+[2018.04.11-04.13.26:941][416]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.13.26:956][416]LogInit: FAudioDevice initialized.
+[2018.04.11-04.13.27:022][416]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.13.27:024][416]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.13.27
+[2018.04.11-04.13.27:025][416]LogWorld: Bringing up level for play took: 0.002694
+[2018.04.11-04.13.27:027][416]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.13.27:034][416]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.259
+[2018.04.11-04.13.27:142][417]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079283 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.13.28:975][542]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.14.28:298][480]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.14.28:337][480]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.14.28:341][480]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.14.28:685][480]LogPlayLevel: PlayLevel: Blueprint regeneration took 348 ms (1 blueprints)
+[2018.04.11-04.14.28:685][480]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:14:28 PM)
+[2018.04.11-04.14.28:685][480]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.14.28:687][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.04.11-04.14.28:687][480]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.14.28:688][480]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.04.11-04.14.28:688][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002254s)
+[2018.04.11-04.14.28:733][480]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.14.28:748][480]LogInit: FAudioDevice initialized.
+[2018.04.11-04.14.28:810][480]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.14.28:813][480]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.14.28
+[2018.04.11-04.14.28:814][480]LogWorld: Bringing up level for play took: 0.003263
+[2018.04.11-04.14.28:817][480]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.14.28:823][480]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.048
+[2018.04.11-04.14.28:934][481]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080202 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.14.30:790][606]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.14.37:687][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.14.37:726][134]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.14.37:730][134]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.14.38:061][134]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2018.04.11-04.14.38:062][134]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:14:38 PM)
+[2018.04.11-04.14.38:062][134]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.14.38:063][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001224s)
+[2018.04.11-04.14.38:064][134]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.14.38:064][134]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.04.11-04.14.38:065][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002515s)
+[2018.04.11-04.14.38:112][134]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.14.38:126][134]LogInit: FAudioDevice initialized.
+[2018.04.11-04.14.38:182][134]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.14.38:185][134]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.14.38
+[2018.04.11-04.14.38:186][134]LogWorld: Bringing up level for play took: 0.001849
+[2018.04.11-04.14.38:188][134]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.14.38:188][134]LogBlueprintUserMessages: [JsonReader_24] Hello
+[2018.04.11-04.14.38:194][134]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.419
+[2018.04.11-04.14.38:310][135]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080722 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.14.39:728][224]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.15.39:963][833]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.15.40:008][833]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.15.40:014][833]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.15.40:361][833]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (1 blueprints)
+[2018.04.11-04.15.40:361][833]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:15:40 PM)
+[2018.04.11-04.15.40:361][833]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.15.40:363][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2018.04.11-04.15.40:364][833]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.15.40:364][833]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.04.11-04.15.40:364][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002793s)
+[2018.04.11-04.15.40:417][833]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.15.40:432][833]LogInit: FAudioDevice initialized.
+[2018.04.11-04.15.40:484][833]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.15.40:487][833]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.15.40
+[2018.04.11-04.15.40:487][833]LogWorld: Bringing up level for play took: 0.001983
+[2018.04.11-04.15.40:506][833]LogBlueprintUserMessages: [JsonReader_24] Meh
+[2018.04.11-04.15.40:506][833]LogBlueprintUserMessages: [JsonReader_24] Content
+[2018.04.11-04.15.40:512][833]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.263
+[2018.04.11-04.15.40:625][834]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081887 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.15.41:736][903]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.16.02:505][520]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.16.02:549][520]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.16.02:553][520]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.16.02:889][520]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.04.11-04.16.02:889][520]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:16:02 PM)
+[2018.04.11-04.16.02:889][520]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.16.02:891][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001281s)
+[2018.04.11-04.16.02:891][520]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.16.02:891][520]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.04.11-04.16.02:892][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002158s)
+[2018.04.11-04.16.02:937][520]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.16.02:951][520]LogInit: FAudioDevice initialized.
+[2018.04.11-04.16.03:011][520]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.16.03:013][520]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.16.03
+[2018.04.11-04.16.03:014][520]LogWorld: Bringing up level for play took: 0.001956
+[2018.04.11-04.16.03:016][520]LogBlueprintUserMessages: [JsonReader_24] {}
+[2018.04.11-04.16.03:022][520]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.247
+[2018.04.11-04.16.03:133][521]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081049 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.16.05:090][653]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.16.30:356][796]LogSavePackage: Save=13.61ms
+[2018.04.11-04.16.30:356][796]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/2DTestWorld_Auto38F3E2F26477A8357FF1E0297BAF50878.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto3.umap'
+[2018.04.11-04.16.30:365][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto3.umap
+[2018.04.11-04.16.30:462][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/2DTestWorld' took 0.271
+[2018.04.11-04.16.30:462][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2018.04.11-04.16.30:471][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Blue_BP] ([1] browsable assets)...
+[2018.04.11-04.16.30:471][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Blue_BP]
+[2018.04.11-04.16.30:699][796]LogSavePackage: Save=157.44ms
+[2018.04.11-04.16.30:699][796]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BP_Auto3F06E6C184CBABA9E81052292B5D1BE6C.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto3.uasset'
+[2018.04.11-04.16.30:750][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/BP/Blue_BP_Auto3.uasset
+[2018.04.11-04.16.30:797][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/DialogueSystem/JsonReader] ([1] browsable assets)...
+[2018.04.11-04.16.30:797][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/DialogueSystem/JsonReader]
+[2018.04.11-04.16.30:887][796]LogSavePackage: Save=20.50ms
+[2018.04.11-04.16.30:887][796]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReader_Auto39CFE97C44A28BF779FE39D89F6770B9A.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto3.uasset'
+[2018.04.11-04.16.30:914][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto3.uasset
+[2018.04.11-04.16.30:914][796]LogFileHelpers: Auto-saving content packages took 0.450
+[2018.04.11-04.17.34:291][ 23]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.17.34:332][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.17.34:337][ 23]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.17.34:681][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 349 ms (1 blueprints)
+[2018.04.11-04.17.34:681][ 23]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:17:34 PM)
+[2018.04.11-04.17.34:682][ 23]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.17.34:683][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001203s)
+[2018.04.11-04.17.34:683][ 23]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.17.34:684][ 23]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.04.11-04.17.34:684][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002179s)
+[2018.04.11-04.17.34:731][ 23]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.17.34:746][ 23]LogInit: FAudioDevice initialized.
+[2018.04.11-04.17.34:804][ 23]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.17.34:807][ 23]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.17.34
+[2018.04.11-04.17.34:808][ 23]LogWorld: Bringing up level for play took: 0.003080
+[2018.04.11-04.17.34:810][ 23]LogBlueprintUserMessages: [JsonReader_24] {}
+[2018.04.11-04.17.34:816][ 23]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.042
+[2018.04.11-04.17.34:918][ 24]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079613 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.17.36:703][143]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.17.44:264][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.17.44:304][736]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.17.44:308][736]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.17.44:643][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 339 ms (1 blueprints)
+[2018.04.11-04.17.44:643][736]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:17:44 PM)
+[2018.04.11-04.17.44:644][736]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.17.44:645][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2018.04.11-04.17.44:645][736]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.17.44:646][736]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.04.11-04.17.44:646][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002540s)
+[2018.04.11-04.17.44:692][736]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.17.44:706][736]LogInit: FAudioDevice initialized.
+[2018.04.11-04.17.44:759][736]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.17.44:761][736]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.17.44
+[2018.04.11-04.17.44:762][736]LogWorld: Bringing up level for play took: 0.002087
+[2018.04.11-04.17.44:764][736]LogBlueprintUserMessages: [JsonReader_24] {
+}
+[2018.04.11-04.17.44:770][736]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.005
+[2018.04.11-04.17.44:882][737]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080240 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.17.46:832][867]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.20.30:919][430]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.20.30:957][430]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.20.30:961][430]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.20.31:302][430]LogPlayLevel: PlayLevel: Blueprint regeneration took 345 ms (1 blueprints)
+[2018.04.11-04.20.31:302][430]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:20:31 PM)
+[2018.04.11-04.20.31:302][430]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.20.31:304][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2018.04.11-04.20.31:305][430]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.20.31:305][430]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.04.11-04.20.31:305][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002614s)
+[2018.04.11-04.20.31:349][430]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.20.31:364][430]LogInit: FAudioDevice initialized.
+[2018.04.11-04.20.31:419][430]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.20.31:421][430]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.20.31
+[2018.04.11-04.20.31:422][430]LogWorld: Bringing up level for play took: 0.001942
+[2018.04.11-04.20.31:441][430]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.666
+[2018.04.11-04.20.31:553][431]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079946 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.20.33:380][554]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.21.09:606][525]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.21.09:645][525]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.21.09:649][525]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.21.09:987][525]LogPlayLevel: PlayLevel: Blueprint regeneration took 341 ms (1 blueprints)
+[2018.04.11-04.21.09:987][525]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:21:09 PM)
+[2018.04.11-04.21.09:987][525]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.21.09:989][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2018.04.11-04.21.09:989][525]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.21.09:989][525]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.04.11-04.21.09:990][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002260s)
+[2018.04.11-04.21.10:040][525]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.21.10:054][525]LogInit: FAudioDevice initialized.
+[2018.04.11-04.21.10:108][525]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.21.10:110][525]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.21.10
+[2018.04.11-04.21.10:111][525]LogWorld: Bringing up level for play took: 0.001868
+[2018.04.11-04.21.10:119][525]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.345
+[2018.04.11-04.21.10:228][526]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080285 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.21.11:452][603]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.22.21:462][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.22.21:500][681]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.22.21:503][681]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.22.21:835][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2018.04.11-04.22.21:836][681]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:22:21 PM)
+[2018.04.11-04.22.21:836][681]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.22.21:837][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001166s)
+[2018.04.11-04.22.21:838][681]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.22.21:838][681]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.04.11-04.22.21:838][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002119s)
+[2018.04.11-04.22.21:888][681]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.22.21:903][681]LogInit: FAudioDevice initialized.
+[2018.04.11-04.22.21:961][681]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.22.21:963][681]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.22.21
+[2018.04.11-04.22.21:964][681]LogWorld: Bringing up level for play took: 0.001995
+[2018.04.11-04.22.21:966][681]LogBlueprintUserMessages: [JsonReader_24] {"created_at": "2018-04-10T15:59:43Z","title": "Panda Heist","url_key": "jb29","updated_at": "2018-04-10T21:50:17Z","data":{"editorData":{"authorName": "Anonymous","textSize": 0,"libraryVisible": false,"playPoint": "nooo"},"allowCheckpoints": false,"stitches":{"pandaGiveMeAllYo":{"content": ["*-Panda-* Give Me all your money",{"option": "No fuck you","linkPath": "illKickYourButtT","ifConditions": null,"notIfConditions": null},{"option": "Ah uh Ah","linkPath": "thatsRightGiveIt","ifConditions": null,"notIfConditions": null},{"option": "Actually how about no","linkPath": "illCallThePolice","ifConditions": null,"notIfConditions": null},{"option": "Shut it chucklefucks","linkPath": "wowUrAMeanie","ifConditions": null,"notIfConditions": null},{"pageNum": 1},{"pageLabel": " Panda"}]},"getsSword":{"content": ["Gets sword",{"divert": "illKickYourButtT"},{"flagName": "gotsword"}]},"thatsRightGiveIt":{"content": ["Thats right give it all"]},"illKickYourButtT":{"content": ["Ill kick your butt then",{"option": "Wait, I'll Go get my sword","linkPath": "getsSword","ifConditions": null,"notIfConditions": [{"notIfCondition": "gotsword"}]},{"option": "Shit I don't have a sword","linkPath": "uDED","ifConditions": null,"notIfConditions": null},{"option": "Got my sword get fucked","linkPath": "nooo","ifConditions": [{"ifCondition": "gotsword"}],"notIfConditions": null}]},"wowUrAMeanie":{"content": ["Wow ur a meanie"]},"illCallThePolice":{"content": ["Ill call the police if you don't!"]},"nooo":{"content": ["Nooo"]},"uDED":{"content": ["U DED"]}},"initial": "pandaGiveMeAllYo","optionMirroring": true}}
+[2018.04.11-04.22.21:973][681]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.198
+[2018.04.11-04.22.22:090][682]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079318 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.22.24:941][865]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.24.12:563][594]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.24.12:603][594]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.24.12:607][594]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.24.12:942][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 339 ms (1 blueprints)
+[2018.04.11-04.24.12:942][594]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:24:12 PM)
+[2018.04.11-04.24.12:943][594]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.24.12:944][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001248s)
+[2018.04.11-04.24.12:945][594]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.24.12:945][594]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.04.11-04.24.12:945][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002206s)
+[2018.04.11-04.24.12:995][594]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.24.13:010][594]LogInit: FAudioDevice initialized.
+[2018.04.11-04.24.13:068][594]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.24.13:070][594]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.24.13
+[2018.04.11-04.24.13:071][594]LogWorld: Bringing up level for play took: 0.001882
+[2018.04.11-04.24.13:072][594]LogBlueprintUserMessages: [JsonReader_24] data
+[2018.04.11-04.24.13:078][594]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.304
+[2018.04.11-04.24.13:193][595]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079734 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.24.16:970][857]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.24.18:062][940]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.24.18:103][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-04.24.18:103][940]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:24:18 PM)
+[2018.04.11-04.24.18:104][940]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.24.18:105][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001233s)
+[2018.04.11-04.24.18:105][940]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.24.18:106][940]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2018.04.11-04.24.18:106][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002497s)
+[2018.04.11-04.24.18:161][940]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.24.18:175][940]LogInit: FAudioDevice initialized.
+[2018.04.11-04.24.18:231][940]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.24.18:233][940]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.24.18
+[2018.04.11-04.24.18:233][940]LogWorld: Bringing up level for play took: 0.001824
+[2018.04.11-04.24.18:235][940]LogBlueprintUserMessages: [JsonReader_24] data
+[2018.04.11-04.24.18:242][940]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.533
+[2018.04.11-04.24.20:569][ 86]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.26.22:221][ 33]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.26.22:251][ 33]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.26.22:256][ 33]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.26.22:287][ 33]LogBlueprint: Error: [Compiler JsonReader] The current value of the ' Map ' pin is invalid: Map inputs (like 'Map') must have an input wired into them (try connecting a MakeMap node).
+[2018.04.11-04.26.22:289][ 33]LogBlueprint: Warning: [Compiler JsonReader] [3317.69] Compile of JsonReader failed. 1 Fatal Issue(s) 0 Warning(s) [in 33 ms] (/Game/Data/DialogueSystem/JsonReader.JsonReader)
+[2018.04.11-04.26.22:470][ 33]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2018.04.11-04.26.22:470][ 33]BlueprintLog: Blueprint JsonReader failed to compile
+[2018.04.11-04.26.24:271][ 33]LogSlate: Window 'Message' being destroyed
+[2018.04.11-04.26.41:027][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.26.41:067][364]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.26.41:072][364]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.26.41:221][364]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2018.04.11-04.26.41:222][364]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:26:41 PM)
+[2018.04.11-04.26.41:222][364]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.26.41:223][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001356s)
+[2018.04.11-04.26.41:224][364]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.26.41:224][364]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.04.11-04.26.41:224][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002392s)
+[2018.04.11-04.26.41:270][364]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.26.41:285][364]LogInit: FAudioDevice initialized.
+[2018.04.11-04.26.41:340][364]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.26.41:342][364]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.26.41
+[2018.04.11-04.26.41:343][364]LogWorld: Bringing up level for play took: 0.001925
+[2018.04.11-04.26.41:345][364]LogBlueprintUserMessages: [JsonReader_24] data
+[2018.04.11-04.26.41:345][364]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-04.26.41:351][364]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.576
+[2018.04.11-04.26.41:455][365]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081128 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.26.45:228][598]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.27.16:014][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-04.27.16:059][964]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-04.27.16:063][964]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-04.27.16:413][964]LogPlayLevel: PlayLevel: Blueprint regeneration took 353 ms (1 blueprints)
+[2018.04.11-04.27.16:413][964]PIE: New page: PIE session: 2DTestWorld (Apr 10, 2018, 10:27:16 PM)
+[2018.04.11-04.27.16:413][964]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-04.27.16:414][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001339s)
+[2018.04.11-04.27.16:415][964]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-04.27.16:415][964]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.04.11-04.27.16:415][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002458s)
+[2018.04.11-04.27.16:465][964]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-04.27.16:480][964]LogInit: FAudioDevice initialized.
+[2018.04.11-04.27.16:534][964]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-04.27.16:536][964]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-01.27.16
+[2018.04.11-04.27.16:537][964]LogWorld: Bringing up level for play took: 0.002130
+[2018.04.11-04.27.16:539][964]LogBlueprintUserMessages: [JsonReader_24] {}
+[2018.04.11-04.27.16:546][964]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.229
+[2018.04.11-04.27.16:654][965]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080053 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-04.27.18:296][ 71]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-04.28.55:301][193]LogSavePackage: Save=13.87ms
+[2018.04.11-04.28.55:301][193]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/2DTestWorld_Auto4467DF9A646DD8EA0ECF43AAB15E83916.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto4.umap'
+[2018.04.11-04.28.55:310][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto4.umap
+[2018.04.11-04.28.55:317][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/2DTestWorld' took 0.146
+[2018.04.11-04.28.55:317][193]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.146
+[2018.04.11-04.28.55:326][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/DialogueSystem/JsonReader] ([1] browsable assets)...
+[2018.04.11-04.28.55:326][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/DialogueSystem/JsonReader]
+[2018.04.11-04.28.55:421][193]LogSavePackage: Save=19.88ms
+[2018.04.11-04.28.55:421][193]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReader_Auto470D529C2470406ED0B4880B4E2832621.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto4.uasset'
+[2018.04.11-04.28.55:430][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto4.uasset
+[2018.04.11-04.28.55:430][193]LogFileHelpers: Auto-saving content packages took 0.111
+[2018.04.11-04.36.13:817][599]LogSlate: Window 'JsonReader*' being destroyed
+[2018.04.11-04.36.13:822][599]LogSlate: Window 'JsonReader*' being destroyed
+[2018.04.11-04.36.16:220][705]LogSlate: Window 'Save Content' being destroyed
+[2018.04.11-04.36.16:248][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Blue_BP" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset" SILENT=true
+[2018.04.11-04.36.16:483][705]LogSavePackage: Save=157.23ms
+[2018.04.11-04.36.16:483][705]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Blue_BPAC0B24324B113E23F74802B5561F75DF.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset'
+[2018.04.11-04.36.16:502][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/BP/Blue_BP.uasset
+[2018.04.11-04.36.16:603][705]LogSavePackage: Save=18.85ms
+[2018.04.11-04.36.16:603][705]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReaderF4CA61B544410F55D160D188A69B3A92.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset'
+[2018.04.11-04.36.16:623][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset
+[2018.04.11-04.36.22:821][705]LogSavePackage: Save=13.86ms
+[2018.04.11-04.36.22:821][705]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/2DTestWorld658519614F992FBDCEF91D948B36B918.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap'
+[2018.04.11-04.36.22:841][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap
+[2018.04.11-04.36.22:952][705]LogFileHelpers: Saving map '2DTestWorld' took 6.264
+[2018.04.11-04.36.23:311][705]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.11-04.36.23:535][705]LogSlate: Window 'SotW - Unreal Editor' being destroyed
+[2018.04.11-04.36.23:536][705]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-04.36.23:536][705]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-04.36.24:207][706]Cmd: QUIT_EDITOR
+[2018.04.11-04.36.25:035][706]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.11-04.36.25:042][706]LogExit: Preparing to exit.
+[2018.04.11-04.36.27:265][706]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' was aborted.
+[2018.04.11-04.36.27:526][706]LogExit: Editor shut down
+[2018.04.11-04.36.27:560][706]LogExit: Transaction tracking system shut down
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' was aborted.
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Marketplace/DlgSystem/Content/' was aborted.
+[2018.04.11-04.36.27:765][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.11-04.36.27:766][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.11-04.36.27:766][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.11-04.36.27:766][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.11-04.36.32:736][706]LogExit: Object subsystem successfully closed.
+[2018.04.11-04.36.33:739][706]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.11-04.36.34:052][706]LogD3D11RHI: Shutdown
+[2018.04.11-04.36.34:052][706]LogD3D11RHI: CleanupD3DDevice
+[2018.04.11-04.36.34:215][706]LogD3D11RHI: ~FD3D11DynamicRHI

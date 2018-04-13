@@ -1,0 +1,1328 @@
+﻿Log file open, 04/11/18 19:01:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SotW
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2138916040) SRandInit(-2138916040).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.224149
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/JSONParser/Binaries/Win64/UE4Editor-JSONParser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin JSONParser
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.469s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.107:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.11-22.01.22:545][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.11-22.01.22:545][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.11-22.01.22:568][  0]LogInit: Computer: DESKTOP-J55RO49
+[2018.04.11-22.01.22:568][  0]LogInit: User: Franco
+[2018.04.11-22.01.22:568][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.11-22.01.22:568][  0]LogInit: High frequency timer resolution =3.134210 MHz
+[2018.04.11-22.01.22:568][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.11-22.01.22:568][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.11-22.01.22:568][  0]LogMemory: Process Physical Memory: 274.93 MB used, 274.93 MB peak
+[2018.04.11-22.01.22:568][  0]LogMemory: Process Virtual Memory: 264.09 MB used, 264.09 MB peak
+[2018.04.11-22.01.22:568][  0]LogMemory: Physical Memory: 4130.03 MB used,  4014.40 MB free, 8144.43 MB total
+[2018.04.11-22.01.22:568][  0]LogMemory: Virtual Memory: 672.18 MB used,  4014.40 MB free, 134217728.00 MB total
+[2018.04.11-22.01.22:618][  0]LogInit: Using OS detected language (en-US).
+[2018.04.11-22.01.22:618][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.11-22.01.22:626][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.11-22.01.23:058][  0]LogStreaming: Display: Took  0.441s to EndInitTextLocalization.
+[2018.04.11-22.01.23:059][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.11-22.01.23:107][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.11-22.01.23:107][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.11-22.01.23:624][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.11-22.01.23:645][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
+[2018.04.11-22.01.23:645][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.04.11-22.01.23:649][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.11-22.01.23:649][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.11-22.01.23:649][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.11-22.01.23:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.11-22.01.23:657][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.11-22.01.23:657][  0]LogWindows: EnumDisplayDevices:
+[2018.04.11-22.01.23:657][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
+[2018.04.11-22.01.23:657][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
+[2018.04.11-22.01.23:657][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-22.01.23:658][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-22.01.23:658][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-22.01.23:658][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.11-22.01.23:658][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.11-22.01.23:658][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
+[2018.04.11-22.01.23:658][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.11-22.01.23:658][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.11-22.01.23:658][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
+[2018.04.11-22.01.23:703][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.11-22.01.23:718][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.04.11-22.01.23:721][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Intermediate/Shaders/WorkingDirectory/9612/).
+[2018.04.11-22.01.23:721][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/2F7AB71E428FD1D5B93539B29B9C19C2/'.
+[2018.04.11-22.01.24:091][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.11-22.01.24:113][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.11-22.01.24:136][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.11-22.01.24:158][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.11-22.01.24:181][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.11-22.01.24:203][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.11-22.01.24:227][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.11-22.01.24:251][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.11-22.01.24:263][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.11-22.01.24:283][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.11-22.01.24:304][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.11-22.01.24:324][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.11-22.01.24:344][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.11-22.01.24:364][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.11-22.01.24:384][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.11-22.01.24:424][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.11-22.01.24:424][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.11-22.01.24:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.11-22.01.24:450][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.11-22.01.24:499][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.11-22.01.24:518][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.11-22.01.24:538][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.11-22.01.24:557][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.11-22.01.24:577][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.11-22.01.24:597][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.11-22.01.24:597][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.11-22.01.24:899][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.11-22.01.24:900][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.11-22.01.24:900][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.11-22.01.26:174][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.11-22.01.26:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.11-22.01.26:285][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.11-22.01.26:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.11-22.01.26:313][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.11-22.01.26:313][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.11-22.01.26:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.11-22.01.26:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.11-22.01.26:622][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.04.11-22.01.27:147][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.11-22.01.27:398][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.11-22.01.27:404][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.11-22.01.27:404][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.11-22.01.27:404][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.11-22.01.27:404][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.11-22.01.27:404][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.11-22.01.27:481][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.04.11-22.01.28:357][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.306460 seconds
+[2018.04.11-22.01.28:365][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.11-22.01.28:365][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.11-22.01.28:365][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.11-22.01.31:289][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `57EFF35245A3C578F1A564A80A21C320` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.11-22.01.31:291][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.11-22.01.31:354][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.11-22.01.31:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.11-22.01.32:361][  0]SourceControl: Source control is disabled
+[2018.04.11-22.01.32:362][  0]SourceControl: Source control is disabled
+[2018.04.11-22.01.32:420][  0]SourceControl: Source control is disabled
+[2018.04.11-22.01.32:476][  0]SourceControl: Source control is disabled
+[2018.04.11-22.01.33:839][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.11-22.01.34:267][  0]LogOcInput: OculusInput pre-init called
+[2018.04.11-22.01.34:510][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.11-22.01.34:540][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.11-22.01.34:541][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.11-22.01.34:541][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `BFA020804F6C5DB47DD10B95586CE9A9` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.11-22.01.34:545][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue`
+[2018.04.11-22.01.34:545][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `28AEE3224F1657A4322D8C92CD6E40BD` for Dialogue = `/Game/Data/DialogueSystem/NewDlgDialogue.NewDlgDialogue` because of new created Dialogue.
+[2018.04.11-22.01.34:545][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.11-22.01.34:627][  0]LogEngine: Initializing Engine...
+[2018.04.11-22.01.34:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.11-22.01.34:633][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.11-22.01.34:633][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.11-22.01.34:960][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.11-22.01.34:993][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.01.35:034][  0]LogInit: FAudioDevice initialized.
+[2018.04.11-22.01.35:277][  0]LogDerivedDataCache: Saved boot cache 0.24s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.11-22.01.35:294][  0]LogInit: Texture streaming: Enabled
+[2018.04.11-22.01.35:328][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.11-22.01.35:355][  0]LogInit: Transaction tracking system initialized
+[2018.04.11-22.01.35:410][  0]BlueprintLog: New page: Editor Load
+[2018.04.11-22.01.35:580][  0]LocalizationService: Localization service is disabled
+[2018.04.11-22.01.35:804][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.11-22.01.35:804][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.11-22.01.35:804][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.04.11-22.01.35:852][  0]LogConsoleResponse: Display: 
+[2018.04.11-22.01.36:138][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.11-22.01.36:139][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.11-22.01.36:139][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.11-22.01.36:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.11-22.01.36:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.11-22.01.36:438][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' took 0.02s
+[2018.04.11-22.01.37:369][  0]SourceControl: Source control is disabled
+[2018.04.11-22.01.37:529][  0]LogSlate: Took 0.000630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.11-22.02.03:509][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.04.11-22.02.03:510][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.03:510][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.03:533][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.03:533][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.05:264][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.04.11-22.02.05:265][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.05:265][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.05:298][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.05:298][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.02.05:299][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.04.11-22.02.05:299][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.11-22.02.05:542][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 242.132ms to complete.
+[2018.04.11-22.02.05:542][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.243
+[2018.04.11-22.02.05:666][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1630_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2330_0///####STATCAT_Advanced####
+[2018.04.11-22.02.05:666][  0]LogCollectionManager: Loaded 0 collections in 0.004223 seconds
+[2018.04.11-22.02.05:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Collections/' took 0.01s
+[2018.04.11-22.02.05:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Developers/Franco/Collections/' took 0.01s
+[2018.04.11-22.02.05:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Collections/' took 0.01s
+[2018.04.11-22.02.05:729][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.11-22.02.05:741][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2492 classes and 574 folders.
+[2018.04.11-22.02.05:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.11-22.02.05:917][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.11-22.02.05:926][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.11-22.02.05:948][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.11-22.02.05:954][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.11-22.02.06:075][  0]LogRenderer: Reallocating scene render targets to support 808x376 Format 10 NumSamples 1 (Frame:1).
+[2018.04.11-22.02.06:121][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.11-22.02.06:238][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.11-22.02.06:238][  0]LogLoad: (Engine Initialization) Total time: 50.25 seconds
+[2018.04.11-22.02.06:238][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.11-22.02.06:270][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.11-22.02.06:308][  1]LogAssetRegistry: Asset discovery search completed in 39.7085 seconds
+[2018.04.11-22.02.06:310][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.11-22.02.06:310][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.04.11-22.02.07:289][106]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.11-22.02.07:407][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.11-22.02.08:037][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.04.11-22.02.09:092][129]LogSlate: Took 0.000679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.11-22.02.23:250][188]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.02.23:284][188]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.02.23:293][188]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.02.23:507][188]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2018.04.11-22.02.23:508][188]PIE: New page: PIE session: Untitled_0 (Apr 11, 2018, 4:02:23 PM)
+[2018.04.11-22.02.23:508][188]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2018.04.11-22.02.23:509][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000877s)
+[2018.04.11-22.02.23:510][188]LogAIModule: Creating AISystem for world Untitled
+[2018.04.11-22.02.23:510][188]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.04.11-22.02.23:510][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001754s)
+[2018.04.11-22.02.23:554][188]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.02.23:569][188]LogInit: FAudioDevice initialized.
+[2018.04.11-22.02.23:865][188]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.02.23:867][188]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2018.04.11-19.02.23
+[2018.04.11-22.02.23:867][188]LogWorld: Bringing up level for play took: 0.000577
+[2018.04.11-22.02.23:875][188]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.11-22.02.23:883][188]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.39
+[2018.04.11-22.02.24:002][188]LogRenderer: Reallocating scene render targets to support 1452x936 Format 10 NumSamples 1 (Frame:1).
+[2018.04.11-22.02.25:585][281]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.02.28:073][479]LogSlate: Window 'JsonReader*' being destroyed
+[2018.04.11-22.02.31:668][876]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.02.35:353][876]LogSlate: Window 'Save Content' being destroyed
+[2018.04.11-22.02.35:478][876]LogSavePackage: Save=34.40ms
+[2018.04.11-22.02.35:479][876]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReader538464374D734C5E966F2E94164F23FF.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset'
+[2018.04.11-22.02.35:499][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset
+[2018.04.11-22.02.35:501][876]Cmd: MAP LOAD FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.11-22.02.35:502][876]LightingResults: New page: Lighting Build
+[2018.04.11-22.02.35:507][876]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.04.11-22.02.35:508][876]LoadErrors: New page: Loading map: 2DTestWorld.umap
+[2018.04.11-22.02.35:508][876]MapCheck: New page: Map Check
+[2018.04.11-22.02.35:508][876]LightingResults: New page: Lighting Build
+[2018.04.11-22.02.35:536][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.11-22.02.35:606][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.11-22.02.35:860][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 254.002ms to complete.
+[2018.04.11-22.02.35:864][876]LogFileHelpers: Loading map '2DTestWorld' took 0.365
+[2018.04.11-22.02.38:251][136]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.02.38:290][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.02.38:291][136]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:02:38 PM)
+[2018.04.11-22.02.38:291][136]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.02.38:292][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001176s)
+[2018.04.11-22.02.38:293][136]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.02.38:293][136]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.04.11-22.02.38:293][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002107s)
+[2018.04.11-22.02.38:336][136]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.02.38:351][136]LogInit: FAudioDevice initialized.
+[2018.04.11-22.02.38:404][136]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.02.38:407][136]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.02.38
+[2018.04.11-22.02.38:408][136]LogWorld: Bringing up level for play took: 0.003456
+[2018.04.11-22.02.38:411][136]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:
+[2018.04.11-22.02.38:415][136]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.921
+[2018.04.11-22.02.39:486][212]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.03.59:738][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.03.59:765][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.03.59:774][596]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.04.00:068][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 303 ms (1 blueprints)
+[2018.04.11-22.04.00:068][596]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:04:00 PM)
+[2018.04.11-22.04.00:068][596]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.04.00:070][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2018.04.11-22.04.00:070][596]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.04.00:071][596]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.04.11-22.04.00:071][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002131s)
+[2018.04.11-22.04.00:114][596]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.04.00:133][596]LogInit: FAudioDevice initialized.
+[2018.04.11-22.04.00:181][596]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.04.00:183][596]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.04.00
+[2018.04.11-22.04.00:184][596]LogWorld: Bringing up level for play took: 0.001866
+[2018.04.11-22.04.00:185][596]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.00:187][596]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.693
+[2018.04.11-22.04.00:306][597]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.04.02:530][770]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.04.25:494][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.04.25:532][437]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.04.25:542][437]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.04.25:831][437]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (1 blueprints)
+[2018.04.11-22.04.25:831][437]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:04:25 PM)
+[2018.04.11-22.04.25:832][437]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.04.25:833][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001105s)
+[2018.04.11-22.04.25:833][437]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.04.25:833][437]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2018.04.11-22.04.25:833][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001941s)
+[2018.04.11-22.04.25:878][437]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.04.25:893][437]LogInit: FAudioDevice initialized.
+[2018.04.11-22.04.25:940][437]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.04.25:943][437]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.04.25
+[2018.04.11-22.04.25:944][437]LogWorld: Bringing up level for play took: 0.003234
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:947][437]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.04.25:949][437]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.456
+[2018.04.11-22.04.26:062][438]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078923 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.04.26:842][498]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.04.56:735][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.04.56:771][173]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.04.56:779][173]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.04.57:054][173]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2018.04.11-22.04.57:055][173]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:04:57 PM)
+[2018.04.11-22.04.57:055][173]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.04.57:056][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001093s)
+[2018.04.11-22.04.57:057][173]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.04.57:057][173]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.04.11-22.04.57:057][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002068s)
+[2018.04.11-22.04.57:096][173]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.04.57:110][173]LogInit: FAudioDevice initialized.
+[2018.04.11-22.04.57:156][173]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.04.57:158][173]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.04.57
+[2018.04.11-22.04.57:159][173]LogWorld: Bringing up level for play took: 0.002015
+[2018.04.11-22.04.57:162][173]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.332
+[2018.04.11-22.04.57:273][174]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091518 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.04.58:603][276]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.05.19:142][ 21]BlueprintLog: New page: Compile JsonReader
+[2018.04.11-22.05.22:271][356]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.05.22:305][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.05.22:306][356]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:05:22 PM)
+[2018.04.11-22.05.22:306][356]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.05.22:307][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001061s)
+[2018.04.11-22.05.22:307][356]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.05.22:308][356]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.04.11-22.05.22:308][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002124s)
+[2018.04.11-22.05.22:348][356]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.05.22:361][356]LogInit: FAudioDevice initialized.
+[2018.04.11-22.05.22:409][356]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.05.22:411][356]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.05.22
+[2018.04.11-22.05.22:412][356]LogWorld: Bringing up level for play took: 0.001926
+[2018.04.11-22.05.22:416][356]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.922
+[2018.04.11-22.05.23:754][451]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.05.44:832][953]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.05.44:858][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.05.44:866][953]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.05.45:144][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 286 ms (1 blueprints)
+[2018.04.11-22.05.45:144][953]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:05:45 PM)
+[2018.04.11-22.05.45:144][953]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.05.45:145][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2018.04.11-22.05.45:146][953]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.05.45:146][953]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.04.11-22.05.45:146][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001936s)
+[2018.04.11-22.05.45:186][953]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.05.45:200][953]LogInit: FAudioDevice initialized.
+[2018.04.11-22.05.45:244][953]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.05.45:247][953]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.05.45
+[2018.04.11-22.05.45:247][953]LogWorld: Bringing up level for play took: 0.002133
+[2018.04.11-22.05.45:249][953]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.45:251][953]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.243
+[2018.04.11-22.05.45:366][954]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.05.46:736][ 60]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.05.57:856][347]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.05.57:891][347]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.05.57:899][347]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.05.58:174][347]LogPlayLevel: PlayLevel: Blueprint regeneration took 282 ms (1 blueprints)
+[2018.04.11-22.05.58:174][347]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:05:58 PM)
+[2018.04.11-22.05.58:174][347]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.05.58:175][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001146s)
+[2018.04.11-22.05.58:176][347]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.05.58:176][347]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.04.11-22.05.58:176][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001945s)
+[2018.04.11-22.05.58:215][347]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.05.58:229][347]LogInit: FAudioDevice initialized.
+[2018.04.11-22.05.58:273][347]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.05.58:275][347]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.05.58
+[2018.04.11-22.05.58:276][347]LogWorld: Bringing up level for play took: 0.001713
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:278][347]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.05.58:280][347]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.786
+[2018.04.11-22.05.58:385][348]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.06.01:729][616]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.06.02:601][712]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.06.02:636][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.06.02:636][712]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:06:02 PM)
+[2018.04.11-22.06.02:636][712]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.06.02:637][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001117s)
+[2018.04.11-22.06.02:638][712]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.06.02:638][712]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.04.11-22.06.02:638][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002083s)
+[2018.04.11-22.06.02:677][712]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.06.02:690][712]LogInit: FAudioDevice initialized.
+[2018.04.11-22.06.02:739][712]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.06.02:741][712]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.06.02
+[2018.04.11-22.06.02:742][712]LogWorld: Bringing up level for play took: 0.002012
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:744][712]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.06.02:746][712]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.748
+[2018.04.11-22.06.05:829][952]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.07.25:828][483]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.11-22.07.52:979][694]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.07.53:004][694]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.07.53:013][694]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.07.53:300][694]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2018.04.11-22.07.53:301][694]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:07:53 PM)
+[2018.04.11-22.07.53:301][694]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.07.53:302][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001148s)
+[2018.04.11-22.07.53:303][694]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.07.53:303][694]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2018.04.11-22.07.53:303][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002065s)
+[2018.04.11-22.07.53:343][694]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.07.53:357][694]LogInit: FAudioDevice initialized.
+[2018.04.11-22.07.53:405][694]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.07.53:407][694]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.07.53
+[2018.04.11-22.07.53:408][694]LogWorld: Bringing up level for play took: 0.001856
+[2018.04.11-22.07.53:410][694]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.07.53:412][694]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.082
+[2018.04.11-22.07.53:528][695]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.07.55:980][891]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.10.56:714][ 27]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.10.56:752][ 27]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.10.56:763][ 27]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.10.57:051][ 27]LogPlayLevel: PlayLevel: Blueprint regeneration took 299 ms (1 blueprints)
+[2018.04.11-22.10.57:051][ 27]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:10:57 PM)
+[2018.04.11-22.10.57:051][ 27]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.10.57:053][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001133s)
+[2018.04.11-22.10.57:053][ 27]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.10.57:053][ 27]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.04.11-22.10.57:054][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002039s)
+[2018.04.11-22.10.57:095][ 27]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.10.57:109][ 27]LogInit: FAudioDevice initialized.
+[2018.04.11-22.10.57:155][ 27]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.10.57:157][ 27]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.10.57
+[2018.04.11-22.10.57:158][ 27]LogWorld: Bringing up level for play took: 0.001843
+[2018.04.11-22.10.57:160][ 27]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.10.57:161][ 27]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.332
+[2018.04.11-22.10.57:277][ 28]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.10.58:996][163]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.12.26:510][315]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.12.26:547][315]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.12.26:557][315]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.12.26:844][315]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2018.04.11-22.12.26:844][315]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:12:26 PM)
+[2018.04.11-22.12.26:845][315]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.12.26:846][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001189s)
+[2018.04.11-22.12.26:846][315]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.12.26:847][315]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.04.11-22.12.26:847][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002179s)
+[2018.04.11-22.12.26:887][315]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.12.26:901][315]LogInit: FAudioDevice initialized.
+[2018.04.11-22.12.26:946][315]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.12.26:949][315]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.12.26
+[2018.04.11-22.12.26:949][315]LogWorld: Bringing up level for play took: 0.002074
+[2018.04.11-22.12.26:951][315]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.12.26:953][315]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.54
+[2018.04.11-22.12.27:070][316]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.12.29:274][492]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.12.34:914][154]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.12.34:952][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.12.34:952][154]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:12:34 PM)
+[2018.04.11-22.12.34:952][154]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.12.34:953][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001143s)
+[2018.04.11-22.12.34:954][154]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.12.34:954][154]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.04.11-22.12.34:954][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002051s)
+[2018.04.11-22.12.34:995][154]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.12.35:009][154]LogInit: FAudioDevice initialized.
+[2018.04.11-22.12.35:053][154]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.12.35:054][154]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.12.35
+[2018.04.11-22.12.35:055][154]LogWorld: Bringing up level for play took: 0.001837
+[2018.04.11-22.12.35:057][154]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.12.35:059][154]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.434
+[2018.04.11-22.12.41:466][653]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.12.54:132][136]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2018.04.11-22.13.12:306][274]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.13.12:332][274]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.13.12:342][274]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.13.12:630][274]LogPlayLevel: PlayLevel: Blueprint regeneration took 297 ms (1 blueprints)
+[2018.04.11-22.13.12:630][274]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:13:12 PM)
+[2018.04.11-22.13.12:630][274]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.13.12:631][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001116s)
+[2018.04.11-22.13.12:632][274]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.13.12:632][274]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.04.11-22.13.12:632][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001993s)
+[2018.04.11-22.13.12:672][274]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.13.12:686][274]LogInit: FAudioDevice initialized.
+[2018.04.11-22.13.12:728][274]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.13.12:730][274]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.13.12
+[2018.04.11-22.13.12:731][274]LogWorld: Bringing up level for play took: 0.001758
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:option
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:linkPath
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:option
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:linkPath
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:option
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:linkPath
+[2018.04.11-22.13.12:733][274]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:option
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:linkPath
+[2018.04.11-22.13.12:734][274]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:pageLabel
+[2018.04.11-22.13.12:735][274]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.242
+[2018.04.11-22.13.12:851][275]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.13.16:786][589]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.13.17:900][714]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.13.17:937][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.13.17:937][714]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:13:17 PM)
+[2018.04.11-22.13.17:937][714]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.13.17:939][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001320s)
+[2018.04.11-22.13.17:939][714]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.13.17:940][714]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.04.11-22.13.17:940][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002242s)
+[2018.04.11-22.13.17:980][714]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.13.17:993][714]LogInit: FAudioDevice initialized.
+[2018.04.11-22.13.18:039][714]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.13.18:041][714]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.13.18
+[2018.04.11-22.13.18:042][714]LogWorld: Bringing up level for play took: 0.001796
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:option
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:linkPath
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:option
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:linkPath
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:option
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:linkPath
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:option
+[2018.04.11-22.13.18:044][714]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:option
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:option
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:option
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:option
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:option
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:linkPath
+[2018.04.11-22.13.18:045][714]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:pageLabel
+[2018.04.11-22.13.18:046][714]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.553
+[2018.04.11-22.13.20:834][929]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.13.21:794][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.13.21:820][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.13.21:820][ 31]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:13:21 PM)
+[2018.04.11-22.13.21:820][ 31]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.13.21:822][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001156s)
+[2018.04.11-22.13.21:822][ 31]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.13.21:823][ 31]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.04.11-22.13.21:823][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002356s)
+[2018.04.11-22.13.21:863][ 31]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.13.21:876][ 31]LogInit: FAudioDevice initialized.
+[2018.04.11-22.13.21:923][ 31]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.13.21:925][ 31]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.13.21
+[2018.04.11-22.13.21:925][ 31]LogWorld: Bringing up level for play took: 0.001859
+[2018.04.11-22.13.21:927][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.13.21:927][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:option
+[2018.04.11-22.13.21:927][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:linkPath
+[2018.04.11-22.13.21:927][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:option
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:linkPath
+[2018.04.11-22.13.21:928][ 31]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:pageLabel
+[2018.04.11-22.13.21:932][ 31]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.439
+[2018.04.11-22.13.24:546][235]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.13.25:237][304]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.13.25:262][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.13.25:262][304]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:13:25 PM)
+[2018.04.11-22.13.25:262][304]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.13.25:264][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2018.04.11-22.13.25:264][304]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.13.25:264][304]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.04.11-22.13.25:264][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.001936s)
+[2018.04.11-22.13.25:303][304]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.13.25:316][304]LogInit: FAudioDevice initialized.
+[2018.04.11-22.13.25:367][304]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.13.25:369][304]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.13.25
+[2018.04.11-22.13.25:370][304]LogWorld: Bringing up level for play took: 0.001757
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:1Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:2Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:3Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:4Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:5Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:6Dialogue:linkPath
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:option
+[2018.04.11-22.13.25:372][304]LogBlueprintUserMessages: [JsonReader_24] Index:7Dialogue:linkPath
+[2018.04.11-22.13.25:373][304]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:option
+[2018.04.11-22.13.25:373][304]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:linkPath
+[2018.04.11-22.13.25:373][304]LogBlueprintUserMessages: [JsonReader_24] Index:8Dialogue:pageLabel
+[2018.04.11-22.13.25:377][304]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.116
+[2018.04.11-22.13.27:592][477]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.14.12:196][181]LogSavePackage: Save=13.30ms
+[2018.04.11-22.14.12:196][181]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/2DTestWorld_Auto10DD606C94443162636E87B9111F15789.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto1.umap'
+[2018.04.11-22.14.12:205][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Map/2DTestWorld_Auto1.umap
+[2018.04.11-22.14.12:212][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/2DTestWorld' took 0.131
+[2018.04.11-22.14.12:212][181]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2018.04.11-22.14.12:220][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/DialogueSystem/JsonReader] ([1] browsable assets)...
+[2018.04.11-22.14.12:220][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/DialogueSystem/JsonReader]
+[2018.04.11-22.14.12:333][181]LogSavePackage: Save=39.21ms
+[2018.04.11-22.14.12:333][181]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReader_Auto1D9C1BBFA43A282E49BC83880892CB60C.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto1.uasset'
+[2018.04.11-22.14.12:342][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Autosaves/Game/Data/DialogueSystem/JsonReader_Auto1.uasset
+[2018.04.11-22.14.12:342][181]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.04.11-22.19.23:408][ 46]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.19.23:434][ 46]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.19.23:443][ 46]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.19.23:740][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 306 ms (1 blueprints)
+[2018.04.11-22.19.23:740][ 46]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:19:23 PM)
+[2018.04.11-22.19.23:740][ 46]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.19.23:741][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001203s)
+[2018.04.11-22.19.23:742][ 46]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.19.23:742][ 46]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.04.11-22.19.23:742][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002107s)
+[2018.04.11-22.19.23:782][ 46]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.19.23:797][ 46]LogInit: FAudioDevice initialized.
+[2018.04.11-22.19.23:845][ 46]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.19.23:847][ 46]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.19.23
+[2018.04.11-22.19.23:848][ 46]LogWorld: Bringing up level for play took: 0.002031
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:850][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:851][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:851][ 46]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.23:852][ 46]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.359
+[2018.04.11-22.19.23:956][ 47]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.19.25:941][205]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.19.34:723][242]LogEditorTransaction: Undo Create Pin Link
+[2018.04.11-22.19.34:959][256]LogEditorTransaction: Undo Create Pin Link
+[2018.04.11-22.19.35:522][314]LogEditorTransaction: Undo Create Pin Link
+[2018.04.11-22.19.42:229][ 99]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.19.42:265][ 99]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.19.42:274][ 99]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.19.42:554][ 99]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2018.04.11-22.19.42:554][ 99]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:19:42 PM)
+[2018.04.11-22.19.42:554][ 99]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.19.42:555][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001179s)
+[2018.04.11-22.19.42:556][ 99]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.19.42:556][ 99]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.04.11-22.19.42:556][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002080s)
+[2018.04.11-22.19.42:596][ 99]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.19.42:610][ 99]LogInit: FAudioDevice initialized.
+[2018.04.11-22.19.42:657][ 99]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.19.42:659][ 99]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.19.42
+[2018.04.11-22.19.42:660][ 99]LogWorld: Bringing up level for play took: 0.001776
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:662][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:663][ 99]LogBlueprintUserMessages: [JsonReader_24] 
+[2018.04.11-22.19.42:664][ 99]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 1.171
+[2018.04.11-22.19.42:773][100]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.19.44:464][234]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.20.04:613][639]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.20.04:650][639]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.11-22.20.04:659][639]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.04.11-22.20.04:933][639]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2018.04.11-22.20.04:933][639]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:20:04 PM)
+[2018.04.11-22.20.04:933][639]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.20.04:935][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2018.04.11-22.20.04:935][639]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.20.04:935][639]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.04.11-22.20.04:935][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002319s)
+[2018.04.11-22.20.04:976][639]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.20.04:989][639]LogInit: FAudioDevice initialized.
+[2018.04.11-22.20.05:034][639]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.20.05:037][639]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.20.05
+[2018.04.11-22.20.05:037][639]LogWorld: Bringing up level for play took: 0.002031
+[2018.04.11-22.20.05:039][639]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.20.05:039][639]LogBlueprintUserMessages: [JsonReader_24] illKickYourButtT
+[2018.04.11-22.20.05:039][639]LogBlueprintUserMessages: [JsonReader_24] thatsRightGiveIt
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] illCallThePolice
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:040][639]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.05:041][639]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.452
+[2018.04.11-22.20.05:153][640]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.04.11-22.20.08:365][897]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.20.09:470][ 21]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.20.09:506][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.20.09:506][ 21]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:20:09 PM)
+[2018.04.11-22.20.09:506][ 21]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.20.09:507][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001073s)
+[2018.04.11-22.20.09:508][ 21]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.20.09:508][ 21]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.04.11-22.20.09:508][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002123s)
+[2018.04.11-22.20.09:549][ 21]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.20.09:562][ 21]LogInit: FAudioDevice initialized.
+[2018.04.11-22.20.09:606][ 21]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.20.09:608][ 21]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.20.09
+[2018.04.11-22.20.09:609][ 21]LogWorld: Bringing up level for play took: 0.001924
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] illKickYourButtT
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] thatsRightGiveIt
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] illCallThePolice
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:611][ 21]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.09:612][ 21]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld 0.119
+[2018.04.11-22.20.12:916][273]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.20.14:668][469]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.20.14:694][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.20.14:694][469]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:20:14 PM)
+[2018.04.11-22.20.14:694][469]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.20.14:695][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001115s)
+[2018.04.11-22.20.14:696][469]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.20.14:696][469]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.04.11-22.20.14:696][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002184s)
+[2018.04.11-22.20.14:736][469]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.20.14:749][469]LogInit: FAudioDevice initialized.
+[2018.04.11-22.20.14:801][469]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.20.14:803][469]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.20.14
+[2018.04.11-22.20.14:803][469]LogWorld: Bringing up level for play took: 0.001860
+[2018.04.11-22.20.14:805][469]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.20.14:805][469]LogBlueprintUserMessages: [JsonReader_24] illKickYourButtT
+[2018.04.11-22.20.14:805][469]LogBlueprintUserMessages: [JsonReader_24] thatsRightGiveIt
+[2018.04.11-22.20.14:805][469]LogBlueprintUserMessages: [JsonReader_24] illCallThePolice
+[2018.04.11-22.20.14:805][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:806][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:806][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:806][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:806][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:806][469]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.14:809][469]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.684
+[2018.04.11-22.20.17:496][677]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.20.19:055][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.11-22.20.19:080][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.11-22.20.19:081][851]PIE: New page: PIE session: 2DTestWorld (Apr 11, 2018, 4:20:19 PM)
+[2018.04.11-22.20.19:081][851]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_2DTestWorld
+[2018.04.11-22.20.19:082][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001106s)
+[2018.04.11-22.20.19:083][851]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.04.11-22.20.19:083][851]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2018.04.11-22.20.19:083][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/2DTestWorld.2DTestWorld to /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld (0.002368s)
+[2018.04.11-22.20.19:124][851]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.11-22.20.19:137][851]LogInit: FAudioDevice initialized.
+[2018.04.11-22.20.19:183][851]LogLoad: Game class is 'GameController_BP_C'
+[2018.04.11-22.20.19:185][851]LogWorld: Bringing World /Game/Map/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.11-19.20.19
+[2018.04.11-22.20.19:186][851]LogWorld: Bringing up level for play took: 0.001828
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] Index:0Dialogue:*-Panda-* Give Me all your money
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] illKickYourButtT
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] thatsRightGiveIt
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] illCallThePolice
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:188][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:189][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:189][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:189][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:189][851]LogBlueprintUserMessages: [JsonReader_24] wowUrAMeanie
+[2018.04.11-22.20.19:192][851]PIE: Play in editor start time for /Game/Map/UEDPIE_0_2DTestWorld -0.301
+[2018.04.11-22.20.21:452][ 25]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.11-22.21.01:824][703]LogSavePackage: Save=38.62ms
+[2018.04.11-22.21.01:824][703]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/JsonReaderED78605241EFD94975458996EA60A289.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset'
+[2018.04.11-22.21.01:844][703]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Data/DialogueSystem/JsonReader.uasset
+[2018.04.11-22.21.18:021][262]LogSlate: Window 'Save Content' being destroyed
+[2018.04.11-22.21.18:392][262]LogSavePackage: Save=13.74ms
+[2018.04.11-22.21.18:392][262]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/2DTestWorld7DDF0FFE40B3BBD9C9A6518C5793A788.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap'
+[2018.04.11-22.21.18:410][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Map/2DTestWorld.umap
+[2018.04.11-22.21.18:463][262]LogFileHelpers: Saving map '2DTestWorld' took 0.420
+[2018.04.11-22.21.18:589][262]LogSlate: Window 'SotW - Unreal Editor' being destroyed
+[2018.04.11-22.21.18:824][263]Cmd: QUIT_EDITOR
+[2018.04.11-22.21.18:971][263]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.21.18:971][263]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.11-22.21.18:987][263]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.11-22.21.18:987][263]LogExit: Preparing to exit.
+[2018.04.11-22.21.19:839][263]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' was aborted.
+[2018.04.11-22.21.19:883][263]LogExit: Editor shut down
+[2018.04.11-22.21.19:889][263]LogExit: Transaction tracking system shut down
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/' was aborted.
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Marketplace/DlgSystem/Content/' was aborted.
+[2018.04.11-22.21.20:111][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.11-22.21.20:112][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.11-22.21.20:112][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.11-22.21.20:112][263]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.11-22.21.20:213][263]LogExit: Object subsystem successfully closed.
+[2018.04.11-22.21.20:232][263]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.11-22.21.20:236][263]LogD3D11RHI: Shutdown
+[2018.04.11-22.21.20:236][263]LogD3D11RHI: CleanupD3DDevice
+[2018.04.11-22.21.20:239][263]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.11-22.21.20:354][263]LogModuleManager: Shutting down and abandoning module StatsViewer (584)
+[2018.04.11-22.21.20:354][263]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
+[2018.04.11-22.21.20:365][263]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2018.04.11-22.21.20:365][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
+[2018.04.11-22.21.20:365][263]LogModuleManager: Shutting down and abandoning module SceneOutliner (576)
+[2018.04.11-22.21.20:373][263]LogModuleManager: Shutting down and abandoning module AddContentDialog (574)
+[2018.04.11-22.21.20:379][263]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module WidgetCarousel (573)
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module EditorWidgets (570)
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module CollectionManager (568)
+[2018.04.11-22.21.20:380][263]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Collections/' was aborted.
+[2018.04.11-22.21.20:380][263]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Content/Developers/Franco/Collections/' was aborted.
+[2018.04.11-22.21.20:380][263]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/Son of the Wind 2018/Son of the Wind/Saved/Collections/' was aborted.
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module FoliageEdit (566)
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module LandscapeEditor (564)
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module MeshPaintMode (562)
+[2018.04.11-22.21.20:380][263]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (560)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ActorPickerMode (558)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module GeometryMode (556)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module TextureAlignMode (554)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module BspMode (552)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (550)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module HardwareSurvey (548)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AutomationWorker (544)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (542)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module SequenceRecorder (541)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (538)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (536)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module PlacementMode (535)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (528)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (526)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (520)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (516)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (514)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (512)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module CharacterAI (510)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ViewportSnapping (504)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ViewportInteraction (502)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module ClothPainter (500)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (499)
+[2018.04.11-22.21.20:381][263]LogModuleManager: Shutting down and abandoning module LogVisualizer (496)
+[2018.04.11-22.21.20:382][263]LogModuleManager: Shutting down and abandoning module IntroTutorials (494)
+[2018.04.11-22.21.20:385][263]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (493)
+[2018.04.11-22.21.20:385][263]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (490)
+[2018.04.11-22.21.20:385][263]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (488)
+[2018.04.11-22.21.20:385][263]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (486)
+[2018.04.11-22.21.20:385][263]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (485)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (482)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (480)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (478)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module InputBindingEditor (476)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module MergeActors (474)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (472)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module LocalizationService (471)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module HardwareTargeting (468)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (466)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module UndoHistory (464)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module XmlParser (462)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module Blutility (460)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (458)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (457)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (454)
+[2018.04.11-22.21.21:174][263]LogModuleManager: Shutting down and abandoning module SettingsEditor (452)
+[2018.04.11-22.21.21:175][263]LogModuleManager: Shutting down and abandoning module ProjectLauncher (450)
+[2018.04.11-22.21.21:175][263]LogModuleManager: Shutting down and abandoning module SessionFrontend (448)
+[2018.04.11-22.21.21:175][263]LogModuleManager: Shutting down and abandoning module ProfilerClient (446)
+[2018.04.11-22.21.21:175][263]LogModuleManager: Shutting down and abandoning module DeviceManager (444)
+[2018.04.11-22.21.21:175][263]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (443)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module AutomationController (440)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module AutomationWindow (438)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module Layers (436)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (434)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module DetailCustomizations (432)
+[2018.04.11-22.21.21:227][263]LogModuleManager: Shutting down and abandoning module PackagesDialog (430)
+[2018.04.11-22.21.21:228][263]LogModuleManager: Shutting down and abandoning module Persona (428)
+[2018.04.11-22.21.21:228][263]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (427)
+[2018.04.11-22.21.21:228][263]LogModuleManager: Shutting down and abandoning module AnimGraph (425)
+[2018.04.11-22.21.21:228][263]LogModuleManager: Shutting down and abandoning module Kismet (422)
+[2018.04.11-22.21.21:233][263]LogModuleManager: Shutting down and abandoning module GraphEditor (420)
+[2018.04.11-22.21.21:233][263]LogModuleManager: Shutting down and abandoning module ClassViewer (418)
+[2018.04.11-22.21.21:233][263]LogModuleManager: Shutting down and abandoning module Toolbox (416)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module ModuleUI (414)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module MovieSceneTools (412)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module OutputLog (410)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module GammaUI (408)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module Documentation (406)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (404)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module MovieScene (402)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (400)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module LauncherPlatform (398)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module AnalyticsET (396)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module PortalServices (394)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module PortalRpc (392)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module MessagingRpc (390)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module AIModule (388)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module AITestSuite (387)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module DesktopPlatform (384)
+[2018.04.11-22.21.21:234][263]LogModuleManager: Shutting down and abandoning module ProfilerService (382)
+[2018.04.11-22.21.21:394][263]LogModuleManager: Shutting down and abandoning module TaskGraph (380)
+[2018.04.11-22.21.21:394][263]LogModuleManager: Shutting down and abandoning module DlgSystemEditor (378)
+[2018.04.11-22.21.21:435][263]LogDlgSystemEditor: Verbose: Stopped DlgSystemEditorModule
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module OculusInput (370)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (360)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module AndroidPermission (358)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (354)
+[2018.04.11-22.21.21:435][263]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (352)
+[2018.04.11-22.21.21:436][263]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (350)
+[2018.04.11-22.21.21:436][263]LogModuleManager: Shutting down and abandoning module MediaCompositing (348)
+[2018.04.11-22.21.21:436][263]LogModuleManager: Shutting down and abandoning module LinearTimecode (346)
+[2018.04.11-22.21.21:436][263]LogModuleManager: Shutting down and abandoning module ImgMedia (344)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module HTML5Networking (342)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module AlembicImporter (340)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module AlembicLibrary (339)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module GeometryCache (338)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (337)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module DatasmithContent (332)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (330)
+[2018.04.11-22.21.21:439][263]LogModuleManager: Shutting down and abandoning module PluginBrowser (328)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (326)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (324)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module CryptoKeys (322)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (320)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (318)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module UObjectPlugin (316)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (314)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (312)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module GitSourceControl (310)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module SourceControl (309)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2018.04.11-22.21.21:440][263]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2018.04.11-22.21.21:540][263]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2018.04.11-22.21.21:640][263]LogModuleManager: Shutting down and abandoning module DlgSystem (274)
+[2018.04.11-22.21.21:641][263]LogDlgSystem: Verbose: Stopped DlgSystemModule
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module GameplayDebugger (273)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2018.04.11-22.21.21:641][263]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2018.04.11-22.21.21:642][263]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2018.04.11-22.21.21:642][263]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2018.04.11-22.21.21:642][263]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2018.04.11-22.21.21:642][263]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2018.04.11-22.21.21:643][263]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2018.04.11-22.21.21:644][263]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2018.04.11-22.21.21:644][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2018.04.11-22.21.21:644][263]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (244)
+[2018.04.11-22.21.21:644][263]LogModuleManager: Shutting down and abandoning module LiveLink (242)
+[2018.04.11-22.21.22:009][263]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.04.11-22.21.22:009][263]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.04.11-22.21.22:009][263]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module JSONParser (234)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.11-22.21.22:010][263]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.11-22.21.22:016][263]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.11-22.21.22:017][263]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.11-22.21.22:017][263]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.11-22.21.22:017][263]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.11-22.21.22:017][263]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.11-22.21.22:019][263]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.11-22.21.22:020][263]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.11-22.21.22:070][263]LogDerivedDataCache: Shutdown
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.11-22.21.22:071][263]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.11-22.21.22:072][263]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.11-22.21.22:072][263]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.11-22.21.22:072][263]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEDE8F48B-4A1F-F076-C6EB-8189734A746D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=f991da7848e7608f50dfdbbb0fd35923%7Ca345ad7d4f264abe80dce6b88bd1a870%7C94ece4d6-1805-4bb6-9d9c-e1eda26a4ea0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.11-22.21.22:092][263]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.11-22.21.22:094][263]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.11-22.21.22:095][263]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.11-22.21.22:099][263]LogExit: Exiting.
+[2018.04.11-22.21.22:122][263]Log file closed, 04/11/18 19:21:22
