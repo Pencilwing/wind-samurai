@@ -1,4 +1,4 @@
-﻿Log file open, 04/13/18 19:47:47
+﻿Log file open, 04/17/18 20:12:01
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: SotW
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2119857293) SRandInit(-2119857293).
+LogInit: Display: RandInit(178488492) SRandInit(178488493).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.207503
+LogStats: Stats thread started at 0.211149
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -175,7 +175,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  3.292s to configure plugins.
+LogStreaming: Display: Took  3.766s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -195,7 +195,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.102:0)
+LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.107:0)
 LogInit: Build: ++UE4+Release-4.19-CL-3944462
 LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -226,1433 +226,168 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.009s to delete old logs.
+LogStreaming: Display: Took  0.054s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.13-22.47.51:021][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.13-22.47.51:021][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.13-22.47.51:041][  0]LogInit: Computer: DESKTOP-J55RO49
-[2018.04.13-22.47.51:042][  0]LogInit: User: Franco
-[2018.04.13-22.47.51:042][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.13-22.47.51:042][  0]LogInit: High frequency timer resolution =3.134200 MHz
-[2018.04.13-22.47.51:042][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2018.04.13-22.47.51:042][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.13-22.47.51:042][  0]LogMemory: Process Physical Memory: 275.67 MB used, 275.67 MB peak
-[2018.04.13-22.47.51:042][  0]LogMemory: Process Virtual Memory: 272.03 MB used, 272.03 MB peak
-[2018.04.13-22.47.51:042][  0]LogMemory: Physical Memory: 4065.54 MB used,  4078.89 MB free, 8144.43 MB total
-[2018.04.13-22.47.51:042][  0]LogMemory: Virtual Memory: 680.18 MB used,  4078.89 MB free, 134217728.00 MB total
-[2018.04.13-22.47.51:087][  0]LogInit: Using OS detected language (en-US).
-[2018.04.13-22.47.51:087][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.13-22.47.51:095][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.13-22.47.51:529][  0]LogStreaming: Display: Took  0.442s to EndInitTextLocalization.
-[2018.04.13-22.47.51:529][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.13-22.47.51:581][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.04.13-22.47.51:581][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.04.13-22.47.52:101][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.13-22.47.52:121][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
-[2018.04.13-22.47.52:121][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
-[2018.04.13-22.47.52:125][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.13-22.47.52:125][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.13-22.47.52:125][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.13-22.47.52:131][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.13-22.47.52:131][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
-[2018.04.13-22.47.52:131][  0]LogWindows: EnumDisplayDevices:
-[2018.04.13-22.47.52:131][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
-[2018.04.13-22.47.52:131][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
-[2018.04.13-22.47.52:132][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
-[2018.04.13-22.47.52:132][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
-[2018.04.13-22.47.52:132][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
-[2018.04.13-22.47.52:132][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
-[2018.04.13-22.47.52:132][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.13-22.47.52:132][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
-[2018.04.13-22.47.52:132][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.13-22.47.52:133][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.13-22.47.52:133][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
-[2018.04.13-22.47.52:171][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.13-22.47.52:183][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
-[2018.04.13-22.47.52:186][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Intermediate/Shaders/WorkingDirectory/1796/).
-[2018.04.13-22.47.52:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/FD89AE654E1380C063E95EB1E8E31592/'.
-[2018.04.13-22.47.52:538][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.13-22.47.52:560][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.13-22.47.52:582][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.13-22.47.52:603][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.13-22.47.52:625][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.13-22.47.52:647][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.13-22.47.52:669][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.13-22.47.52:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.13-22.47.52:703][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.13-22.47.52:721][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.13-22.47.52:741][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.13-22.47.52:761][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.13-22.47.52:780][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.04.13-22.47.52:799][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.13-22.47.52:819][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.13-22.47.52:857][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.13-22.47.52:857][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.13-22.47.52:877][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.13-22.47.52:882][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.13-22.47.52:929][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.13-22.47.52:947][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.13-22.47.52:967][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.13-22.47.52:986][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.13-22.47.53:008][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.13-22.47.53:029][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.13-22.47.53:029][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.13-22.47.53:327][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.04.13-22.47.53:327][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.04.13-22.47.53:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.13-22.47.54:592][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.13-22.47.54:680][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.13-22.47.54:681][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.04.13-22.47.54:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.13-22.47.54:681][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.13-22.47.54:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.13-22.47.54:681][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.13-22.47.54:698][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.13-22.47.54:713][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.13-22.47.54:726][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.13-22.47.54:727][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.13-22.47.54:729][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.13-22.47.54:729][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.13-22.47.55:025][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
-[2018.04.13-22.47.55:532][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.13-22.47.55:770][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.13-22.47.55:777][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.13-22.47.55:777][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.13-22.47.55:777][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.13-22.47.55:777][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.13-22.47.55:777][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.13-22.47.55:850][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
-[2018.04.13-22.47.56:655][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.275974 seconds
-[2018.04.13-22.47.56:661][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.04.13-22.47.56:661][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.04.13-22.47.56:661][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.13-22.47.59:523][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `274845DF4F0EE2A460C674A1226E1587` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
-[2018.04.13-22.47.59:525][  0]LogDlgSystem: Verbose: Started DlgSystemModule
-[2018.04.13-22.47.59:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.13-22.47.59:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.13-22.48.00:577][  0]SourceControl: Source control is disabled
-[2018.04.13-22.48.00:577][  0]SourceControl: Source control is disabled
-[2018.04.13-22.48.00:634][  0]SourceControl: Source control is disabled
-[2018.04.13-22.48.00:689][  0]SourceControl: Source control is disabled
-[2018.04.13-22.48.01:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.13-22.48.02:417][  0]LogOcInput: OculusInput pre-init called
-[2018.04.13-22.48.02:643][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
-[2018.04.13-22.48.02:670][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2018.04.13-22.48.02:671][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
-[2018.04.13-22.48.02:671][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `31C582F24C435FE8BF4790AB75397B44` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
-[2018.04.13-22.48.02:673][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
-[2018.04.13-22.48.02:749][  0]LogEngine: Initializing Engine...
-[2018.04.13-22.48.02:753][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.13-22.48.02:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.13-22.48.02:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.13-22.48.03:051][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.13-22.48.03:083][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2018.04.13-22.48.03:115][  0]LogInit: FAudioDevice initialized.
-[2018.04.13-22.48.03:309][  0]LogDerivedDataCache: Saved boot cache 0.19s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.13-22.48.03:322][  0]LogInit: Texture streaming: Enabled
-[2018.04.13-22.48.03:352][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.13-22.48.03:376][  0]LogInit: Transaction tracking system initialized
-[2018.04.13-22.48.03:423][  0]BlueprintLog: New page: Editor Load
-[2018.04.13-22.48.03:584][  0]LocalizationService: Localization service is disabled
-[2018.04.13-22.48.03:770][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
-[2018.04.13-22.48.03:770][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
-[2018.04.13-22.48.03:770][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
-[2018.04.13-22.48.03:810][  0]LogConsoleResponse: Display: 
-[2018.04.13-22.48.04:041][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.13-22.48.04:041][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.13-22.48.04:041][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.13-22.48.04:041][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.13-22.48.04:041][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.13-22.48.04:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/' took 0.02s
-[2018.04.13-22.48.05:079][  0]SourceControl: Source control is disabled
-[2018.04.13-22.48.05:080][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
-[2018.04.13-22.48.05:080][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.13-22.48.05:286][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 206.561ms to complete.
-[2018.04.13-22.48.05:286][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.207
-[2018.04.13-22.48.05:346][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.13-22.48.05:346][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.13-22.48.05:445][  0]LogCollectionManager: Loaded 0 collections in 0.003568 seconds
-[2018.04.13-22.48.05:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Saved/Collections/' took 0.01s
-[2018.04.13-22.48.05:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/Developers/Franco/Collections/' took 0.01s
-[2018.04.13-22.48.05:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/Collections/' took 0.01s
-[2018.04.13-22.48.05:507][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.04.13-22.48.05:519][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2492 classes and 574 folders.
-[2018.04.13-22.48.05:532][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.04.13-22.48.05:680][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.04.13-22.48.05:689][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.04.13-22.48.05:710][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.13-22.48.05:712][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.13-22.48.05:719][  0]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.13-22.48.05:830][  0]LogRenderer: Reallocating scene render targets to support 808x376 Format 10 NumSamples 1 (Frame:1).
-[2018.04.13-22.48.05:877][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.13-22.48.05:994][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.04.13-22.48.05:994][  0]LogLoad: (Engine Initialization) Total time: 21.13 seconds
-[2018.04.13-22.48.05:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.13-22.48.06:025][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.13-22.48.06:072][  1]LogAssetRegistry: Asset discovery search completed in 11.0699 seconds
-[2018.04.13-22.48.06:074][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.04.13-22.48.06:074][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
-[2018.04.13-22.48.22:265][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.13-22.48.26:034][382]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.13-22.48.26:213][382]LogAIModule: Creating AISystem for world 2DTestWorld
-[2018.04.13-22.48.26:239][382]Cmd: MAP LOAD FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/Maps/Prototyping/2DTestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.13-22.48.26:239][382]LightingResults: New page: Lighting Build
-[2018.04.13-22.48.26:244][382]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
-[2018.04.13-22.48.26:244][382]LoadErrors: New page: Loading map: 2DTestWorld.umap
-[2018.04.13-22.48.26:245][382]MapCheck: New page: Map Check
-[2018.04.13-22.48.26:245][382]LightingResults: New page: Lighting Build
-[2018.04.13-22.48.26:259][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.13-22.48.26:316][382]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.13-22.48.26:527][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 210.901ms to complete.
-[2018.04.13-22.48.26:528][382]LogFileHelpers: Loading map '2DTestWorld' took 0.291
-[2018.04.13-22.48.27:232][458]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.04.13-22.48.27:258][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.13-22.48.27:258][458]PIE: New page: PIE session: 2DTestWorld (Apr 13, 2018, 4:48:27 PM)
-[2018.04.13-22.48.27:258][458]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
-[2018.04.13-22.48.27:259][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001124s)
-[2018.04.13-22.48.27:260][458]LogAIModule: Creating AISystem for world 2DTestWorld
-[2018.04.13-22.48.27:260][458]LogPlayLevel: PIE: World Init took: (0.000809s)
-[2018.04.13-22.48.27:260][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002083s)
-[2018.04.13-22.48.27:292][458]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2018.04.13-22.48.27:305][458]LogInit: FAudioDevice initialized.
-[2018.04.13-22.48.27:584][458]LogLoad: Game class is 'GameController_BP_C'
-[2018.04.13-22.48.27:587][458]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.04.13-19.48.27
-[2018.04.13-22.48.27:588][458]LogWorld: Bringing up level for play took: 0.002089
-[2018.04.13-22.48.27:594][458]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
-[2018.04.13-22.48.27:596][458]LogBlueprintUserMessages: [JsonReader_24] what the fuck jason
-[2018.04.13-22.48.27:596][458]LogBlueprintUserMessages: [JsonReader_24] Speaker:*-Panda-* Give Me all your money
-[2018.04.13-22.48.27:600][458]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.434
-[2018.04.13-22.48.27:601][458]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:634][458]LogRenderer: Reallocating scene render targets to support 1452x936 Format 10 NumSamples 1 (Frame:1).
-[2018.04.13-22.48.27:709][459]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:709][459]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077349 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
-[2018.04.13-22.48.27:709][459]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:727][460]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:747][461]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:760][462]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:773][463]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:786][464]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:798][465]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:810][466]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:822][467]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:834][468]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:846][469]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:859][470]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:871][471]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:884][472]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:896][473]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:908][474]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:920][475]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:932][476]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:945][477]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:957][478]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:969][479]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:981][480]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.27:994][481]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:006][482]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:018][483]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:030][484]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:042][485]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:055][486]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:066][487]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:079][488]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:091][489]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:103][490]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:115][491]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:127][492]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:139][493]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:152][494]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:164][495]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:176][496]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:188][497]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:201][498]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:213][499]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:225][500]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:237][501]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:250][502]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:262][503]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:274][504]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:286][505]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:298][506]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:311][507]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:323][508]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:335][509]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:347][510]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:359][511]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:371][512]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:383][513]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:395][514]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:408][515]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:420][516]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:432][517]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:444][518]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:456][519]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:468][520]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:481][521]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:493][522]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:505][523]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:517][524]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:530][525]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:542][526]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:554][527]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:566][528]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:578][529]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:590][530]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:603][531]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:614][532]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:627][533]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:639][534]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:651][535]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:663][536]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:676][537]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:688][538]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:699][539]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:712][540]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:724][541]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:736][542]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:749][543]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:761][544]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:773][545]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:785][546]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:797][547]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:810][548]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:822][549]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:834][550]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:846][551]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:858][552]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:870][553]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:882][554]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:894][555]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:906][556]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:918][557]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:930][558]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:942][559]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:955][560]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:967][561]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:979][562]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.28:992][563]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:004][564]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:016][565]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:028][566]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:040][567]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:053][568]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:065][569]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:077][570]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:089][571]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:102][572]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:114][573]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:126][574]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:138][575]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:150][576]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:162][577]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:174][578]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:186][579]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:198][580]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:211][581]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:223][582]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:235][583]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:247][584]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:259][585]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:271][586]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:283][587]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:295][588]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:307][589]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:320][590]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:332][591]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:344][592]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:356][593]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:368][594]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:381][595]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:393][596]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:405][597]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:417][598]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:429][599]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:442][600]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:454][601]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:466][602]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:478][603]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:490][604]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:503][605]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:515][606]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:527][607]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:539][608]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:551][609]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:563][610]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:575][611]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:588][612]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:600][613]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:613][614]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:624][615]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:637][616]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:649][617]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:661][618]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:673][619]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:686][620]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:697][621]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:710][622]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:722][623]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:735][624]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:747][625]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:760][626]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:772][627]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:784][628]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:796][629]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:809][630]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:821][631]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:833][632]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:845][633]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:857][634]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:869][635]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:882][636]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:894][637]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:906][638]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:918][639]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:930][640]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:943][641]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:955][642]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:967][643]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:979][644]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.29:992][645]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:005][646]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:017][647]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:029][648]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:041][649]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:053][650]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:066][651]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:077][652]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:090][653]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:101][654]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:114][655]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:127][656]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:143][657]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:150][658]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:162][659]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:174][660]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:187][661]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:199][662]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:211][663]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:223][664]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:235][665]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:247][666]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:259][667]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:271][668]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:283][669]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:295][670]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:307][671]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:319][672]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:331][673]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:343][674]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:355][675]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:367][676]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:380][677]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:392][678]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:404][679]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:416][680]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:428][681]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:440][682]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:452][683]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:465][684]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:477][685]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:489][686]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:501][687]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:514][688]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:526][689]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:538][690]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:551][691]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:564][692]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:576][693]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:588][694]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:601][695]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:613][696]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:625][697]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:638][698]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:650][699]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:662][700]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:675][701]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:687][702]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:699][703]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:712][704]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:724][705]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:736][706]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:748][707]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:761][708]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:773][709]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:786][710]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:798][711]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:810][712]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:823][713]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:835][714]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:847][715]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:859][716]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:872][717]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:884][718]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:896][719]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:909][720]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:921][721]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:934][722]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:946][723]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:959][724]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:971][725]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:983][726]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.30:995][727]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:008][728]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:020][729]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:034][730]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:046][731]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:058][732]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:071][733]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:083][734]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:095][735]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:108][736]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:120][737]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:132][738]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:145][739]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:157][740]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:169][741]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:182][742]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:195][743]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:207][744]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:219][745]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:232][746]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:244][747]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:257][748]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:269][749]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:282][750]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:294][751]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:306][752]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:318][753]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:331][754]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:343][755]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:356][756]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:368][757]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:380][758]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:392][759]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:404][760]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:417][761]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:429][762]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:441][763]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:453][764]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:466][765]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:478][766]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:490][767]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:502][768]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:514][769]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:526][770]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:538][771]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:550][772]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:562][773]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:575][774]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:587][775]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:599][776]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.31:611][777]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:623][778]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:635][779]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:647][780]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:660][781]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:671][782]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:684][783]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:696][784]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:708][785]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:720][786]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:733][787]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:745][788]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:757][789]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:769][790]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:781][791]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:793][792]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:805][793]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:818][794]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:830][795]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:842][796]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:854][797]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:866][798]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:878][799]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:890][800]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:902][801]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:914][802]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:926][803]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:939][804]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:951][805]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:963][806]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:976][807]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.31:988][808]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:000][809]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:012][810]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:025][811]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:037][812]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:049][813]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:061][814]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:074][815]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:074][815]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:086][816]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:098][817]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:111][818]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:123][819]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:135][820]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:147][821]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:160][822]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:172][823]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:185][824]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:197][825]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:209][826]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:222][827]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:234][828]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:246][829]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:259][830]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:271][831]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:283][832]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:295][833]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:308][834]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:320][835]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:332][836]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:345][837]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:357][838]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:369][839]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:381][840]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:394][841]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:406][842]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:418][843]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:430][844]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:443][845]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:455][846]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:467][847]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:480][848]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:492][849]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:505][850]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:517][851]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:529][852]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:541][853]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:554][854]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:566][855]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:578][856]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:591][857]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:603][858]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:615][859]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:628][860]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:640][861]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:652][862]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:665][863]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:677][864]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:689][865]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:701][866]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:714][867]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:726][868]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:739][869]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:751][870]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:763][871]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:775][872]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:788][873]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:801][874]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:813][875]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:825][876]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:837][877]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:849][878]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:862][879]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:874][880]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:886][881]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:899][882]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:911][883]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:923][884]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:935][885]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:947][886]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:960][887]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:972][888]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:984][889]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.32:996][890]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:008][891]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:021][892]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:033][893]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:045][894]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:057][895]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:070][896]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:082][897]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:094][898]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:107][899]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:119][900]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:131][901]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:143][902]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:156][903]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:168][904]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:180][905]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:192][906]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:205][907]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:217][908]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:229][909]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:242][910]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:255][911]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:267][912]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:279][913]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:292][914]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:292][914]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:304][915]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:316][916]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:329][917]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:341][918]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:353][919]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:366][920]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:378][921]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:390][922]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:403][923]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:415][924]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:428][925]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:440][926]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:452][927]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:464][928]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:477][929]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:489][930]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:501][931]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:514][932]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:526][933]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:538][934]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:551][935]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:562][936]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:574][937]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:587][938]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:599][939]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:611][940]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:623][941]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:636][942]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:648][943]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:661][944]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:673][945]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:685][946]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:698][947]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:710][948]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:723][949]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:735][950]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:747][951]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:760][952]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:773][953]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:785][954]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:798][955]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:810][956]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:822][957]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:835][958]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:847][959]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:860][960]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:872][961]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:885][962]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:898][963]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:910][964]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:923][965]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:935][966]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:948][967]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:960][968]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:973][969]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:986][970]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.33:998][971]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:011][972]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:023][973]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:035][974]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:048][975]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:061][976]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:074][977]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:086][978]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:099][979]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:112][980]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:124][981]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:137][982]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:150][983]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:163][984]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:175][985]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:187][986]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:200][987]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:201][987]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:213][988]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:226][989]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:239][990]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:251][991]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:264][992]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:277][993]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:289][994]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:302][995]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:315][996]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:327][997]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:340][998]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:352][999]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:365][  0]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:378][  1]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:390][  2]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:403][  3]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:416][  4]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:429][  5]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:441][  6]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:454][  7]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:466][  8]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:478][  9]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
-[2018.04.13-22.48.34:479][  9]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:491][ 10]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:510][ 11]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:523][ 12]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:536][ 13]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:548][ 14]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:561][ 15]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:574][ 16]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:587][ 17]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:599][ 18]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:612][ 19]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:625][ 20]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:638][ 21]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:650][ 22]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:663][ 23]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:676][ 24]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:688][ 25]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:701][ 26]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:713][ 27]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:726][ 28]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:739][ 29]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:752][ 30]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:764][ 31]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:777][ 32]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:790][ 33]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:802][ 34]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:815][ 35]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:827][ 36]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:840][ 37]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:852][ 38]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:853][ 38]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:865][ 39]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:877][ 40]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:890][ 41]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:902][ 42]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:902][ 42]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:915][ 43]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:927][ 44]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:940][ 45]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.34:940][ 45]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:953][ 46]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:966][ 47]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:978][ 48]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.34:990][ 49]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:003][ 50]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:015][ 51]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:028][ 52]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:040][ 53]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:053][ 54]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:054][ 54]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:066][ 55]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:078][ 56]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:091][ 57]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:103][ 58]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:116][ 59]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:128][ 60]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:141][ 61]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:154][ 62]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:166][ 63]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:179][ 64]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:191][ 65]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:204][ 66]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:216][ 67]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:229][ 68]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:241][ 69]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:254][ 70]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:266][ 71]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:278][ 72]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:291][ 73]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:303][ 74]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:316][ 75]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:328][ 76]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:341][ 77]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:354][ 78]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:366][ 79]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:378][ 80]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:391][ 81]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:403][ 82]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:416][ 83]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:429][ 84]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:441][ 85]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:453][ 86]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:466][ 87]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:478][ 88]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:491][ 89]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:503][ 90]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:516][ 91]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:528][ 92]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:541][ 93]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:553][ 94]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:565][ 95]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:578][ 96]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:590][ 97]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:602][ 98]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:615][ 99]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:627][100]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:639][101]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:652][102]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:664][103]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:676][104]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:689][105]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:701][106]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:713][107]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:726][108]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:738][109]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:750][110]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.35:762][111]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:774][112]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:786][113]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:799][114]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:811][115]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:823][116]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:835][117]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:848][118]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:861][119]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:873][120]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:885][121]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:897][122]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:909][123]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:922][124]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:934][125]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:947][126]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:959][127]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:971][128]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:983][129]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.35:995][130]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:007][131]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:020][132]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:032][133]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:045][134]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:057][135]LogBlueprintUserMessages: [Blue_BP_C_0] true
-[2018.04.13-22.48.36:070][136]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:082][137]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:094][138]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:106][139]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:118][140]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:131][141]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:143][142]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:155][143]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:167][144]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:180][145]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:192][146]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:204][147]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:217][148]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:229][149]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:241][150]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:253][151]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:265][152]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:278][153]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:290][154]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:302][155]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:314][156]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:326][157]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:339][158]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:351][159]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:364][160]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:376][161]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:376][161]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:389][162]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:401][163]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:413][164]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:426][165]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:438][166]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:450][167]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:462][168]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:475][169]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:487][170]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:500][171]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:512][172]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:524][173]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:537][174]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:549][175]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:561][176]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:573][177]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:586][178]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:598][179]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:611][180]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:623][181]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:635][182]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:647][183]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:659][184]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:672][185]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:684][186]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:696][187]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:709][188]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:721][189]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:734][190]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:746][191]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:758][192]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:771][193]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:783][194]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:795][195]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:808][196]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:820][197]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:833][198]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:845][199]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:857][200]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:870][201]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:882][202]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:894][203]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:907][204]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:919][205]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:931][206]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:943][207]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:955][208]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:968][209]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:980][210]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.36:993][211]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:005][212]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:018][213]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:030][214]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:042][215]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:054][216]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:067][217]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:079][218]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:091][219]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:103][220]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:116][221]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:128][222]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:140][223]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:152][224]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:165][225]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:178][226]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:190][227]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:202][228]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:215][229]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:227][230]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:239][231]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:252][232]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:264][233]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:276][234]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:288][235]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:300][236]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:312][237]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:325][238]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:337][239]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:350][240]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:362][241]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:374][242]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:386][243]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:399][244]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:411][245]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:424][246]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:436][247]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:448][248]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:461][249]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:473][250]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:486][251]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:499][252]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:511][253]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:523][254]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:535][255]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:548][256]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:560][257]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:572][258]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:584][259]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:597][260]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:609][261]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:621][262]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:633][263]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:645][264]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:658][265]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:670][266]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:682][267]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:694][268]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:706][269]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:718][270]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:730][271]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:742][272]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:754][273]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:766][274]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:778][275]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:790][276]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:802][277]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:815][278]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:827][279]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:839][280]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:851][281]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:863][282]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:875][283]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:888][284]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:900][285]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:912][286]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:924][287]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:937][288]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:949][289]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:960][290]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:972][291]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:985][292]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.37:997][293]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:009][294]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:021][295]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:033][296]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:045][297]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:057][298]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:070][299]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:082][300]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:094][301]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:106][302]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:118][303]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:130][304]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:142][305]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:154][306]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:166][307]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:178][308]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:190][309]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:203][310]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:215][311]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:227][312]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:239][313]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:252][314]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:264][315]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:276][316]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:288][317]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:300][318]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:312][319]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:324][320]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:336][321]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:348][322]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:360][323]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:373][324]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:385][325]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:397][326]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:409][327]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:421][328]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:433][329]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:446][330]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:457][331]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:470][332]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:482][333]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:494][334]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:506][335]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:518][336]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:531][337]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:542][338]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:555][339]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:567][340]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:579][341]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:591][342]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:603][343]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:615][344]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:627][345]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:639][346]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:652][347]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:664][348]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:676][349]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:688][350]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:700][351]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:713][352]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:725][353]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:736][354]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:749][355]LogBlueprintUserMessages: [Blue_BP_C_0] false
-[2018.04.13-22.48.38:775][355]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.04.13-22.48.43:606][918]LogUProjectInfo: Found projects:
-[2018.04.13-22.49.39:581][498]LogSlate: Window 'Open Project' being destroyed
-[2018.04.13-22.49.39:584][498]LogSlate: Window 'SotW - Unreal Editor' being destroyed
-[2018.04.13-22.49.39:585][498]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.13-22.49.39:585][498]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.13-22.49.39:785][499]Cmd: QUIT_EDITOR
-[2018.04.13-22.49.40:439][499]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.04.13-22.49.40:439][499]LogExit: Preparing to exit.
-[2018.04.13-22.49.40:716][499]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/' was aborted.
-[2018.04.13-22.49.40:741][499]LogExit: Editor shut down
-[2018.04.13-22.49.40:747][499]LogExit: Transaction tracking system shut down
-[2018.04.13-22.49.40:934][499]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Marketplace/DlgSystem/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.04.13-22.49.40:935][499]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.04.13-22.49.40:988][499]LogExit: Object subsystem successfully closed.
-[2018.04.13-22.49.41:001][499]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.04.13-22.49.41:004][499]LogD3D11RHI: Shutdown
-[2018.04.13-22.49.41:004][499]LogD3D11RHI: CleanupD3DDevice
-[2018.04.13-22.49.41:006][499]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.04.13-22.49.41:117][499]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
-[2018.04.13-22.49.41:117][499]LogModuleManager: Shutting down and abandoning module StatsViewer (580)
-[2018.04.13-22.49.41:117][499]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
-[2018.04.13-22.49.41:117][499]LogModuleManager: Shutting down and abandoning module SceneOutliner (576)
-[2018.04.13-22.49.41:117][499]LogModuleManager: Shutting down and abandoning module AddContentDialog (574)
-[2018.04.13-22.49.41:118][499]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module WidgetCarousel (573)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module EditorWidgets (570)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module CollectionManager (568)
-[2018.04.13-22.49.41:119][499]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/Collections/' was aborted.
-[2018.04.13-22.49.41:119][499]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Content/Developers/Franco/Collections/' was aborted.
-[2018.04.13-22.49.41:119][499]LogDirectoryWatcher: A directory notification for 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/SonOfTheWind/Saved/Collections/' was aborted.
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module FoliageEdit (566)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module LandscapeEditor (564)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module MeshPaintMode (562)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (560)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module ActorPickerMode (558)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module GeometryMode (556)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module TextureAlignMode (554)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module BspMode (552)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (550)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module HardwareSurvey (548)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module AutomationWorker (544)
-[2018.04.13-22.49.41:119][499]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (542)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module SequenceRecorder (541)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (538)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (536)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module PlacementMode (535)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (528)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (526)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (520)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (516)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (514)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (512)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module CharacterAI (510)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module SessionServices (506)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module ViewportSnapping (504)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module ViewportInteraction (502)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module ClothPainter (500)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (499)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module LogVisualizer (496)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module IntroTutorials (494)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (493)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (490)
-[2018.04.13-22.49.41:120][499]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (488)
-[2018.04.13-22.49.41:121][499]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (486)
-[2018.04.13-22.49.41:121][499]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (485)
-[2018.04.13-22.49.41:761][499]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (482)
-[2018.04.13-22.49.41:761][499]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (480)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (478)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module InputBindingEditor (476)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module MergeActors (474)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (472)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module LocalizationService (471)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module HardwareTargeting (468)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (466)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module UndoHistory (464)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module XmlParser (462)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module Blutility (460)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (458)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (457)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (454)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module SettingsEditor (452)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module ProjectLauncher (450)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module SessionFrontend (448)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module ProfilerClient (446)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module DeviceManager (444)
-[2018.04.13-22.49.41:762][499]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (443)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module AutomationController (440)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module AutomationWindow (438)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module Layers (436)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (434)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module DetailCustomizations (432)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module PackagesDialog (430)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module Persona (428)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (427)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module AnimGraph (425)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module Kismet (422)
-[2018.04.13-22.49.41:817][499]LogModuleManager: Shutting down and abandoning module GraphEditor (420)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module ClassViewer (418)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module Toolbox (416)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module ModuleUI (414)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module MovieSceneTools (412)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module OutputLog (410)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module GammaUI (408)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module Documentation (406)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (404)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module MovieScene (402)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (400)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module LauncherPlatform (398)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module AnalyticsET (396)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module PortalServices (394)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module PortalRpc (392)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module MessagingRpc (390)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module AIModule (388)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module AITestSuite (387)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module DesktopPlatform (384)
-[2018.04.13-22.49.41:818][499]LogModuleManager: Shutting down and abandoning module ProfilerService (382)
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module TaskGraph (380)
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module DlgSystemEditor (378)
-[2018.04.13-22.49.41:953][499]LogDlgSystemEditor: Verbose: Stopped DlgSystemEditorModule
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
-[2018.04.13-22.49.41:953][499]LogModuleManager: Shutting down and abandoning module OculusInput (370)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module CableComponent (364)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (360)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module AndroidPermission (358)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (354)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (352)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (350)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module MediaCompositing (348)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module LinearTimecode (346)
-[2018.04.13-22.49.41:954][499]LogModuleManager: Shutting down and abandoning module ImgMedia (344)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module HTML5Networking (342)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module AlembicImporter (340)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module AlembicLibrary (339)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module GeometryCache (338)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (337)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module DatasmithContent (332)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (330)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PluginBrowser (328)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (326)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (324)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module CryptoKeys (322)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (320)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (318)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module UObjectPlugin (316)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (314)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (312)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module GitSourceControl (310)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module SourceControl (309)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
-[2018.04.13-22.49.41:957][499]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
-[2018.04.13-22.49.41:958][499]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
-[2018.04.13-22.49.41:958][499]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
-[2018.04.13-22.49.42:058][499]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module DlgSystem (274)
-[2018.04.13-22.49.42:158][499]LogDlgSystem: Verbose: Stopped DlgSystemModule
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module GameplayDebugger (273)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module DataValidation (264)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
-[2018.04.13-22.49.42:158][499]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
-[2018.04.13-22.49.42:159][499]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
-[2018.04.13-22.49.42:159][499]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
-[2018.04.13-22.49.42:159][499]LogModuleManager: Shutting down and abandoning module MainFrame (256)
-[2018.04.13-22.49.42:159][499]LogModuleManager: Shutting down and abandoning module HotReload (255)
-[2018.04.13-22.49.42:160][499]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
-[2018.04.13-22.49.42:161][499]LogModuleManager: Shutting down and abandoning module TreeMap (249)
-[2018.04.13-22.49.42:161][499]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
-[2018.04.13-22.49.42:161][499]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (244)
-[2018.04.13-22.49.42:161][499]LogModuleManager: Shutting down and abandoning module LiveLink (242)
-[2018.04.13-22.49.42:875][499]LogModuleManager: Shutting down and abandoning module Paper2D (240)
-[2018.04.13-22.49.42:875][499]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
-[2018.04.13-22.49.42:875][499]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module JSONParser (234)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
-[2018.04.13-22.49.42:876][499]LogModuleManager: Shutting down and abandoning module Media (225)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module Overlay (222)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module VREditor (218)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
-[2018.04.13-22.49.42:882][499]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module UMG (204)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module Sequencer (202)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module MessageLog (199)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module Slate (192)
-[2018.04.13-22.49.42:883][499]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module MRMesh (188)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module Networking (180)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module Core (178)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
-[2018.04.13-22.49.42:885][499]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
-[2018.04.13-22.49.42:886][499]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
-[2018.04.13-22.49.42:893][499]LogDerivedDataCache: Shutdown
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module XGEController (152)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
-[2018.04.13-22.49.42:893][499]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Messaging (109)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module InputCore (66)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module Settings (64)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module SteamVR (60)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.04.13-22.49.42:894][499]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.04.13-22.49.42:894][499]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.04.13-22.49.42:894][499]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC4D60CF-4D31-8045-81F0-C99356E397E5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=f991da7848e7608f50dfdbbb0fd35923%7Ca345ad7d4f264abe80dce6b88bd1a870%7C94ece4d6-1805-4bb6-9d9c-e1eda26a4ea0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.04.13-22.49.42:910][499]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.04.13-22.49.42:911][499]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.04.13-22.49.42:912][499]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.04.13-22.49.42:913][499]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.04.13-22.49.42:913][499]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.04.13-22.49.42:913][499]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.04.13-22.49.42:913][499]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.04.13-22.49.42:917][499]LogExit: Exiting.
-[2018.04.13-22.49.42:940][499]Log file closed, 04/13/18 19:49:42
+[2018.04.17-23.12.05:804][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-23.12.05:804][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.17-23.12.05:839][  0]LogInit: Computer: DESKTOP-J55RO49
+[2018.04.17-23.12.05:839][  0]LogInit: User: Franco
+[2018.04.17-23.12.05:839][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.17-23.12.05:839][  0]LogInit: High frequency timer resolution =3.134212 MHz
+[2018.04.17-23.12.05:840][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.17-23.12.05:840][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.17-23.12.05:840][  0]LogMemory: Process Physical Memory: 274.71 MB used, 274.71 MB peak
+[2018.04.17-23.12.05:840][  0]LogMemory: Process Virtual Memory: 264.25 MB used, 264.25 MB peak
+[2018.04.17-23.12.05:840][  0]LogMemory: Physical Memory: 4751.49 MB used,  3392.94 MB free, 8144.43 MB total
+[2018.04.17-23.12.05:840][  0]LogMemory: Virtual Memory: 672.18 MB used,  3392.94 MB free, 134217728.00 MB total
+[2018.04.17-23.12.05:888][  0]LogInit: Using OS detected language (en-US).
+[2018.04.17-23.12.05:888][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.17-23.12.05:897][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.17-23.12.06:366][  0]LogStreaming: Display: Took  0.478s to EndInitTextLocalization.
+[2018.04.17-23.12.06:367][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.17-23.12.06:410][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.17-23.12.06:410][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.17-23.12.06:945][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.17-23.12.06:964][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
+[2018.04.17-23.12.06:964][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.04.17-23.12.06:968][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.17-23.12.06:968][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.17-23.12.06:969][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.17-23.12.06:974][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.17-23.12.06:974][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.17-23.12.06:974][  0]LogWindows: EnumDisplayDevices:
+[2018.04.17-23.12.06:974][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
+[2018.04.17-23.12.06:974][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
+[2018.04.17-23.12.06:975][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.17-23.12.06:975][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.17-23.12.06:975][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.17-23.12.06:975][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.04.17-23.12.06:976][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.17-23.12.06:976][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
+[2018.04.17-23.12.06:976][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.17-23.12.06:976][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.17-23.12.06:976][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
+[2018.04.17-23.12.07:014][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.17-23.12.07:027][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.04.17-23.12.07:029][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Intermediate/Shaders/WorkingDirectory/9732/).
+[2018.04.17-23.12.07:029][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/362C80D54A96B34FDAADBFBD5773E112/'.
+[2018.04.17-23.12.07:505][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.17-23.12.07:527][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.17-23.12.07:548][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.17-23.12.07:571][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.17-23.12.07:595][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.17-23.12.07:616][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.17-23.12.07:638][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.17-23.12.07:659][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.17-23.12.07:671][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.17-23.12.07:690][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.17-23.12.07:709][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.17-23.12.07:730][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.17-23.12.07:750][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.17-23.12.07:770][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.17-23.12.07:790][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.17-23.12.07:831][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.17-23.12.07:831][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.17-23.12.07:852][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.17-23.12.07:857][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.17-23.12.07:907][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.17-23.12.07:926][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.17-23.12.07:947][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.17-23.12.07:967][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.17-23.12.07:988][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.17-23.12.08:009][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.17-23.12.08:009][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.17-23.12.08:317][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.17-23.12.08:317][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.17-23.12.08:317][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.17-23.12.09:674][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.17-23.12.09:764][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.17-23.12.09:782][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.17-23.12.09:797][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.17-23.12.09:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.17-23.12.09:811][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.17-23.12.09:813][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-23.12.09:813][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-23.12.10:118][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.04.17-23.12.10:632][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-23.12.10:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.17-23.12.10:887][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.17-23.12.10:887][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.17-23.12.10:887][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.17-23.12.10:887][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.17-23.12.10:887][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.17-23.12.10:959][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.04.17-23.12.11:875][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.358210 seconds
+[2018.04.17-23.12.11:883][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.17-23.12.11:883][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.17-23.12.11:883][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.17-23.12.14:841][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `19332E9949C36B61A53A10A143A22121` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.04.17-23.12.14:842][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.04.17-23.12.14:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.17-23.12.14:977][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.17-23.12.15:923][  0]SourceControl: Source control is disabled
+[2018.04.17-23.12.15:924][  0]SourceControl: Source control is disabled
+[2018.04.17-23.12.15:982][  0]SourceControl: Source control is disabled
+[2018.04.17-23.12.16:039][  0]SourceControl: Source control is disabled
+[2018.04.17-23.12.17:344][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.17-23.12.17:767][  0]LogOcInput: OculusInput pre-init called
+[2018.04.17-23.12.18:092][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.04.17-23.12.18:229][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.17-23.12.18:230][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.04.17-23.12.18:231][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `DEC8DDC14DA0183EDDE6A6BF07220A4A` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.04.17-23.12.18:233][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.04.17-23.12.18:387][  0]LogEngine: Initializing Engine...
+[2018.04.17-23.12.18:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.17-23.12.18:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.17-23.12.18:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.17-23.12.18:733][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.17-23.12.18:758][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.17-23.12.18:791][  0]LogInit: FAudioDevice initialized.
+[2018.04.17-23.12.19:041][  0]LogDerivedDataCache: Saved boot cache 0.25s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.17-23.12.19:050][  0]LogInit: Texture streaming: Enabled
+[2018.04.17-23.12.19:079][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.17-23.12.19:111][  0]LogInit: Transaction tracking system initialized
+[2018.04.17-23.12.19:158][  0]BlueprintLog: New page: Editor Load
+[2018.04.17-23.12.19:316][  0]LocalizationService: Localization service is disabled
+[2018.04.17-23.12.19:510][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.17-23.12.19:510][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.04.17-23.12.19:510][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.04.17-23.12.19:551][  0]LogConsoleResponse: Display: 
+[2018.04.17-23.12.19:816][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.17-23.12.19:816][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.17-23.12.19:816][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.17-23.12.19:816][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.17-23.12.19:816][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.17-23.12.20:849][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/' took 0.02s
+[2018.04.17-23.12.20:861][  0]SourceControl: Source control is disabled
+[2018.04.17-23.12.20:861][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.04.17-23.12.20:861][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.17-23.12.21:073][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 211.508ms to complete.
+[2018.04.17-23.12.21:074][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.212
+[2018.04.17-23.12.22:004][  0]LogCollectionManager: Loaded 0 collections in 0.003401 seconds
+[2018.04.17-23.12.22:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Collections/' took 0.01s
+[2018.04.17-23.12.22:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Developers/Franco/Collections/' took 0.01s
+[2018.04.17-23.12.22:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Collections/' took 0.01s
+[2018.04.17-23.12.22:243][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.17-23.12.22:267][  0]LogContentBrowser: Native class hierarchy populated in 0.0224 seconds. Added 2492 classes and 574 folders.
+[2018.04.17-23.12.22:305][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.17-23.12.24:321][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.17-23.12.24:408][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.17-23.12.24:779][  0]LogSlate: Took 0.000482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.17-23.12.24:781][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.17-23.12.24:896][  0]LogSlate: Took 0.015395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.17-23.12.25:326][  0]LogRenderer: Reallocating scene render targets to support 808x376 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-23.12.25:529][  0]LogSlate: Took 0.031207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.17-23.12.25:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.17-23.12.25:770][  0]LogLoad: (Engine Initialization) Total time: 30.93 seconds
+[2018.04.17-23.12.25:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.17-23.12.26:129][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.17-23.12.26:455][  1]LogAssetRegistry: Asset discovery search completed in 16.3592 seconds
+[2018.04.17-23.12.26:457][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.17-23.12.26:457][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000129 seconds (updated 0 objects)
