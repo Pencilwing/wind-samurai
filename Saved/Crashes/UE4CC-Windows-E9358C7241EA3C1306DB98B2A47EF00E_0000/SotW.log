@@ -1,0 +1,1379 @@
+﻿Log file open, 05/01/18 17:01:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SotW
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1656277759) SRandInit(1656277759).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222662
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/JSONParser/Binaries/Win64/UE4Editor-JSONParser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin JSONParser
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.362s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.107:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.01-20.01.59:386][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.01-20.01.59:386][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.01-20.01.59:418][  0]LogInit: Computer: DESKTOP-J55RO49
+[2018.05.01-20.01.59:418][  0]LogInit: User: Franco
+[2018.05.01-20.01.59:418][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.01-20.01.59:418][  0]LogInit: High frequency timer resolution =3.134208 MHz
+[2018.05.01-20.01.59:419][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.01-20.01.59:419][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.01-20.01.59:419][  0]LogMemory: Process Physical Memory: 274.77 MB used, 274.77 MB peak
+[2018.05.01-20.01.59:419][  0]LogMemory: Process Virtual Memory: 263.90 MB used, 263.90 MB peak
+[2018.05.01-20.01.59:419][  0]LogMemory: Physical Memory: 4422.88 MB used,  3721.55 MB free, 8144.43 MB total
+[2018.05.01-20.01.59:419][  0]LogMemory: Virtual Memory: 686.35 MB used,  3721.55 MB free, 134217728.00 MB total
+[2018.05.01-20.01.59:470][  0]LogInit: Using OS detected language (en-US).
+[2018.05.01-20.01.59:470][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.01-20.01.59:479][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.01-20.01.59:940][  0]LogStreaming: Display: Took  0.470s to EndInitTextLocalization.
+[2018.05.01-20.01.59:940][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.01-20.01.59:977][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.01-20.01.59:977][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.01-20.02.00:555][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.01-20.02.00:583][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
+[2018.05.01-20.02.00:583][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.05.01-20.02.00:588][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.01-20.02.00:588][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.01-20.02.00:589][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.01-20.02.00:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.01-20.02.00:595][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.01-20.02.00:595][  0]LogWindows: EnumDisplayDevices:
+[2018.05.01-20.02.00:595][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
+[2018.05.01-20.02.00:595][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
+[2018.05.01-20.02.00:596][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.01-20.02.00:596][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.01-20.02.00:596][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.01-20.02.00:597][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.01-20.02.00:597][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.01-20.02.00:597][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
+[2018.05.01-20.02.00:597][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.01-20.02.00:597][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.01-20.02.00:597][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
+[2018.05.01-20.02.00:645][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.01-20.02.00:659][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.05.01-20.02.00:661][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Intermediate/Shaders/WorkingDirectory/11804/).
+[2018.05.01-20.02.00:662][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/1E4F84114E626F8AD59AF48A976D00E4/'.
+[2018.05.01-20.02.01:137][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.01-20.02.01:163][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.01-20.02.01:186][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.01-20.02.01:209][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.01-20.02.01:233][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.01-20.02.01:257][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.01-20.02.01:281][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.01-20.02.01:309][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.01-20.02.01:322][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.01-20.02.01:344][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.01-20.02.01:365][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.01-20.02.01:387][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.01-20.02.01:407][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.01-20.02.01:428][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.01-20.02.01:448][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.01-20.02.01:492][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.01-20.02.01:492][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.01-20.02.01:513][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.01-20.02.01:518][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.01-20.02.01:569][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.01-20.02.01:594][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.01-20.02.01:615][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.01-20.02.01:643][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.01-20.02.01:663][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.01-20.02.01:684][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.01-20.02.01:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.01-20.02.02:015][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.01-20.02.02:016][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.01-20.02.02:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.01-20.02.03:475][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.01-20.02.03:572][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.01-20.02.03:590][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.01-20.02.03:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.01-20.02.03:620][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.01-20.02.03:621][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.01-20.02.03:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.01-20.02.03:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.01-20.02.03:930][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.05.01-20.02.04:458][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.01-20.02.04:702][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.01-20.02.04:709][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.01-20.02.04:709][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.01-20.02.04:709][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.01-20.02.04:709][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.01-20.02.04:709][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.01-20.02.04:783][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.05.01-20.02.05:664][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.322082 seconds
+[2018.05.01-20.02.05:671][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.01-20.02.05:671][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.01-20.02.05:671][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.01-20.02.08:577][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `94E88C17464181C07E871C9576D95682` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.05.01-20.02.08:578][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.05.01-20.02.08:646][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.01-20.02.08:714][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.01-20.02.09:636][  0]SourceControl: Source control is disabled
+[2018.05.01-20.02.09:636][  0]SourceControl: Source control is disabled
+[2018.05.01-20.02.09:695][  0]SourceControl: Source control is disabled
+[2018.05.01-20.02.09:752][  0]SourceControl: Source control is disabled
+[2018.05.01-20.02.11:072][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.01-20.02.11:500][  0]LogOcInput: OculusInput pre-init called
+[2018.05.01-20.02.11:723][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.05.01-20.02.11:767][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.01-20.02.11:768][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.05.01-20.02.11:768][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `2C9E29104F3A8B11C4095FB748B081F8` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.05.01-20.02.11:770][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.05.01-20.02.11:846][  0]LogEngine: Initializing Engine...
+[2018.05.01-20.02.11:850][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.01-20.02.11:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.01-20.02.11:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.01-20.02.12:149][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.01-20.02.12:181][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.02.12:203][  0]LogInit: FAudioDevice initialized.
+[2018.05.01-20.02.12:452][  0]LogDerivedDataCache: Saved boot cache 0.25s 74MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.01-20.02.12:465][  0]LogInit: Texture streaming: Enabled
+[2018.05.01-20.02.12:494][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.01-20.02.12:519][  0]LogInit: Transaction tracking system initialized
+[2018.05.01-20.02.12:565][  0]BlueprintLog: New page: Editor Load
+[2018.05.01-20.02.12:728][  0]LocalizationService: Localization service is disabled
+[2018.05.01-20.02.12:911][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.05.01-20.02.12:912][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.05.01-20.02.12:912][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.05.01-20.02.12:953][  0]LogConsoleResponse: Display: 
+[2018.05.01-20.02.13:194][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.01-20.02.13:194][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.01-20.02.13:195][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.01-20.02.13:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.01-20.02.13:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.01-20.02.13:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/' took 0.02s
+[2018.05.01-20.02.14:230][  0]SourceControl: Source control is disabled
+[2018.05.01-20.02.14:366][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.01-20.09.14:973][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.05.01-20.09.14:996][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.05.01-20.09.14:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.01-20.09.15:222][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 226.326ms to complete.
+[2018.05.01-20.09.15:222][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.227
+[2018.05.01-20.09.15:328][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2e10_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_32bc_0///####STATCAT_Advanced####
+[2018.05.01-20.09.15:328][  0]LogCollectionManager: Loaded 0 collections in 0.002891 seconds
+[2018.05.01-20.09.15:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Collections/' took 0.01s
+[2018.05.01-20.09.15:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Developers/Franco/Collections/' took 0.01s
+[2018.05.01-20.09.15:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Collections/' took 0.01s
+[2018.05.01-20.09.15:390][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.01-20.09.15:401][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2492 classes and 574 folders.
+[2018.05.01-20.09.15:414][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.01-20.09.15:561][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.01-20.09.15:569][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.05.01-20.09.15:640][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.01-20.09.15:646][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.01-20.09.15:762][  0]LogRenderer: Reallocating scene render targets to support 816x376 Format 10 NumSamples 1 (Frame:1).
+[2018.05.01-20.09.15:803][  0]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.01-20.09.15:903][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.01-20.09.15:903][  0]LogLoad: (Engine Initialization) Total time: 442.92 seconds
+[2018.05.01-20.09.15:903][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.01-20.09.15:933][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.01-20.09.15:964][  1]LogAssetRegistry: Asset discovery search completed in 432.0570 seconds
+[2018.05.01-20.09.15:966][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.01-20.09.15:966][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.05.01-20.09.16:958][112]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.01-20.09.17:578][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.01-20.09.19:434][384]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.09.19:531][384]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.09.19:559][384]Cmd: MAP LOAD FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/Prototyping/2DTestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.01-20.09.19:559][384]LightingResults: New page: Lighting Build
+[2018.05.01-20.09.19:564][384]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.05.01-20.09.19:565][384]LoadErrors: New page: Loading map: 2DTestWorld.umap
+[2018.05.01-20.09.19:566][384]MapCheck: New page: Map Check
+[2018.05.01-20.09.19:566][384]LightingResults: New page: Lighting Build
+[2018.05.01-20.09.19:635][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.01-20.09.19:703][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.01-20.09.19:916][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 212.864ms to complete.
+[2018.05.01-20.09.19:917][384]LogFileHelpers: Loading map '2DTestWorld' took 0.359
+[2018.05.01-20.09.22:431][677]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.09.22:461][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.01-20.09.22:461][677]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:09:22 PM)
+[2018.05.01-20.09.22:461][677]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.09.22:462][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001085s)
+[2018.05.01-20.09.22:463][677]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.09.22:463][677]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.05.01-20.09.22:463][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002190s)
+[2018.05.01-20.09.22:497][677]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.09.22:511][677]LogInit: FAudioDevice initialized.
+[2018.05.01-20.09.22:805][677]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.09.22:808][677]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.09.22
+[2018.05.01-20.09.22:809][677]LogWorld: Bringing up level for play took: 0.002022
+[2018.05.01-20.09.22:815][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.01-20.09.22:817][677]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.09.22:817][677]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.09.22:821][677]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.863
+[2018.05.01-20.09.22:855][677]LogRenderer: Reallocating scene render targets to support 1452x936 Format 10 NumSamples 1 (Frame:1).
+[2018.05.01-20.09.22:932][678]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062042 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.10.14:402][277]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.17:620][534]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.21:287][833]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.37:167][105]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.10.37:167][105]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.10.37:167][105]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.10.37:167][105]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.10.37:168][105]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.37:168][105]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.40:986][408]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.10.40:986][408]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.10.40:986][408]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.10.40:987][408]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.10.40:987][408]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.40:987][408]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.42:088][494]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.10.42:088][494]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.10.42:088][494]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.10.42:088][494]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.10.42:089][494]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.42:089][494]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.43:875][634]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.10.43:875][634]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.10.43:875][634]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.10.43:876][634]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.10.43:876][634]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.43:877][634]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.10.45:528][764]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.46:473][838]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.47:358][907]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.48:233][976]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.10.56:699][656]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.11.06:373][733]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.05.01-20.11.07:404][733]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.01-20.11.07:774][734]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.01-20.11.51:016][720]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.11.51:049][720]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.11.51:049][720]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.11.51:105][720]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.11.51:106][720]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.11.51:521][720]LogPlayLevel: PlayLevel: Blueprint regeneration took 472 ms (1 blueprints)
+[2018.05.01-20.11.51:521][720]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:11:51 PM)
+[2018.05.01-20.11.51:521][720]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.11.51:523][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001119s)
+[2018.05.01-20.11.51:523][720]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.11.51:523][720]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.05.01-20.11.51:523][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002020s)
+[2018.05.01-20.11.51:565][720]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.11.51:580][720]LogInit: FAudioDevice initialized.
+[2018.05.01-20.11.51:627][720]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.11.51:629][720]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.11.51
+[2018.05.01-20.11.51:630][720]LogWorld: Bringing up level for play took: 0.001761
+[2018.05.01-20.11.51:632][720]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.51:632][720]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.51:635][720]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld -0.323
+[2018.05.01-20.11.52:041][721]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065868 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.11.54:546][884]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.11.54:546][884]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.11.54:546][884]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.54:546][884]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.54:547][884]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.54:547][884]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.54:606][888]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.11.54:606][888]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.11.54:606][888]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.54:607][888]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.54:607][888]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.54:608][888]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.55:046][917]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.11.55:046][917]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.11.55:046][917]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.55:046][917]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.55:047][917]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.55:047][917]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:558][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.11.57:558][ 83]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.11.57:558][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:558][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:559][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:559][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:559][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:560][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:560][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:560][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:561][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:561][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:561][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:562][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:562][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:562][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:563][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:563][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:563][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:563][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:564][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:564][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:565][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:565][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:565][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:566][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:566][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:566][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:567][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:567][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:567][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:568][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:568][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:569][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:569][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:569][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:569][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:570][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:570][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:570][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:571][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:571][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:571][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:572][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:572][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:572][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:573][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:573][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:573][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:574][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:574][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:574][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:575][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:575][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:575][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:575][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:576][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:576][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:577][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:577][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:577][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:578][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:578][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:578][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:579][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:579][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:579][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:579][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:580][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:580][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:580][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:581][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:581][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:581][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:582][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:582][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:582][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:583][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:583][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:583][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:584][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:584][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:584][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:585][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:585][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:585][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:585][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:586][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:586][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:587][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:587][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:587][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:587][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:588][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:588][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:588][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:589][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:589][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:589][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:590][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:590][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:590][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:590][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:591][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:591][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:591][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:592][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:592][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:592][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:593][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:593][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:593][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:594][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:594][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:594][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:594][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:595][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:595][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:595][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:596][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:596][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:597][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:597][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:597][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:597][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:598][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:598][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:598][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:599][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:599][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:599][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:599][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:600][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:600][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:600][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:601][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:601][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:601][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:602][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:602][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:602][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:603][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:603][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:603][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:604][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:604][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:604][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:605][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:605][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:605][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:605][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:606][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:606][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:607][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:607][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:607][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:607][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:608][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:608][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:608][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:609][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:609][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:609][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:610][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:610][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:610][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:610][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:611][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:611][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:612][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:612][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:612][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:613][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:613][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:613][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:613][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:614][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:614][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:614][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:615][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:615][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:615][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:616][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:616][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:616][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:617][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:617][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:617][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:618][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:618][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:618][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:619][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:619][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:619][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:619][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:620][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:620][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:621][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:621][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:621][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:622][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:622][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:622][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:622][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:623][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:623][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:623][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:624][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:624][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:624][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:625][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:625][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:625][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:626][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:626][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:626][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:627][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:627][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:627][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:628][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:628][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:628][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:628][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:629][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:629][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:630][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:630][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:630][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:630][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:631][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:631][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:631][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:632][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:632][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:632][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:633][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:633][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:633][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:633][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:634][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:634][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:635][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:635][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:635][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:636][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:636][ 83]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.11.57:636][ 83]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.11.57:636][ 83]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/JsonReader.JsonReader_C:ExecuteUbergraph_JsonReader:0000
+[2018.05.01-20.11.57:637][ 83]PIE: Error: Infinite Loop detected in  JsonReader , asserted during  Set sceneStarted with the following  Call Stack
+[2018.05.01-20.11.57:637][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:637][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:637][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:638][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:638][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:638][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:638][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:639][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:639][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:639][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:639][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:640][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:640][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:640][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:640][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:641][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:641][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:641][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:641][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:641][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:642][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:642][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:642][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:642][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:643][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:643][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:643][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:643][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:644][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:644][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:644][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:644][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:645][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:645][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:645][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:645][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:646][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:646][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:646][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:646][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:646][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:647][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:647][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:647][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:647][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:648][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:648][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:648][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:648][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:649][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:649][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:649][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:649][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:649][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:650][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:650][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:650][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:650][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:651][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:651][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:651][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:651][ 83]LogBlueprintUserMessages: [JsonReader_24] Added to Invisible Options
+[2018.05.01-20.11.57:685][ 83]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.12.07:523][848]LogSlate: Window 'Message Log' being destroyed
+[2018.05.01-20.12.07:530][848]LogSlate: Window 'Message Log' being destroyed
+[2018.05.01-20.13.00:290][362]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.13.00:361][362]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.13.00:361][362]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.13.00:417][362]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.13.00:417][362]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.13.00:798][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2018.05.01-20.13.00:798][362]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:13:00 PM)
+[2018.05.01-20.13.00:798][362]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.13.00:799][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001248s)
+[2018.05.01-20.13.00:800][362]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.13.00:800][362]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.05.01-20.13.00:800][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002203s)
+[2018.05.01-20.13.00:842][362]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.13.00:857][362]LogInit: FAudioDevice initialized.
+[2018.05.01-20.13.00:903][362]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.13.00:905][362]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.13.00
+[2018.05.01-20.13.00:905][362]LogWorld: Bringing up level for play took: 0.001650
+[2018.05.01-20.13.00:907][362]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.00:909][362]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.951
+[2018.05.01-20.13.01:032][363]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062042 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.13.02:837][510]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.13.02:837][510]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.13.02:837][510]LogBlueprintUserMessages: [JsonReader_24] diverted
+[2018.05.01-20.13.02:837][510]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.05:697][740]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.13.26:666][192]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.13.26:722][192]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.13.26:723][192]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.13.26:778][192]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.13.26:778][192]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.13.27:165][192]LogPlayLevel: PlayLevel: Blueprint regeneration took 442 ms (1 blueprints)
+[2018.05.01-20.13.27:165][192]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:13:27 PM)
+[2018.05.01-20.13.27:165][192]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.13.27:166][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001091s)
+[2018.05.01-20.13.27:167][192]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.13.27:167][192]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.05.01-20.13.27:167][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.001984s)
+[2018.05.01-20.13.27:209][192]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.13.27:223][192]LogInit: FAudioDevice initialized.
+[2018.05.01-20.13.27:273][192]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.13.27:275][192]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.13.27
+[2018.05.01-20.13.27:275][192]LogWorld: Bringing up level for play took: 0.001654
+[2018.05.01-20.13.27:277][192]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.27:280][192]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 1.321
+[2018.05.01-20.13.27:375][193]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062043 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.13.28:186][259]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.13.28:186][259]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.13.28:186][259]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.30:919][480]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.13.30:919][480]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.13.30:919][480]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.34:049][733]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.13.34:049][733]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.13.34:049][733]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.36:482][930]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.13.36:482][930]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.13.36:482][930]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.13.43:723][505]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.14.18:248][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.14.18:321][ 34]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.14.18:321][ 34]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.14.18:380][ 34]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.14.18:381][ 34]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.14.18:766][ 34]LogPlayLevel: PlayLevel: Blueprint regeneration took 445 ms (1 blueprints)
+[2018.05.01-20.14.18:766][ 34]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:14:18 PM)
+[2018.05.01-20.14.18:766][ 34]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.14.18:767][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001199s)
+[2018.05.01-20.14.18:768][ 34]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.14.18:768][ 34]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.05.01-20.14.18:768][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002196s)
+[2018.05.01-20.14.18:811][ 34]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.14.18:825][ 34]LogInit: FAudioDevice initialized.
+[2018.05.01-20.14.18:874][ 34]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.14.18:876][ 34]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.14.18
+[2018.05.01-20.14.18:877][ 34]LogWorld: Bringing up level for play took: 0.002151
+[2018.05.01-20.14.18:879][ 34]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.18:882][ 34]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.924
+[2018.05.01-20.14.19:128][ 35]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063162 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.14.19:770][ 84]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.14.19:770][ 84]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.14.19:771][ 84]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.20:360][130]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.14.20:361][130]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.14.20:361][130]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.20:951][176]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.14.20:951][176]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.14.20:951][176]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.23:362][364]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.14.23:362][364]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.14.23:363][364]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.23:363][364]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.23:364][364]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.26:134][580]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.26:135][580]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.26:135][580]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.27:084][654]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.14.27:084][654]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.27:084][654]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.14.28:408][757]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.14.32:623][ 82]LogBlueprintUserMessages: [Blue_BP_C_0] JC JUMP
+[2018.05.01-20.14.35:820][326]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.15.31:043][682]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.15.31:101][682]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.15.31:101][682]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.15.31:159][682]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.15.31:160][682]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.15.31:552][682]LogPlayLevel: PlayLevel: Blueprint regeneration took 451 ms (1 blueprints)
+[2018.05.01-20.15.31:552][682]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:15:31 PM)
+[2018.05.01-20.15.31:552][682]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.15.31:554][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001133s)
+[2018.05.01-20.15.31:554][682]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.15.31:555][682]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2018.05.01-20.15.31:555][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002259s)
+[2018.05.01-20.15.31:597][682]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.15.31:612][682]LogInit: FAudioDevice initialized.
+[2018.05.01-20.15.31:660][682]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.15.31:662][682]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.15.31
+[2018.05.01-20.15.31:663][682]LogWorld: Bringing up level for play took: 0.001766
+[2018.05.01-20.15.31:665][682]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.31:667][682]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld -0.291
+[2018.05.01-20.15.31:910][683]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069863 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.15.33:749][774]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.15.33:749][774]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.15.33:750][774]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.34:601][816]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.15.34:601][816]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.15.34:601][816]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.35:699][870]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.15.35:699][870]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.15.35:699][870]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.38:345][  1]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.15.38:346][  1]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.15.38:346][  1]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.38:346][  1]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.38:347][  1]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.41:044][135]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.41:044][135]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.41:997][183]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.41:998][183]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.42:812][224]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.42:812][224]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.44:628][315]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.44:628][315]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.45:644][366]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.45:644][366]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.45:943][381]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.15.45:944][381]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.15.47:182][441]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.16.23:754][407]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.16.23:815][407]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.16.23:815][407]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.16.23:874][407]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.16.23:874][407]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.16.24:264][407]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2018.05.01-20.16.24:265][407]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:16:24 PM)
+[2018.05.01-20.16.24:265][407]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.16.24:266][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001192s)
+[2018.05.01-20.16.24:266][407]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.16.24:267][407]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.05.01-20.16.24:267][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.001984s)
+[2018.05.01-20.16.24:308][407]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.16.24:322][407]LogInit: FAudioDevice initialized.
+[2018.05.01-20.16.24:371][407]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.16.24:374][407]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.16.24
+[2018.05.01-20.16.24:374][407]LogWorld: Bringing up level for play took: 0.002011
+[2018.05.01-20.16.24:376][407]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.24:378][407]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.42
+[2018.05.01-20.16.24:615][408]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062043 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.16.26:135][530]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.16.26:135][530]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.16.26:136][530]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.26:384][550]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.16.26:384][550]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.16.26:384][550]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.26:595][567]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.16.26:596][567]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.16.26:596][567]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.29:375][790]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.16.29:375][790]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.16.29:376][790]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.29:376][790]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended thang
+[2018.05.01-20.16.29:376][790]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended thang
+[2018.05.01-20.16.31:835][988]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.16.31:836][988]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended thang
+[2018.05.01-20.16.34:031][162]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.17.11:857][140]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.17.11:929][140]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.17.11:930][140]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.17.11:988][140]LogPlayLevel: [PlayLevel] Compiling JsonReader before play...
+[2018.05.01-20.17.11:988][140]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.17.12:373][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 442 ms (1 blueprints)
+[2018.05.01-20.17.12:373][140]PIE: New page: PIE session: 2DTestWorld (May 1, 2018, 2:17:12 PM)
+[2018.05.01-20.17.12:373][140]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld
+[2018.05.01-20.17.12:374][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001243s)
+[2018.05.01-20.17.12:375][140]LogAIModule: Creating AISystem for world 2DTestWorld
+[2018.05.01-20.17.12:375][140]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.05.01-20.17.12:375][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/2DTestWorld.2DTestWorld to /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld (0.002056s)
+[2018.05.01-20.17.12:416][140]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.17.12:430][140]LogInit: FAudioDevice initialized.
+[2018.05.01-20.17.12:478][140]LogLoad: Game class is 'GameController_BP_C'
+[2018.05.01-20.17.12:480][140]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld.2DTestWorld up for play (max tick rate 0) at 2018.05.01-17.17.12
+[2018.05.01-20.17.12:480][140]LogWorld: Bringing up level for play took: 0.001702
+[2018.05.01-20.17.12:482][140]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.17.12:484][140]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_2DTestWorld 0.526
+[2018.05.01-20.17.12:723][141]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062042 > MaxSimulationTimeStep (0.050) for 'Blue_BP_C_0', movement 'Walking'
+[2018.05.01-20.17.13:324][188]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been pet
+[2018.05.01-20.17.13:324][188]LogBlueprintUserMessages: [JsonReader_24] dogpetter
+[2018.05.01-20.17.13:324][188]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.17.15:665][372]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been fed
+[2018.05.01-20.17.15:665][372]LogBlueprintUserMessages: [JsonReader_24] dogfeeder
+[2018.05.01-20.17.15:665][372]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.17.17:802][540]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been kicked
+[2018.05.01-20.17.17:802][540]LogBlueprintUserMessages: [JsonReader_24] dogkicker
+[2018.05.01-20.17.17:802][540]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.17.19:931][707]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog has been played with
+[2018.05.01-20.17.19:931][707]LogBlueprintUserMessages: [JsonReader_24] dogplayer
+[2018.05.01-20.17.19:931][707]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.17.19:932][707]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.17.19:932][707]LogBlueprintUserMessages: [JsonReader_24] Dialogue ended
+[2018.05.01-20.17.31:312][589]Set new viewmode: Wireframe
+[2018.05.01-20.17.33:314][799]Set new viewmode: Unlit
+[2018.05.01-20.17.34:042][873]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.18.53:738][954]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Assets/Art/Characters/Pandits/PandaTest.png)
+[2018.05.01-20.18.53:751][954]LogTexture: Display: Building textures: PandaTest (AutoDXT, 600X500)
+[2018.05.01-20.18.56:962][292]LogTexture: Display: Building textures: PandaTest (BGRA8, 600X500)
+[2018.05.01-20.19.01:259][750]LogSlate: Window 'Extract sprites' being destroyed
+[2018.05.01-20.19.16:605][646]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue_C' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:AnimationStateMachine.K2Node_FunctionResult_0' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:AnimationStateMachine.K2Node_FunctionEntry_253' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:DebugPrintScreen.K2Node_FunctionEntry_372' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:FallingCheck.K2Node_FunctionEntry_657' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:JumpingCheck.K2Node_FunctionEntry_682' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:MovingCheck.K2Node_FunctionEntry_723' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:JumpCrouchCheck.K2Node_FunctionEntry_756' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:StateChecks.K2Node_Tunnel_136' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:Dash.K2Node_Tunnel_4' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:Dash.K2Node_Tunnel_5' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:AirCheck.K2Node_Tunnel_7' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:AirCheck.K2Node_Tunnel_6' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:StateChecks.K2Node_Tunnel_137' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:FlipCharacter.K2Node_Tunnel_125' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.BP_Blue:FlipCharacter.K2Node_Tunnel_124' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:398][310]LogMetaData: Removing '/Game/BP/Characters/BP_Blue.SKEL_BP_Blue_C' ref from Metadata '/Game/BP/Characters/Blue_BP.PackageMetaData'
+[2018.05.01-20.19.39:438][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.19.39:733][310]LogSavePackage: Save=286.64ms
+[2018.05.01-20.19.39:733][310]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Blue466A8E86497510CAE0DD6EAC84688CA5.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.19.39:751][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.19.39:934][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameController_BP" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset" SILENT=true
+[2018.05.01-20.19.40:104][310]LogSavePackage: Save=15.20ms
+[2018.05.01-20.19.40:104][310]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/GameController_BPD9D2B27341BE852EAD23499F6919C5BE.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset'
+[2018.05.01-20.19.40:123][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset
+[2018.05.01-20.19.53:646][165]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueBox.BP_DialogueBox_C' ref from Metadata '/Game/BP/DialogueSystem/DialogueBox.PackageMetaData'
+[2018.05.01-20.19.53:646][165]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueBox.BP_DialogueBox:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/DialogueSystem/DialogueBox.PackageMetaData'
+[2018.05.01-20.19.53:646][165]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueBox.BP_DialogueBox:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/DialogueSystem/DialogueBox.PackageMetaData'
+[2018.05.01-20.19.53:646][165]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueBox.BP_DialogueBox:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP/DialogueSystem/DialogueBox.PackageMetaData'
+[2018.05.01-20.19.53:646][165]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueBox.SKEL_BP_DialogueBox_C' ref from Metadata '/Game/BP/DialogueSystem/DialogueBox.PackageMetaData'
+[2018.05.01-20.19.53:728][165]LogSavePackage: Save=48.39ms
+[2018.05.01-20.19.53:728][165]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_DialogueBoxED230C81428D51143BA47C87A330E235.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueBox.uasset'
+[2018.05.01-20.19.53:755][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueBox.uasset
+[2018.05.01-20.19.59:071][752]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.19.59:127][752]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.19.59:506][752]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueOptions.BP_DialogueOptions_C' ref from Metadata '/Game/BP/DialogueSystem/DialogueOptions.PackageMetaData'
+[2018.05.01-20.19.59:507][752]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueOptions.BP_DialogueOptions:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/DialogueSystem/DialogueOptions.PackageMetaData'
+[2018.05.01-20.19.59:507][752]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_DialogueOptions.SKEL_BP_DialogueOptions_C' ref from Metadata '/Game/BP/DialogueSystem/DialogueOptions.PackageMetaData'
+[2018.05.01-20.19.59:575][752]LogSavePackage: Save=33.90ms
+[2018.05.01-20.19.59:575][752]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_DialogueOptionsB9CAA1C1492ECE69DCA586AE7DDB0F7A.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueOptions.uasset'
+[2018.05.01-20.19.59:594][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueOptions.uasset
+[2018.05.01-20.19.59:907][752]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.20.00:074][752]LogSavePackage: Save=173.78ms
+[2018.05.01-20.20.00:074][752]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/JsonReaderBEBB1D894EFBE4F05B9F1CA3F2782AC3.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/JsonReader.uasset'
+[2018.05.01-20.20.00:093][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/JsonReader.uasset
+[2018.05.01-20.20.00:096][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameController_BP" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset" SILENT=true
+[2018.05.01-20.20.00:223][752]LogSavePackage: Save=15.77ms
+[2018.05.01-20.20.00:223][752]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/GameController_BP0DD5534F4E83EA741C5D3F9166B49A3B.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset'
+[2018.05.01-20.20.00:242][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GameController_BP.uasset
+[2018.05.01-20.20.06:090][426]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.20.06:147][426]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:EventGraph.K2Node_Event_14' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:CreateOptionStructure.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:JsonSceneSet.K2Node_Tunnel_0' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:JsonSceneSet.K2Node_Tunnel_1' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:BreakOption.K2Node_Tunnel_41' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:BreakOption.K2Node_Tunnel_40' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:CheckDivert.K2Node_Tunnel_39' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:CheckDivert.K2Node_Tunnel_38' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:OptionExceptions.K2Node_Tunnel_2593' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:OptionExceptions.K2Node_Tunnel_2592' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:CheckFlags.K2Node_Tunnel_2339' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader:CheckFlags.K2Node_Tunnel_2338' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:606][426]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReader.SKEL_BP_JsonReader_C' ref from Metadata '/Game/BP/DialogueSystem/JsonReader.PackageMetaData'
+[2018.05.01-20.20.06:645][426]LogJson: Error: Unable to convert key to string for property conditionTags.
+[2018.05.01-20.20.06:969][426]LogSavePackage: Save=330.84ms
+[2018.05.01-20.20.06:969][426]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_JsonReader26061FB745CD19CFA8FEF8B96FF28EAE.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_JsonReader.uasset'
+[2018.05.01-20.20.06:989][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_JsonReader.uasset
+[2018.05.01-20.20.07:118][426]LogSavePackage: Save=9.46ms
+[2018.05.01-20.20.07:118][426]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/JsonReader5C1EFAA748BD9E77F676D9B91A192F10.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/JsonReader.uasset'
+[2018.05.01-20.20.07:139][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/JsonReader.uasset
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.BP_JsonReaderHUD:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.BP_JsonReaderHUD_C' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.BP_JsonReaderHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.BP_JsonReaderHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.BP_JsonReaderHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:742][957]LogMetaData: Removing '/Game/BP/DialogueSystem/BP_JsonReaderHUD.SKEL_BP_JsonReaderHUD_C' ref from Metadata '/Game/BP/DialogueSystem/JsonReaderHUD.PackageMetaData'
+[2018.05.01-20.20.11:792][957]LogSavePackage: Save=19.22ms
+[2018.05.01-20.20.11:792][957]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_JsonReaderHUD3E3C03B646007176A5A7A9B5B1012DDD.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_JsonReaderHUD.uasset'
+[2018.05.01-20.20.11:810][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_JsonReaderHUD.uasset
+[2018.05.01-20.20.19:578][850]LogMetaData: Removing '/Game/BP/DialogueSystem/STR_Dialogue.STR_Dialogue' ref from Metadata '/Game/BP/DialogueSystem/DialogueStructure.PackageMetaData'
+[2018.05.01-20.20.19:578][850]LogMetaData: Removing '/Game/BP/DialogueSystem/STR_Dialogue.STR_Dialogue:ifConditions_24_8515688B4049C01E3A6759B582C4E856' ref from Metadata '/Game/BP/DialogueSystem/DialogueStructure.PackageMetaData'
+[2018.05.01-20.20.19:578][850]LogMetaData: Removing '/Game/BP/DialogueSystem/STR_Dialogue.STR_Dialogue:linkPath_14_7CE690FE402C8637A2D7C4AFBA6A3BD8' ref from Metadata '/Game/BP/DialogueSystem/DialogueStructure.PackageMetaData'
+[2018.05.01-20.20.19:578][850]LogMetaData: Removing '/Game/BP/DialogueSystem/STR_Dialogue.STR_Dialogue:notIfConditions_22_CF82BAF44E6EC727D22812859EB9B532' ref from Metadata '/Game/BP/DialogueSystem/DialogueStructure.PackageMetaData'
+[2018.05.01-20.20.19:578][850]LogMetaData: Removing '/Game/BP/DialogueSystem/STR_Dialogue.STR_Dialogue:option_13_51F64309464BEDE0EF9D5AAB5AFD42B4' ref from Metadata '/Game/BP/DialogueSystem/DialogueStructure.PackageMetaData'
+[2018.05.01-20.20.19:622][850]LogSavePackage: Save=13.30ms
+[2018.05.01-20.20.19:622][850]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/STR_DialogueC34A56914A59CD94806480AC4C709BD9.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/STR_Dialogue.uasset'
+[2018.05.01-20.20.19:640][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/STR_Dialogue.uasset
+[2018.05.01-20.20.29:778][ 15]LogMetaData: Removing '/Game/BP/BP_GameController.BP_GameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/GameController_BP.PackageMetaData'
+[2018.05.01-20.20.29:778][ 15]LogMetaData: Removing '/Game/BP/BP_GameController.BP_GameController_C' ref from Metadata '/Game/BP/GameController_BP.PackageMetaData'
+[2018.05.01-20.20.29:778][ 15]LogMetaData: Removing '/Game/BP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/GameController_BP.PackageMetaData'
+[2018.05.01-20.20.29:778][ 15]LogMetaData: Removing '/Game/BP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/GameController_BP.PackageMetaData'
+[2018.05.01-20.20.29:778][ 15]LogMetaData: Removing '/Game/BP/BP_GameController.SKEL_BP_GameController_C' ref from Metadata '/Game/BP/GameController_BP.PackageMetaData'
+[2018.05.01-20.20.29:798][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_GameController" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/BP_GameController.uasset" SILENT=true
+[2018.05.01-20.20.29:825][ 15]LogSavePackage: Save=19.73ms
+[2018.05.01-20.20.29:826][ 15]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_GameControllerBE27C2F14D3DAE952D6052AC50190DF6.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/BP_GameController.uasset'
+[2018.05.01-20.20.29:843][ 15]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/BP_GameController.uasset
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController_C' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C:ReceiveTick' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.SKEL_BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:424][283]LogMetaData: Removing '/Game/BP/GlobalBP/BP_GameController.BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.20.49:476][283]LogSavePackage: Save=19.92ms
+[2018.05.01-20.20.49:476][283]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_GameControllerE8D3551546EDE754F2A022852B234A23.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GlobalBP/BP_GameController.uasset'
+[2018.05.01-20.20.49:496][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GlobalBP/BP_GameController.uasset
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController_C' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C:ReceiveTick' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.SKEL_BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:453][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:454][ 11]LogMetaData: Removing '/Game/BP/Global_BP/BP_GameController.BP_GameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/GlobalBP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.04:502][ 11]LogSavePackage: Save=19.24ms
+[2018.05.01-20.21.04:502][ 11]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_GameController891EAB864C7560E5C46E179EDACC0B91.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Global_BP/BP_GameController.uasset'
+[2018.05.01-20.21.04:522][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Global_BP/BP_GameController.uasset
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController_C' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C:ReceiveTick' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C:Text Displayed' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C:DefaultSceneRoot' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.SKEL_BP_GameController_C:UserConstructionScript' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:472][ 36]LogMetaData: Removing '/Game/BP/GlobalBlueprints/BP_GameController.BP_GameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/Global_BP/BP_GameController.PackageMetaData'
+[2018.05.01-20.21.13:520][ 36]LogSavePackage: Save=19.56ms
+[2018.05.01-20.21.13:520][ 36]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_GameController8231042C49CC281B82B3B9A65339BF2E.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GlobalBlueprints/BP_GameController.uasset'
+[2018.05.01-20.21.13:541][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/GlobalBlueprints/BP_GameController.uasset
+[2018.05.01-20.22.24:042][567]LogSavePackage: Save=93.86ms
+[2018.05.01-20.22.24:042][567]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/KiseguzaForest1FF6C53644237027A3AD448E8FACE659.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/KiseguzaForest.umap'
+[2018.05.01-20.22.24:060][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/KiseguzaForest.umap
+[2018.05.01-20.22.24:061][567]LogFileHelpers: Saving map 'KiseguzaForest' took 0.414
+[2018.05.01-20.22.30:107][224]LogSavePackage: Save=15.48ms
+[2018.05.01-20.22.30:107][224]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/LVL_KiseguzaForest1F7251054861160F3682EE87A1B477CD.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.05.01-20.22.30:125][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.05.01-20.22.30:126][224]LogFileHelpers: Saving map 'LVL_KiseguzaForest' took 0.312
+[2018.05.01-20.22.51:775][733]LogSavePackage: Save=22.33ms
+[2018.05.01-20.22.51:775][733]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/LVL_HorizontalPlatTestB18653224EEB5B2F2A56C597197E8021.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/Prototyping/LVL_HorizontalPlatTest.umap'
+[2018.05.01-20.22.51:794][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/Prototyping/LVL_HorizontalPlatTest.umap
+[2018.05.01-20.22.51:927][733]LogFileHelpers: Saving map 'LVL_HorizontalPlatTest' took 0.448
+[2018.05.01-20.23.10:536][665]LogSlate: Window 'Blue_test_falling' being destroyed
+[2018.05.01-20.23.13:931][ 44]LogSavePackage: Save=14.15ms
+[2018.05.01-20.23.13:932][ 44]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FBBlue_test_fallingBE06CB42429E2F0DB2392BAB18677DF7.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FBBlue_test_falling.uasset'
+[2018.05.01-20.23.13:951][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FBBlue_test_falling.uasset
+[2018.05.01-20.23.14:134][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.14:434][ 44]LogSavePackage: Save=176.62ms
+[2018.05.01-20.23.14:434][ 44]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Blue2AB66AE4412599E65A0F8BBDB6237105.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.14:453][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.23.18:580][522]LogSavePackage: Save=13.48ms
+[2018.05.01-20.23.18:580][522]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FB_Blue_test_falling5CB6E8FC41B672B89915EE869FD8A6BD.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_falling.uasset'
+[2018.05.01-20.23.18:600][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_falling.uasset
+[2018.05.01-20.23.18:778][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.19:067][522]LogSavePackage: Save=177.74ms
+[2018.05.01-20.23.19:067][522]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Blue7685201842C27684D18C7F903EBB7092.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.19:088][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.23.23:120][981]LogSavePackage: Save=14.08ms
+[2018.05.01-20.23.23:120][981]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FB_Blue_test_run87A4227D4B978985AC577CAB5470839E.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_run.uasset'
+[2018.05.01-20.23.23:139][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_run.uasset
+[2018.05.01-20.23.23:318][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.23:605][981]LogSavePackage: Save=176.42ms
+[2018.05.01-20.23.23:605][981]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_BlueA8FB14C24F3FA1A23722898F8297E9D7.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.23:625][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.23.27:075][364]LogSavePackage: Save=80.85ms
+[2018.05.01-20.23.27:075][364]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FB_Blue_test_jumping170D7F24460077A5559E65BE979B2319.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_jumping.uasset'
+[2018.05.01-20.23.27:095][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_jumping.uasset
+[2018.05.01-20.23.27:273][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.27:560][364]LogSavePackage: Save=176.96ms
+[2018.05.01-20.23.27:560][364]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_BlueD1A8FF0E4572D03F6A073E9B0E3BFDBD.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.27:579][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.23.30:606][705]LogSavePackage: Save=14.06ms
+[2018.05.01-20.23.30:606][705]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FB_Blue_test_jumpcrouch617EC0AE4E29976A2581A881AB28AC6E.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_jumpcrouch.uasset'
+[2018.05.01-20.23.30:627][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_jumpcrouch.uasset
+[2018.05.01-20.23.30:809][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.31:100][705]LogSavePackage: Save=178.43ms
+[2018.05.01-20.23.31:100][705]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_BlueCF8A726E46F28A6A890703AADF71A336.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.31:119][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.23.34:074][ 35]LogSavePackage: Save=14.76ms
+[2018.05.01-20.23.34:074][ 35]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FB_Blue_test_Idle2889ED0E4D9795BC81F7559CCE147340.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_Idle.uasset'
+[2018.05.01-20.23.34:093][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/FB_Blue_test_Idle.uasset
+[2018.05.01-20.23.34:402][ 35]LogSavePackage: Save=10.14ms
+[2018.05.01-20.23.34:402][ 35]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Blue_Idle_Anim3D0F571E49956910D142A6967954909F.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/Blue_Idle_Anim.uasset'
+[2018.05.01-20.23.34:410][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Characters/Blue/Blue_Idle_Anim.uasset
+[2018.05.01-20.23.34:414][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.23.34:698][ 35]LogSavePackage: Save=174.24ms
+[2018.05.01-20.23.34:699][ 35]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_BlueEEFCEEB44929E68DE85CAA98AD213FAA.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.23.34:719][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.24.01:215][ 84]LogSavePackage: Save=12.56ms
+[2018.05.01-20.24.01:215][ 84]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/FNT_PokemonE27CE0014A7910DE64353F998F2EF59A.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Fonts/FNT_Pokemon.uasset'
+[2018.05.01-20.24.01:233][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/VisualAssets/Fonts/FNT_Pokemon.uasset
+[2018.05.01-20.24.01:560][ 84]LogSavePackage: Save=23.27ms
+[2018.05.01-20.24.01:560][ 84]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_DialogueOptionsDAFA7C644B81819D387077A1EACF48BC.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueOptions.uasset'
+[2018.05.01-20.24.01:578][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/DialogueSystem/BP_DialogueOptions.uasset
+[2018.05.01-20.24.16:293][798]LogMetaData: Removing '/Game/Data/AnimationSystem/ENUM_AnimationState.ENUM_AnimationState' ref from Metadata '/Game/Data/AnimationSystem/AnimationState.PackageMetaData'
+[2018.05.01-20.24.16:350][798]LogSavePackage: Save=23.57ms
+[2018.05.01-20.24.16:351][798]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/ENUM_AnimationState76944CA44F35284E71E13980FCAECA8D.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Data/AnimationSystem/ENUM_AnimationState.uasset'
+[2018.05.01-20.24.16:370][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Data/AnimationSystem/ENUM_AnimationState.uasset
+[2018.05.01-20.24.16:553][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_Blue" FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset" SILENT=true
+[2018.05.01-20.24.16:840][798]LogSavePackage: Save=176.16ms
+[2018.05.01-20.24.16:840][798]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Blue8033C9884503BFC5EFBE3A923258818D.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset'
+[2018.05.01-20.24.16:859][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_Blue.uasset
+[2018.05.01-20.24.29:256][192]LogSavePackage: Save=22.45ms
+[2018.05.01-20.24.29:256][192]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_PanditMac3C5B9D2C44FE7EDDD5AAABBDD07AD2A5.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_PanditMac.uasset'
+[2018.05.01-20.24.29:274][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/Characters/BP_PanditMac.uasset
+[2018.05.01-20.24.33:786][633]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.05.01-20.24.34:998][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.01-20.24.36:450][896]LogEditorViewport: Clicking Background
+[2018.05.01-20.24.37:557][ 26]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.05.01-20.24.38:210][ 90]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.05.01-20.24.38:826][155]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.05.01-20.24.39:946][274]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (tile_test_sheet_TileMap)
+[2018.05.01-20.24.40:879][374]LogEditorViewport: Clicking on Actor (LMB): BP_PanditMac_C (BP_PanditMac)
+[2018.05.01-20.24.40:995][376]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2018.05.01-20.24.43:518][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.01-20.25.33:969][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.01-20.25.47:026][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.01-20.25.47:060][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.01-20.25.47:079][ 94]LogPlayLevel: [PlayLevel] Compiling BP_DialogueOptions before play...
+[2018.05.01-20.25.47:169][ 94]LogPlayLevel: [PlayLevel] Compiling BP_Blue before play...
+[2018.05.01-20.25.47:270][ 94]LogPlayLevel: [PlayLevel] Compiling BP_PanditMac before play...
+[2018.05.01-20.25.47:644][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 584 ms (3 blueprints)
+[2018.05.01-20.25.47:644][ 94]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 1, 2018, 2:25:47 PM)
+[2018.05.01-20.25.47:644][ 94]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.01-20.25.47:646][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001525s)
+[2018.05.01-20.25.47:646][ 94]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.01-20.25.47:647][ 94]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.05.01-20.25.47:647][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002398s)
+[2018.05.01-20.25.47:690][ 94]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.01-20.25.47:705][ 94]LogInit: FAudioDevice initialized.
+[2018.05.01-20.25.47:760][ 94]LogLinker: Warning: Can't find file '/Game/BP/GameController_BP'
+[2018.05.01-20.25.47:760][ 94]LogLinker: Warning: Can't find file '/Game/BP/GameController_BP'
+[2018.05.01-20.25.47:760][ 94]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BP/GameController_BP.GameController_BP_C'
+[2018.05.01-20.25.47:761][ 94]LogLoad: Game class is 'GameModeBase'
+[2018.05.01-20.25.47:763][ 94]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.01-17.25.47
+[2018.05.01-20.25.47:764][ 94]LogWorld: Bringing up level for play took: 0.002187
+[2018.05.01-20.25.47:765][ 94]LogBlueprintUserMessages: [JsonReader_24] Speaker:Dog.
+[2018.05.01-20.25.47:766][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader'!
+[2018.05.01-20.25.47:766][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:0DA2
+[2018.05.01-20.25.47:766][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 1 in graph: EventGraph in object: BP_JsonReader with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.05.01-20.25.47:766][ 94]LogScript: Warning: Attempted to assign to None
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:0DB7
+[2018.05.01-20.25.47:766][ 94]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 1 in graph: EventGraph in object: BP_JsonReader with description: Attempted to assign to None
+[2018.05.01-20.25.47:766][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader'!
+[2018.05.01-20.25.47:766][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:2542
+[2018.05.01-20.25.47:766][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 2 in graph: EventGraph in object: BP_JsonReader with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.05.01-20.25.47:766][ 94]LogScript: Warning: Attempted to assign to None
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:2557
+[2018.05.01-20.25.47:767][ 94]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 2 in graph: EventGraph in object: BP_JsonReader with description: Attempted to assign to None
+[2018.05.01-20.25.47:767][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader'!
+[2018.05.01-20.25.47:767][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:275D
+[2018.05.01-20.25.47:767][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 3 in graph: EventGraph in object: BP_JsonReader with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.05.01-20.25.47:767][ 94]LogScript: Warning: Attempted to assign to None
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:2772
+[2018.05.01-20.25.47:767][ 94]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 3 in graph: EventGraph in object: BP_JsonReader with description: Attempted to assign to None
+[2018.05.01-20.25.47:767][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader'!
+[2018.05.01-20.25.47:767][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:28B6
+[2018.05.01-20.25.47:767][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 4 in graph: EventGraph in object: BP_JsonReader with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.05.01-20.25.47:767][ 94]LogScript: Warning: Attempted to assign to None
+	BP_JsonReader_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.JsonReader_24
+	Function /Game/BP/DialogueSystem/BP_JsonReader.BP_JsonReader_C:ExecuteUbergraph_BP_JsonReader:28CB
+[2018.05.01-20.25.47:767][ 94]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_BP_JsonReader' from node: Set Option 4 in graph: EventGraph in object: BP_JsonReader with description: Attempted to assign to None
+[2018.05.01-20.25.47:774][ 94]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.184
+[2018.05.01-20.25.48:739][152]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.01-20.26.20:343][234]LogSlate: Window 'BP_PanditMac*' being destroyed
+[2018.05.01-20.26.22:975][500]LogSlate: Window 'Message Log' being destroyed
+[2018.05.01-20.26.22:980][500]LogSlate: Window 'Message Log' being destroyed
+[2018.05.01-20.26.24:237][624]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.05.01-20.26.27:099][624]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.855 s
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: 
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: Stack: 
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E199BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E16FAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E170ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E0663DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000DE2DB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000DD35C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000DD1E77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000DD1EAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000DD326E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E58E6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E58EBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E5B1C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E5940475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E5918360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E590B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000F81BE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000F81B1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000F81C052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000F81AD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x0000000017C6B85D USER32.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x0000000017C6B1EF USER32.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000F81C1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E00B5475 UE4Editor.exe!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E00C6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E00C6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E00D4149 UE4Editor.exe!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x00000000E00D5B57 UE4Editor.exe!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x0000000017831FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: [Callstack] 0x0000000019C1F061 ntdll.dll!UnknownFunction []
+[2018.05.01-20.26.27:099][624]LogOutputDevice: Error: 
+[2018.05.01-20.26.27:109][624]LogStats:                SubmitErrorReport -  0.000 s
