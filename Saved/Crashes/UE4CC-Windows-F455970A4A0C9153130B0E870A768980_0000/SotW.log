@@ -1,0 +1,1389 @@
+﻿Log file open, 05/07/18 19:06:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SotW
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(262164013) SRandInit(262164013).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202904
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/JSONParser/Binaries/Win64/UE4Editor-JSONParser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin JSONParser
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.135s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J55RO49 (192.168.0.104:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.012s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.07-22.06.18:176][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-22.06.18:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.07-22.06.18:198][  0]LogInit: Computer: DESKTOP-J55RO49
+[2018.05.07-22.06.18:198][  0]LogInit: User: Franco
+[2018.05.07-22.06.18:198][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.07-22.06.18:198][  0]LogInit: High frequency timer resolution =3.134202 MHz
+[2018.05.07-22.06.18:198][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.07-22.06.18:198][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.07-22.06.18:198][  0]LogMemory: Process Physical Memory: 275.18 MB used, 275.18 MB peak
+[2018.05.07-22.06.18:198][  0]LogMemory: Process Virtual Memory: 264.00 MB used, 264.00 MB peak
+[2018.05.07-22.06.18:198][  0]LogMemory: Physical Memory: 3117.63 MB used,  5026.80 MB free, 8144.43 MB total
+[2018.05.07-22.06.18:198][  0]LogMemory: Virtual Memory: 672.18 MB used,  5026.80 MB free, 134217728.00 MB total
+[2018.05.07-22.06.18:247][  0]LogInit: Using OS detected language (en-US).
+[2018.05.07-22.06.18:247][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.07-22.06.18:255][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.07-22.06.18:674][  0]LogStreaming: Display: Took  0.428s to EndInitTextLocalization.
+[2018.05.07-22.06.18:675][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.07-22.06.18:725][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.07-22.06.18:725][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.07-22.06.19:225][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.07-22.06.19:246][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7700 Series' (Feature Level 11_0)
+[2018.05.07-22.06.19:246][  0]LogD3D11RHI:       1004/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.05.07-22.06.19:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.07-22.06.19:250][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.07-22.06.19:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.07-22.06.19:255][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.07-22.06.19:255][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.07-22.06.19:255][  0]LogWindows: EnumDisplayDevices:
+[2018.05.07-22.06.19:255][  0]LogWindows:    0. 'AMD Radeon HD 7700 Series' (P:0 D:1)
+[2018.05.07-22.06.19:256][  0]LogWindows:    1. 'AMD Radeon HD 7700 Series' (P:1 D:1)
+[2018.05.07-22.06.19:256][  0]LogWindows:    2. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.07-22.06.19:256][  0]LogWindows:    3. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.07-22.06.19:256][  0]LogWindows:    4. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.07-22.06.19:257][  0]LogWindows:    5. 'AMD Radeon HD 7700 Series' (P:0 D:0)
+[2018.05.07-22.06.19:257][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.07-22.06.19:257][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7700 Series
+[2018.05.07-22.06.19:257][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.07-22.06.19:257][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.07-22.06.19:257][  0]LogRHI: Texture pool is 702 MB (70% of 1004 MB)
+[2018.05.07-22.06.19:296][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.07-22.06.19:311][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.05.07-22.06.19:314][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Intermediate/Shaders/WorkingDirectory/9900/).
+[2018.05.07-22.06.19:314][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/Temp/UnrealShaderWorkingDir/F476DC1F4D261FEF47AFBEBE9BF90912/'.
+[2018.05.07-22.06.19:654][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.07-22.06.19:675][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.07-22.06.19:696][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.07-22.06.19:716][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.07-22.06.19:738][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.07-22.06.19:758][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.07-22.06.19:779][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.07-22.06.19:800][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.07-22.06.19:811][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.07-22.06.19:829][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.07-22.06.19:848][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.07-22.06.19:867][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.07-22.06.19:887][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.07-22.06.19:906][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.07-22.06.19:925][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.07-22.06.19:962][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.07-22.06.19:962][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.07-22.06.19:981][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.07-22.06.19:985][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.07-22.06.20:032][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.07-22.06.20:049][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.07-22.06.20:068][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.07-22.06.20:087][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.07-22.06.20:105][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.07-22.06.20:125][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.07-22.06.20:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.07-22.06.20:408][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.07-22.06.20:409][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.07-22.06.20:409][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.07-22.06.21:640][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: Loaded boot cache 0.09s 84MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.07-22.06.21:733][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.07-22.06.21:750][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.07-22.06.21:765][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.07-22.06.21:779][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.07-22.06.21:779][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.07-22.06.21:781][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-22.06.21:781][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-22.06.22:071][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.05.07-22.06.22:571][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-22.06.22:801][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.07-22.06.22:808][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.07-22.06.22:808][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.07-22.06.22:808][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.07-22.06.22:808][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.07-22.06.22:808][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.07-22.06.22:883][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.05.07-22.06.23:690][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.272283 seconds
+[2018.05.07-22.06.23:696][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.07-22.06.23:696][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.07-22.06.23:696][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.07-22.06.26:527][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `7A44F44245A0027932D6B8899CBC29FC` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.05.07-22.06.26:528][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.05.07-22.06.26:590][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.07-22.06.26:658][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.07-22.06.27:541][  0]SourceControl: Source control is disabled
+[2018.05.07-22.06.27:541][  0]SourceControl: Source control is disabled
+[2018.05.07-22.06.27:596][  0]SourceControl: Source control is disabled
+[2018.05.07-22.06.27:651][  0]SourceControl: Source control is disabled
+[2018.05.07-22.06.28:920][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.07-22.06.29:331][  0]LogOcInput: OculusInput pre-init called
+[2018.05.07-22.06.29:552][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.05.07-22.06.29:581][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/DlgSystem/Content/TestDialogue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.07-22.06.29:582][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.05.07-22.06.29:582][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `BAC32FE44D5228751FF20DB3C9E41DEB` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.05.07-22.06.29:584][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.05.07-22.06.29:661][  0]LogEngine: Initializing Engine...
+[2018.05.07-22.06.29:664][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.07-22.06.29:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.07-22.06.29:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.07-22.06.29:944][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.07-22.06.29:976][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.06.30:008][  0]LogInit: FAudioDevice initialized.
+[2018.05.07-22.06.30:247][  0]LogDerivedDataCache: Saved boot cache 0.24s 84MB C:/Users/Franco.DESKTOP-J55RO49/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.07-22.06.30:267][  0]LogInit: Texture streaming: Enabled
+[2018.05.07-22.06.30:297][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.07-22.06.30:318][  0]LogInit: Transaction tracking system initialized
+[2018.05.07-22.06.30:363][  0]BlueprintLog: New page: Editor Load
+[2018.05.07-22.06.30:514][  0]LocalizationService: Localization service is disabled
+[2018.05.07-22.06.30:693][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.05.07-22.06.30:693][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.05.07-22.06.30:693][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.05.07-22.06.30:733][  0]LogConsoleResponse: Display: 
+[2018.05.07-22.06.30:972][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.07-22.06.30:972][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.07-22.06.30:972][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.07-22.06.30:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.07-22.06.30:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.07-22.06.31:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/' took 0.02s
+[2018.05.07-22.06.31:987][  0]SourceControl: Source control is disabled
+[2018.05.07-22.06.31:988][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.05.07-22.06.31:988][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-22.06.32:185][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.471ms to complete.
+[2018.05.07-22.06.32:185][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.198
+[2018.05.07-22.06.32:260][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-22.06.32:261][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-22.06.32:349][  0]LogCollectionManager: Loaded 0 collections in 0.002995 seconds
+[2018.05.07-22.06.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Collections/' took 0.01s
+[2018.05.07-22.06.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Developers/Franco/Collections/' took 0.01s
+[2018.05.07-22.06.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Collections/' took 0.01s
+[2018.05.07-22.06.32:408][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.07-22.06.32:417][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2492 classes and 574 folders.
+[2018.05.07-22.06.32:428][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-22.06.32:560][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-22.06.32:568][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.07-22.06.32:636][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.07-22.06.32:638][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.07-22.06.32:645][  0]LogSlate: Took 0.000443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.07-22.06.32:745][  0]LogRenderer: Reallocating scene render targets to support 752x376 Format 10 NumSamples 1 (Frame:1).
+[2018.05.07-22.06.32:783][  0]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.07-22.06.32:899][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-22.06.32:899][  0]LogLoad: (Engine Initialization) Total time: 20.66 seconds
+[2018.05.07-22.06.32:899][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.07-22.06.32:931][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.07-22.06.32:977][  1]LogAssetRegistry: Asset discovery search completed in 10.9290 seconds
+[2018.05.07-22.06.32:979][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.07-22.06.32:979][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.05.07-22.06.34:700][111]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.07-22.06.34:702][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.07-22.06.35:058][111]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.07-22.06.36:504][111]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.07-22.06.36:683][112]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.07-22.09.22:533][166]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.09.22:573][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.09.22:573][166]PIE: New page: PIE session: Untitled_0 (May 7, 2018, 4:09:22 PM)
+[2018.05.07-22.09.22:573][166]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2018.05.07-22.09.22:574][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2018.05.07-22.09.22:575][166]LogAIModule: Creating AISystem for world Untitled
+[2018.05.07-22.09.22:575][166]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.05.07-22.09.22:576][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.002126s)
+[2018.05.07-22.09.22:632][166]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.09.22:647][166]LogInit: FAudioDevice initialized.
+[2018.05.07-22.09.22:712][166]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.09.22:714][166]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2018.05.07-19.09.22
+[2018.05.07-22.09.22:714][166]LogWorld: Bringing up level for play took: 0.000589
+[2018.05.07-22.09.22:715][166]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.07-22.09.22:721][166]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.07-22.09.22:722][166]Set new viewmode: Unlit
+[2018.05.07-22.09.22:727][166]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.83
+[2018.05.07-22.09.22:750][166]LogRenderer: Reallocating scene render targets to support 1452x936 Format 10 NumSamples 1 (Frame:1).
+[2018.05.07-22.09.23:663][225]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.09.26:741][550]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.09.26:772][550]Cmd: MAP LOAD FILE="../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/Maps/Prototyping/LVL_HorizontalPlatTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-22.09.26:772][550]LightingResults: New page: Lighting Build
+[2018.05.07-22.09.26:777][550]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.05.07-22.09.26:778][550]LoadErrors: New page: Loading map: LVL_HorizontalPlatTest.umap
+[2018.05.07-22.09.26:778][550]MapCheck: New page: Map Check
+[2018.05.07-22.09.26:778][550]LightingResults: New page: Lighting Build
+[2018.05.07-22.09.26:867][550]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-22.09.26:941][550]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-22.09.27:178][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 236.406ms to complete.
+[2018.05.07-22.09.27:179][550]LogFileHelpers: Loading map 'LVL_HorizontalPlatTest' took 0.408
+[2018.05.07-22.09.28:631][714]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.09.28:678][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.09.28:678][714]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:09:28 PM)
+[2018.05.07-22.09.28:678][714]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.09.28:679][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2018.05.07-22.09.28:680][714]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.09.28:680][714]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.05.07-22.09.28:680][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002234s)
+[2018.05.07-22.09.28:723][714]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.09.28:735][714]LogInit: FAudioDevice initialized.
+[2018.05.07-22.09.28:784][714]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.09.28:786][714]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.09.28
+[2018.05.07-22.09.28:787][714]LogWorld: Bringing up level for play took: 0.002342
+[2018.05.07-22.09.28:789][714]Set new viewmode: Unlit
+[2018.05.07-22.09.28:792][714]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.895
+[2018.05.07-22.09.33:235][211]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.09.37:455][679]LogBlueprintUserMessages: [BP_SceneController_156] 0
+[2018.05.07-22.09.37:455][679]LogBlueprintUserMessages: [BP_SceneController_156] -1
+[2018.05.07-22.09.37:456][679]LogBlueprintUserMessages: [BP_SceneController_156] -2
+[2018.05.07-22.09.37:456][679]LogBlueprintUserMessages: [BP_SceneController_156] -3
+[2018.05.07-22.10.18:462][260]LogBlueprintUserMessages: [BP_SceneController_156] -4
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -5
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -6
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -7
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -8
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -9
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -10
+[2018.05.07-22.10.18:463][260]LogBlueprintUserMessages: [BP_SceneController_156] -11
+[2018.05.07-22.10.18:464][260]LogBlueprintUserMessages: [BP_SceneController_156] -12
+[2018.05.07-22.10.18:464][260]LogBlueprintUserMessages: [BP_SceneController_156] -13
+[2018.05.07-22.10.18:464][260]LogBlueprintUserMessages: [BP_SceneController_156] -14
+[2018.05.07-22.10.18:464][260]LogBlueprintUserMessages: [BP_SceneController_156] -15
+[2018.05.07-22.10.18:464][260]LogBlueprintUserMessages: [BP_SceneController_156] -16
+[2018.05.07-22.10.18:465][260]LogBlueprintUserMessages: [BP_SceneController_156] -17
+[2018.05.07-22.10.18:465][260]LogBlueprintUserMessages: [BP_SceneController_156] -18
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -19
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -20
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -21
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -22
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -23
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -24
+[2018.05.07-22.10.23:250][814]LogBlueprintUserMessages: [BP_SceneController_156] -25
+[2018.05.07-22.10.23:251][814]LogBlueprintUserMessages: [BP_SceneController_156] -26
+[2018.05.07-22.10.23:251][814]LogBlueprintUserMessages: [BP_SceneController_156] -27
+[2018.05.07-22.10.23:251][814]LogBlueprintUserMessages: [BP_SceneController_156] -28
+[2018.05.07-22.10.23:252][814]LogBlueprintUserMessages: [BP_SceneController_156] -29
+[2018.05.07-22.10.23:252][814]LogBlueprintUserMessages: [BP_SceneController_156] -30
+[2018.05.07-22.10.23:252][814]LogBlueprintUserMessages: [BP_SceneController_156] -31
+[2018.05.07-22.10.23:252][814]LogBlueprintUserMessages: [BP_SceneController_156] -32
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -33
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -34
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -35
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -36
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -37
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -38
+[2018.05.07-22.10.28:258][391]LogBlueprintUserMessages: [BP_SceneController_156] -39
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -40
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -41
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -42
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -43
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -44
+[2018.05.07-22.10.28:259][391]LogBlueprintUserMessages: [BP_SceneController_156] -45
+[2018.05.07-22.10.28:260][391]LogBlueprintUserMessages: [BP_SceneController_156] -46
+[2018.05.07-22.10.29:307][504]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.12.31:762][656]LogEditorTransaction: Undo Move Node
+[2018.05.07-22.13.00:314][877]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.13.00:351][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.13.00:512][877]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.13.01:026][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 674 ms (1 blueprints)
+[2018.05.07-22.13.01:026][877]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:13:01 PM)
+[2018.05.07-22.13.01:026][877]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.13.01:028][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2018.05.07-22.13.01:028][877]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.13.01:028][877]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.05.07-22.13.01:028][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002247s)
+[2018.05.07-22.13.01:070][877]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.13.01:083][877]LogInit: FAudioDevice initialized.
+[2018.05.07-22.13.01:127][877]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.13.01:129][877]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.13.01
+[2018.05.07-22.13.01:130][877]LogWorld: Bringing up level for play took: 0.002387
+[2018.05.07-22.13.01:132][877]Set new viewmode: Unlit
+[2018.05.07-22.13.01:133][877]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 1.237
+[2018.05.07-22.13.01:347][878]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071226 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.13.03:696][123]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.13.05:744][338]LogBlueprintUserMessages: [BP_SceneController_156] 0
+[2018.05.07-22.13.05:745][338]LogBlueprintUserMessages: [BP_SceneController_156] -1
+[2018.05.07-22.13.05:745][338]LogBlueprintUserMessages: [BP_SceneController_156] -2
+[2018.05.07-22.13.05:745][338]LogBlueprintUserMessages: [BP_SceneController_156] -3
+[2018.05.07-22.13.07:942][568]LogBlueprintUserMessages: [BP_SceneController_156] -4
+[2018.05.07-22.13.07:942][568]LogBlueprintUserMessages: [BP_SceneController_156] -5
+[2018.05.07-22.13.07:943][568]LogBlueprintUserMessages: [BP_SceneController_156] -6
+[2018.05.07-22.13.07:943][568]LogBlueprintUserMessages: [BP_SceneController_156] -7
+[2018.05.07-22.13.07:943][568]LogBlueprintUserMessages: [BP_SceneController_156] -8
+[2018.05.07-22.13.08:958][674]LogBlueprintUserMessages: [BP_SceneController_156] -9
+[2018.05.07-22.13.08:958][674]LogBlueprintUserMessages: [BP_SceneController_156] -10
+[2018.05.07-22.13.08:959][674]LogBlueprintUserMessages: [BP_SceneController_156] -11
+[2018.05.07-22.13.08:959][674]LogBlueprintUserMessages: [BP_SceneController_156] -12
+[2018.05.07-22.13.08:959][674]LogBlueprintUserMessages: [BP_SceneController_156] -13
+[2018.05.07-22.13.10:013][783]LogBlueprintUserMessages: [BP_SceneController_156] -14
+[2018.05.07-22.13.10:013][783]LogBlueprintUserMessages: [BP_SceneController_156] -15
+[2018.05.07-22.13.10:013][783]LogBlueprintUserMessages: [BP_SceneController_156] -16
+[2018.05.07-22.13.10:014][783]LogBlueprintUserMessages: [BP_SceneController_156] -17
+[2018.05.07-22.13.10:014][783]LogBlueprintUserMessages: [BP_SceneController_156] -18
+[2018.05.07-22.13.11:201][906]LogBlueprintUserMessages: [BP_SceneController_156] -19
+[2018.05.07-22.13.11:201][906]LogBlueprintUserMessages: [BP_SceneController_156] -20
+[2018.05.07-22.13.11:202][906]LogBlueprintUserMessages: [BP_SceneController_156] -21
+[2018.05.07-22.13.11:202][906]LogBlueprintUserMessages: [BP_SceneController_156] -22
+[2018.05.07-22.13.11:202][906]LogBlueprintUserMessages: [BP_SceneController_156] -23
+[2018.05.07-22.13.11:406][927]LogBlueprintUserMessages: [BP_SceneController_156] -24
+[2018.05.07-22.13.11:406][927]LogBlueprintUserMessages: [BP_SceneController_156] -25
+[2018.05.07-22.13.11:407][927]LogBlueprintUserMessages: [BP_SceneController_156] -26
+[2018.05.07-22.13.11:407][927]LogBlueprintUserMessages: [BP_SceneController_156] -27
+[2018.05.07-22.13.11:407][927]LogBlueprintUserMessages: [BP_SceneController_156] -28
+[2018.05.07-22.13.11:632][950]LogBlueprintUserMessages: [BP_SceneController_156] -29
+[2018.05.07-22.13.11:632][950]LogBlueprintUserMessages: [BP_SceneController_156] -30
+[2018.05.07-22.13.11:633][950]LogBlueprintUserMessages: [BP_SceneController_156] -31
+[2018.05.07-22.13.11:633][950]LogBlueprintUserMessages: [BP_SceneController_156] -32
+[2018.05.07-22.13.11:633][950]LogBlueprintUserMessages: [BP_SceneController_156] -33
+[2018.05.07-22.13.11:859][973]LogBlueprintUserMessages: [BP_SceneController_156] -34
+[2018.05.07-22.13.11:859][973]LogBlueprintUserMessages: [BP_SceneController_156] -35
+[2018.05.07-22.13.11:860][973]LogBlueprintUserMessages: [BP_SceneController_156] -36
+[2018.05.07-22.13.11:860][973]LogBlueprintUserMessages: [BP_SceneController_156] -37
+[2018.05.07-22.13.11:860][973]LogBlueprintUserMessages: [BP_SceneController_156] -38
+[2018.05.07-22.13.14:433][241]LogBlueprintUserMessages: [BP_SceneController_156] -39
+[2018.05.07-22.13.14:433][241]LogBlueprintUserMessages: [BP_SceneController_156] -40
+[2018.05.07-22.13.14:434][241]LogBlueprintUserMessages: [BP_SceneController_156] -41
+[2018.05.07-22.13.14:434][241]LogBlueprintUserMessages: [BP_SceneController_156] -42
+[2018.05.07-22.13.14:434][241]LogBlueprintUserMessages: [BP_SceneController_156] -43
+[2018.05.07-22.13.16:310][437]LogBlueprintUserMessages: [BP_SceneController_156] -44
+[2018.05.07-22.13.16:310][437]LogBlueprintUserMessages: [BP_SceneController_156] -45
+[2018.05.07-22.13.16:310][437]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:950][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:951][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.19:952][822]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.13.23:317][170]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.13.51:976][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.13.52:038][507]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.13.52:178][507]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.13.52:659][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 621 ms (1 blueprints)
+[2018.05.07-22.13.52:659][507]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:13:52 PM)
+[2018.05.07-22.13.52:659][507]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.13.52:661][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001331s)
+[2018.05.07-22.13.52:661][507]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.13.52:662][507]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.05.07-22.13.52:662][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002161s)
+[2018.05.07-22.13.52:704][507]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.13.52:717][507]LogInit: FAudioDevice initialized.
+[2018.05.07-22.13.52:764][507]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.13.52:767][507]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.13.52
+[2018.05.07-22.13.52:768][507]LogWorld: Bringing up level for play took: 0.002331
+[2018.05.07-22.13.52:769][507]Set new viewmode: Unlit
+[2018.05.07-22.13.52:771][507]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.874
+[2018.05.07-22.13.52:989][508]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071226 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.13.53:723][583]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.13.57:567][976]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.13.57:567][976]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.14.00:058][230]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.00:059][230]LogBlueprintUserMessages: [BP_SceneController_156] 0
+[2018.05.07-22.14.00:059][230]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.00:059][230]LogBlueprintUserMessages: [BP_SceneController_156] -1
+[2018.05.07-22.14.00:059][230]LogBlueprintUserMessages: [BP_SceneController_156] -2
+[2018.05.07-22.14.00:059][230]LogBlueprintUserMessages: [BP_SceneController_156] -3
+[2018.05.07-22.14.10:756][328]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.10:757][328]LogBlueprintUserMessages: [BP_SceneController_156] -4
+[2018.05.07-22.14.10:757][328]LogBlueprintUserMessages: [BP_SceneController_156] -5
+[2018.05.07-22.14.10:757][328]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.10:757][328]LogBlueprintUserMessages: [BP_SceneController_156] -6
+[2018.05.07-22.14.10:757][328]LogBlueprintUserMessages: [BP_SceneController_156] -7
+[2018.05.07-22.14.10:758][328]LogBlueprintUserMessages: [BP_SceneController_156] -8
+[2018.05.07-22.14.13:760][634]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.13:760][634]LogBlueprintUserMessages: [BP_SceneController_156] -9
+[2018.05.07-22.14.13:760][634]LogBlueprintUserMessages: [BP_SceneController_156] -10
+[2018.05.07-22.14.13:760][634]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:804][ 50]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.17:804][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:804][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:804][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:805][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:805][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:805][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:805][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:806][ 50]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:819][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:820][ 51]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.17:820][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:820][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:820][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:820][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:821][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:821][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.17:821][ 51]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:710][653]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.23:710][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:711][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.23:712][653]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:416][928]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:417][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.26:418][928]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:255][220]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.29:255][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:256][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.29:257][220]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:090][713]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.34:090][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:091][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.34:092][713]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:578][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:579][967]LogBlueprintUserMessages: [BP_SceneController_156] Executing Dialogue
+[2018.05.07-22.14.36:579][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:579][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:579][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:579][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:580][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:580][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.36:580][967]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.14.38:240][132]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.15.25:934][219]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.15.25:998][219]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.15.26:139][219]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.15.26:624][219]LogPlayLevel: PlayLevel: Blueprint regeneration took 626 ms (1 blueprints)
+[2018.05.07-22.15.26:624][219]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:15:26 PM)
+[2018.05.07-22.15.26:624][219]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.15.26:626][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001387s)
+[2018.05.07-22.15.26:626][219]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.15.26:627][219]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.05.07-22.15.26:627][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002291s)
+[2018.05.07-22.15.26:668][219]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.15.26:682][219]LogInit: FAudioDevice initialized.
+[2018.05.07-22.15.26:729][219]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.15.26:730][219]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.15.26
+[2018.05.07-22.15.26:732][219]LogWorld: Bringing up level for play took: 0.002238
+[2018.05.07-22.15.26:734][219]Set new viewmode: Unlit
+[2018.05.07-22.15.26:735][219]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.839
+[2018.05.07-22.15.26:952][220]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072223 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.15.27:755][287]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.29:454][429]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.30:203][493]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.38:444][187]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.15.38:445][187]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.15.42:357][516]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.15.42:358][516]LogBlueprintUserMessages: [BP_SceneController_156] 0
+[2018.05.07-22.15.42:358][516]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.15.42:359][516]LogBlueprintUserMessages: [BP_SceneController_156] -1
+[2018.05.07-22.15.42:359][516]LogBlueprintUserMessages: [BP_SceneController_156] -2
+[2018.05.07-22.15.42:359][516]LogBlueprintUserMessages: [BP_SceneController_156] -3
+[2018.05.07-22.15.48:410][ 24]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.15.48:411][ 24]LogBlueprintUserMessages: [BP_SceneController_156] -4
+[2018.05.07-22.15.48:411][ 24]LogBlueprintUserMessages: [BP_SceneController_156] -5
+[2018.05.07-22.15.48:411][ 24]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.50:882][232]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.52:249][348]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:250][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:251][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:251][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:251][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:252][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:252][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:252][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.52:252][348]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.54:221][512]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.54:869][567]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.54:881][568]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.58:035][837]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:036][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:037][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:037][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:037][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:037][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:037][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:038][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:038][837]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:050][838]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.58:052][838]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.15.58:053][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:053][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:053][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:053][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:054][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:054][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:054][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:054][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.15.58:055][838]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.00:246][ 18]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.02:057][173]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.02:057][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:058][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.02:059][173]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.05:771][484]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.08:044][678]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.08:798][742]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:799][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:800][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:800][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:800][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:800][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:800][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:801][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.08:801][742]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.12:110][ 17]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.12:658][ 64]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.22:963][947]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.22:964][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:964][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:964][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:965][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:965][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:965][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:965][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:965][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.22:966][947]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.27:577][333]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.28:560][417]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:561][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:562][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:562][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:562][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:562][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:563][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:563][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.28:563][417]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.16.31:126][632]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.32:706][767]LogBlueprintUserMessages: [BP_SceneController_156] Toggle Scene Event
+[2018.05.07-22.16.35:708][ 22]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.17.36:228][733]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.17.36:260][733]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.17.36:394][733]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.17.36:878][733]LogPlayLevel: [PlayLevel] Compiling BP_DialogueBoxComponent before play...
+[2018.05.07-22.17.37:033][733]LogPlayLevel: PlayLevel: Blueprint regeneration took 773 ms (2 blueprints)
+[2018.05.07-22.17.37:034][733]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:17:37 PM)
+[2018.05.07-22.17.37:034][733]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.17.37:035][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2018.05.07-22.17.37:036][733]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.17.37:036][733]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.05.07-22.17.37:036][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002186s)
+[2018.05.07-22.17.37:079][733]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.17.37:093][733]LogInit: FAudioDevice initialized.
+[2018.05.07-22.17.37:139][733]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.17.37:141][733]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.17.37
+[2018.05.07-22.17.37:142][733]LogWorld: Bringing up level for play took: 0.002389
+[2018.05.07-22.17.37:144][733]Set new viewmode: Unlit
+[2018.05.07-22.17.37:145][733]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 1.249
+[2018.05.07-22.17.37:267][734]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072183 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.17.40:961][ 49]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.17.51:059][227]LogEditorTransaction: Undo Paste clipboard contents
+[2018.05.07-22.17.54:934][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/BP/DialogueSystem/BP_DialogueBoxComponent.BP_DialogueBoxComponent:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/BP/DialogueSystem/BP_DialogueBoxComponent.BP_DialogueBoxComponent:EventGraph.K2Node_IfThenElse_1
+[2018.05.07-22.17.54:934][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/BP/DialogueSystem/BP_DialogueBoxComponent.BP_DialogueBoxComponent:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/BP/DialogueSystem/BP_DialogueBoxComponent.BP_DialogueBoxComponent:EventGraph.K2Node_IfThenElse_1
+[2018.05.07-22.18.05:173][847]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.18.05:214][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.18.05:239][847]LogPlayLevel: [PlayLevel] Compiling BP_DialogueBoxComponent before play...
+[2018.05.07-22.18.05:397][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (1 blueprints)
+[2018.05.07-22.18.05:397][847]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:18:05 PM)
+[2018.05.07-22.18.05:397][847]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.18.05:399][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001345s)
+[2018.05.07-22.18.05:399][847]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.18.05:400][847]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.05.07-22.18.05:400][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002218s)
+[2018.05.07-22.18.05:442][847]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.18.05:455][847]LogInit: FAudioDevice initialized.
+[2018.05.07-22.18.05:497][847]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.18.05:500][847]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.18.05
+[2018.05.07-22.18.05:501][847]LogWorld: Bringing up level for play took: 0.002842
+[2018.05.07-22.18.05:503][847]Set new viewmode: Unlit
+[2018.05.07-22.18.05:504][847]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.392
+[2018.05.07-22.18.05:632][848]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072023 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.18.10:202][234]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.18.57:442][288]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.18.57:481][288]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.18.57:623][288]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.18.58:161][288]LogPlayLevel: PlayLevel: Blueprint regeneration took 679 ms (1 blueprints)
+[2018.05.07-22.18.58:161][288]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:18:58 PM)
+[2018.05.07-22.18.58:161][288]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.18.58:163][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001353s)
+[2018.05.07-22.18.58:163][288]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.18.58:163][288]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.05.07-22.18.58:163][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002155s)
+[2018.05.07-22.18.58:206][288]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.18.58:220][288]LogInit: FAudioDevice initialized.
+[2018.05.07-22.18.58:269][288]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.18.58:271][288]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.18.58
+[2018.05.07-22.18.58:272][288]LogWorld: Bringing up level for play took: 0.002192
+[2018.05.07-22.18.58:274][288]Set new viewmode: Unlit
+[2018.05.07-22.18.58:276][288]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.379
+[2018.05.07-22.18.58:412][289]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071586 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.18.59:761][399]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.19.12:926][765]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.19.12:988][765]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.19.13:119][765]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.19.13:602][765]LogPlayLevel: PlayLevel: Blueprint regeneration took 613 ms (1 blueprints)
+[2018.05.07-22.19.13:603][765]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:19:13 PM)
+[2018.05.07-22.19.13:603][765]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.19.13:604][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001395s)
+[2018.05.07-22.19.13:605][765]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.19.13:605][765]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.05.07-22.19.13:605][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002280s)
+[2018.05.07-22.19.13:648][765]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.19.13:661][765]LogInit: FAudioDevice initialized.
+[2018.05.07-22.19.13:705][765]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.19.13:707][765]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.19.13
+[2018.05.07-22.19.13:708][765]LogWorld: Bringing up level for play took: 0.002513
+[2018.05.07-22.19.13:710][765]Set new viewmode: Unlit
+[2018.05.07-22.19.13:711][765]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.185
+[2018.05.07-22.19.13:885][766]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071602 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.19.14:753][837]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.16:129][952]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.17:634][ 80]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.20:981][361]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.24:288][643]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.25:448][739]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.26:863][858]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.27:790][935]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.19.28:586][  0]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.19.46:852][996]BlueprintLog: New page: Compile BP_SceneController
+[2018.05.07-22.20.15:804][239]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.05.07-22.23.14:027][957]LogSavePackage: Save=18.42ms
+[2018.05.07-22.23.14:027][957]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/LVL_HorizontalPlatTest_Auto1AB2B8BB04FDF3E7D6050B5A28F7409FE.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/Maps/Prototyping/LVL_HorizontalPlatTest_Auto1.umap'
+[2018.05.07-22.23.14:036][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/Maps/Prototyping/LVL_HorizontalPlatTest_Auto1.umap
+[2018.05.07-22.23.14:046][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Prototyping/LVL_HorizontalPlatTest' took 0.312
+[2018.05.07-22.23.14:046][957]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2018.05.07-22.23.14:054][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/DialogueSystem/BP_SceneController] ([1] browsable assets)...
+[2018.05.07-22.23.14:054][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/DialogueSystem/BP_SceneController]
+[2018.05.07-22.23.14:586][957]LogSavePackage: Save=300.83ms
+[2018.05.07-22.23.14:586][957]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_SceneController_Auto197B7DE244D564576CFCF90BAF39A0CB0.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/DialogueSystem/BP_SceneController_Auto1.uasset'
+[2018.05.07-22.23.14:594][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/DialogueSystem/BP_SceneController_Auto1.uasset
+[2018.05.07-22.23.14:601][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/DialogueSystem/BP_DialogueBoxComponent] ([1] browsable assets)...
+[2018.05.07-22.23.14:601][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/DialogueSystem/BP_DialogueBoxComponent]
+[2018.05.07-22.23.14:868][957]LogSavePackage: Save=40.93ms
+[2018.05.07-22.23.14:868][957]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_DialogueBoxComponent_Auto124D2AEB54087C613D30B7F9BC06AB370.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/DialogueSystem/BP_DialogueBoxComponent_Auto1.uasset'
+[2018.05.07-22.23.14:877][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/DialogueSystem/BP_DialogueBoxComponent_Auto1.uasset
+[2018.05.07-22.23.14:877][957]LogFileHelpers: Auto-saving content packages took 0.830
+[2018.05.07-22.23.49:013][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.23.49:118][883]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.23.49:250][883]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.23.49:737][883]LogPlayLevel: PlayLevel: Blueprint regeneration took 619 ms (1 blueprints)
+[2018.05.07-22.23.49:737][883]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:23:49 PM)
+[2018.05.07-22.23.49:737][883]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.23.49:739][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001325s)
+[2018.05.07-22.23.49:739][883]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.23.49:739][883]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.05.07-22.23.49:739][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002196s)
+[2018.05.07-22.23.49:781][883]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.23.49:795][883]LogInit: FAudioDevice initialized.
+[2018.05.07-22.23.49:841][883]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.23.49:843][883]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.23.49
+[2018.05.07-22.23.49:844][883]LogWorld: Bringing up level for play took: 0.002274
+[2018.05.07-22.23.49:846][883]Set new viewmode: Unlit
+[2018.05.07-22.23.49:847][883]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.05
+[2018.05.07-22.23.50:071][884]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071226 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.23.50:884][969]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.23.50:885][969]LogBlueprintUserMessages: [BP_SceneController_156] 7
+[2018.05.07-22.23.57:590][672]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.23.57:591][672]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.23.57:591][672]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.24.05:516][488]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.05:517][488]LogBlueprintUserMessages: [BP_SceneController_156] 2
+[2018.05.07-22.24.05:517][488]LogBlueprintUserMessages: [BP_SceneController_156] 0
+[2018.05.07-22.24.05:517][488]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.05:518][488]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.24.05:518][488]LogBlueprintUserMessages: [BP_SceneController_156] -1
+[2018.05.07-22.24.05:518][488]LogBlueprintUserMessages: [BP_SceneController_156] -2
+[2018.05.07-22.24.05:518][488]LogBlueprintUserMessages: [BP_SceneController_156] -3
+[2018.05.07-22.24.11:701][137]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.11:702][137]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.24.11:702][137]LogBlueprintUserMessages: [BP_SceneController_156] -4
+[2018.05.07-22.24.11:702][137]LogBlueprintUserMessages: [BP_SceneController_156] -5
+[2018.05.07-22.24.11:702][137]LogBlueprintUserMessages: [BP_SceneController_156] 3
+[2018.05.07-22.24.15:634][540]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.24.47:347][960]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.24.47:440][960]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.24.47:571][960]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.24.48:064][960]LogPlayLevel: PlayLevel: Blueprint regeneration took 623 ms (1 blueprints)
+[2018.05.07-22.24.48:064][960]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:24:48 PM)
+[2018.05.07-22.24.48:065][960]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.24.48:066][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001383s)
+[2018.05.07-22.24.48:067][960]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.24.48:067][960]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.05.07-22.24.48:067][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002246s)
+[2018.05.07-22.24.48:109][960]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.24.48:122][960]LogInit: FAudioDevice initialized.
+[2018.05.07-22.24.48:169][960]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.24.48:172][960]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.24.48
+[2018.05.07-22.24.48:173][960]LogWorld: Bringing up level for play took: 0.002148
+[2018.05.07-22.24.48:174][960]Set new viewmode: Unlit
+[2018.05.07-22.24.48:176][960]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.279
+[2018.05.07-22.24.48:341][961]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072968 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.24.49:150][ 23]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.24.51:151][176]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.51:152][176]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.24.53:441][351]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.53:442][351]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.24.53:442][351]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.24.53:443][351]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.24.53:443][351]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.24.53:443][351]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:124][558]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.25.09:125][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:125][558]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:126][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:127][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:127][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:127][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:127][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:127][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:128][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:128][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.09:128][558]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.25.13:793][914]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.26.25:877][888]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.26.25:949][888]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.26.26:084][888]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.26.26:605][888]LogPlayLevel: PlayLevel: Blueprint regeneration took 654 ms (1 blueprints)
+[2018.05.07-22.26.26:605][888]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:26:26 PM)
+[2018.05.07-22.26.26:605][888]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.26.26:606][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001413s)
+[2018.05.07-22.26.26:607][888]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.26.26:607][888]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.05.07-22.26.26:607][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002454s)
+[2018.05.07-22.26.26:654][888]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.26.26:669][888]LogInit: FAudioDevice initialized.
+[2018.05.07-22.26.26:715][888]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.26.26:717][888]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.26.26
+[2018.05.07-22.26.26:718][888]LogWorld: Bringing up level for play took: 0.002524
+[2018.05.07-22.26.26:720][888]Set new viewmode: Unlit
+[2018.05.07-22.26.26:722][888]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.826
+[2018.05.07-22.26.26:866][889]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071996 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.26.28:216][999]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.28:229][  0]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.28:230][  0]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.30:223][171]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.33:676][475]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.34:616][553]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.26.35:545][643]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.26.35:593][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.26.35:593][643]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:26:35 PM)
+[2018.05.07-22.26.35:593][643]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.26.35:595][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001312s)
+[2018.05.07-22.26.35:595][643]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.26.35:595][643]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.05.07-22.26.35:595][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002142s)
+[2018.05.07-22.26.35:641][643]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.26.35:655][643]LogInit: FAudioDevice initialized.
+[2018.05.07-22.26.35:700][643]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.26.35:702][643]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.26.35
+[2018.05.07-22.26.35:703][643]LogWorld: Bringing up level for play took: 0.002217
+[2018.05.07-22.26.35:705][643]Set new viewmode: Unlit
+[2018.05.07-22.26.35:706][643]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.19
+[2018.05.07-22.26.36:941][735]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.38:397][860]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.41:184][106]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.26.42:837][247]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.26.42:839][247]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.26.46:004][521]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.26.46:005][521]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.26.46:005][521]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.26.46:006][521]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.26.46:006][521]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.26.46:006][521]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.26.49:186][793]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.28.16:620][  8]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.28.16:652][  8]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.28.16:820][  8]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.28.17:373][  8]LogPlayLevel: PlayLevel: Blueprint regeneration took 721 ms (1 blueprints)
+[2018.05.07-22.28.17:374][  8]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:28:17 PM)
+[2018.05.07-22.28.17:374][  8]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.28.17:375][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2018.05.07-22.28.17:376][  8]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.28.17:376][  8]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.05.07-22.28.17:376][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002233s)
+[2018.05.07-22.28.17:418][  8]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.28.17:432][  8]LogInit: FAudioDevice initialized.
+[2018.05.07-22.28.17:476][  8]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.28.17:478][  8]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.28.17
+[2018.05.07-22.28.17:479][  8]LogWorld: Bringing up level for play took: 0.002321
+[2018.05.07-22.28.17:481][  8]Set new viewmode: Unlit
+[2018.05.07-22.28.17:483][  8]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 1.586
+[2018.05.07-22.28.17:618][  9]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071226 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.28.18:286][ 84]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.28.19:891][264]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.19:892][264]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.28.21:249][418]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.21:250][418]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.28.21:250][418]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.21:251][418]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.28.23:914][720]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.23:915][720]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.28.23:915][720]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.23:916][720]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.28.24:517][788]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.24:518][788]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.28.24:518][788]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.28.32:166][617]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.29.06:875][744]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.29.06:925][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.29.06:925][744]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:29:06 PM)
+[2018.05.07-22.29.06:925][744]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.29.06:927][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001294s)
+[2018.05.07-22.29.06:927][744]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.29.06:928][744]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.05.07-22.29.06:928][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002363s)
+[2018.05.07-22.29.06:974][744]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.29.06:988][744]LogInit: FAudioDevice initialized.
+[2018.05.07-22.29.07:035][744]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.29.07:037][744]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.29.07
+[2018.05.07-22.29.07:038][744]LogWorld: Bringing up level for play took: 0.002237
+[2018.05.07-22.29.07:039][744]Set new viewmode: Unlit
+[2018.05.07-22.29.07:041][744]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.856
+[2018.05.07-22.29.08:680][915]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.29.12:520][346]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.12:521][346]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.15:005][624]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.15:006][624]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.15:006][624]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.15:007][624]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.16:276][763]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.16:277][763]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.16:277][763]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.16:278][763]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.18:985][ 52]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.18:986][ 52]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.18:986][ 52]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.23:743][586]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.23:744][586]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.29:746][202]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.29.31:699][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.29.31:732][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.29.31:732][419]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:29:31 PM)
+[2018.05.07-22.29.31:732][419]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.29.31:734][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2018.05.07-22.29.31:734][419]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.29.31:734][419]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.05.07-22.29.31:734][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002274s)
+[2018.05.07-22.29.31:778][419]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.29.31:791][419]LogInit: FAudioDevice initialized.
+[2018.05.07-22.29.31:844][419]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.29.31:846][419]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.29.31
+[2018.05.07-22.29.31:847][419]LogWorld: Bringing up level for play took: 0.002166
+[2018.05.07-22.29.31:849][419]Set new viewmode: Unlit
+[2018.05.07-22.29.31:853][419]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.043
+[2018.05.07-22.29.32:558][492]LogScript: Warning: Accessed None trying to read property GameController
+	BP_SceneController_C /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest:PersistentLevel.BP_SceneController_156
+	Function /Game/BP/DialogueSystem/BP_SceneController.BP_SceneController_C:ExecuteUbergraph_BP_SceneController:4763
+[2018.05.07-22.29.32:558][492]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameController from function: 'ExecuteUbergraph_BP_SceneController' from node: Branch in graph: EventGraph in object: BP_SceneController with description: Accessed None trying to read property GameController
+[2018.05.07-22.29.34:168][676]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.29.49:761][435]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.49:762][435]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.54:917][  3]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.54:918][  3]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.54:918][  3]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.54:919][  3]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.57:268][252]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.57:269][252]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.57:269][252]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.57:270][252]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.29.59:649][517]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.29.59:650][517]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.29.59:650][517]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.04:198][ 27]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.04:199][ 27]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.09:276][575]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.30.53:460][320]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.30.53:492][320]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.30.53:625][320]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.30.54:157][320]LogPlayLevel: PlayLevel: Blueprint regeneration took 664 ms (1 blueprints)
+[2018.05.07-22.30.54:157][320]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:30:54 PM)
+[2018.05.07-22.30.54:157][320]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.30.54:159][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001358s)
+[2018.05.07-22.30.54:159][320]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.30.54:160][320]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.05.07-22.30.54:160][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002237s)
+[2018.05.07-22.30.54:203][320]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.30.54:216][320]LogInit: FAudioDevice initialized.
+[2018.05.07-22.30.54:264][320]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.30.54:267][320]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.30.54
+[2018.05.07-22.30.54:268][320]LogWorld: Bringing up level for play took: 0.002822
+[2018.05.07-22.30.54:270][320]Set new viewmode: Unlit
+[2018.05.07-22.30.54:271][320]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.375
+[2018.05.07-22.30.54:488][321]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071226 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.30.55:264][397]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.30.57:616][628]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.57:617][628]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.30.59:220][785]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.59:221][785]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.30.59:221][785]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.30.59:222][785]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.31.00:225][883]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.00:226][883]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.31.00:226][883]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.00:227][883]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.31.01:200][973]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.01:201][973]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.31.01:201][973]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.03:312][165]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.03:313][165]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.31.04:691][297]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.31.07:947][593]LogSlate: Window 'Message Log' being destroyed
+[2018.05.07-22.31.07:951][593]LogSlate: Window 'Message Log' being destroyed
+[2018.05.07-22.31.08:386][645]LogEditorTransaction: Undo Create Pin Link
+[2018.05.07-22.31.08:689][653]LogEditorTransaction: Undo Create Pin Link
+[2018.05.07-22.31.08:994][664]LogEditorTransaction: Undo Create Pin Link
+[2018.05.07-22.31.09:562][732]LogEditorTransaction: Undo Create Pin Link
+[2018.05.07-22.32.18:301][137]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.32.18:370][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-22.32.18:504][137]LogPlayLevel: [PlayLevel] Compiling BP_SceneController before play...
+[2018.05.07-22.32.19:007][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 638 ms (1 blueprints)
+[2018.05.07-22.32.19:007][137]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:32:19 PM)
+[2018.05.07-22.32.19:008][137]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.32.19:009][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001442s)
+[2018.05.07-22.32.19:010][137]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.32.19:010][137]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.05.07-22.32.19:010][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002356s)
+[2018.05.07-22.32.19:051][137]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.32.19:065][137]LogInit: FAudioDevice initialized.
+[2018.05.07-22.32.19:109][137]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.32.19:111][137]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.32.19
+[2018.05.07-22.32.19:112][137]LogWorld: Bringing up level for play took: 0.002481
+[2018.05.07-22.32.19:114][137]Set new viewmode: Unlit
+[2018.05.07-22.32.19:115][137]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 1.219
+[2018.05.07-22.32.19:340][138]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072204 > MaxSimulationTimeStep (0.050) for 'BP_Blue_C_0', movement 'Walking'
+[2018.05.07-22.32.20:103][202]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.32.21:617][328]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.21:619][328]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.32.23:685][500]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.23:686][500]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.32.23:686][500]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.23:687][500]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.32.24:148][538]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.24:149][538]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.32.24:149][538]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.24:150][538]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.32.24:576][573]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.24:577][573]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.32.24:577][573]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.26:522][733]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.32.26:523][733]LogBlueprintUserMessages: [BP_SceneController_156] balls#=#3
+[2018.05.07-22.32.27:725][833]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.32.27:893][847]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.32.29:713][995]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.33.00:267][753]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.33.00:334][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.33.00:334][753]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:33:00 PM)
+[2018.05.07-22.33.00:334][753]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.33.00:336][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2018.05.07-22.33.00:336][753]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.33.00:337][753]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.05.07-22.33.00:337][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002502s)
+[2018.05.07-22.33.00:380][753]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.33.00:393][753]LogInit: FAudioDevice initialized.
+[2018.05.07-22.33.00:444][753]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.33.00:446][753]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.33.00
+[2018.05.07-22.33.00:448][753]LogWorld: Bringing up level for play took: 0.002742
+[2018.05.07-22.33.00:449][753]Set new viewmode: Unlit
+[2018.05.07-22.33.00:454][753]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest 0.557
+[2018.05.07-22.33.01:644][827]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.33.02:521][885]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.02:523][885]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.33.11:489][487]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.33.12:135][529]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.33.13:409][619]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.07-22.33.13:441][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.33.13:442][619]PIE: New page: PIE session: LVL_HorizontalPlatTest (May 7, 2018, 4:33:13 PM)
+[2018.05.07-22.33.13:442][619]LogPlayLevel: Creating play world package: /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest
+[2018.05.07-22.33.13:443][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2018.05.07-22.33.13:444][619]LogAIModule: Creating AISystem for world LVL_HorizontalPlatTest
+[2018.05.07-22.33.13:444][619]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.05.07-22.33.13:444][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Prototyping/LVL_HorizontalPlatTest.LVL_HorizontalPlatTest to /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest (0.002507s)
+[2018.05.07-22.33.13:487][619]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-22.33.13:501][619]LogInit: FAudioDevice initialized.
+[2018.05.07-22.33.13:553][619]LogLoad: Game class is 'BP_GameController_C'
+[2018.05.07-22.33.13:555][619]LogWorld: Bringing World /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest.LVL_HorizontalPlatTest up for play (max tick rate 0) at 2018.05.07-19.33.13
+[2018.05.07-22.33.13:556][619]LogWorld: Bringing up level for play took: 0.002337
+[2018.05.07-22.33.13:558][619]Set new viewmode: Unlit
+[2018.05.07-22.33.13:562][619]PIE: Play in editor start time for /Game/Maps/Prototyping/UEDPIE_0_LVL_HorizontalPlatTest -0.334
+[2018.05.07-22.33.14:497][677]LogBlueprintUserMessages: [BP_SceneController_156] ToggleScene
+[2018.05.07-22.33.20:515][ 77]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.20:517][ 77]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.33.21:502][143]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.21:503][143]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.33.21:503][143]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.21:504][143]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.33.21:742][159]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.21:743][159]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.33.21:743][159]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.21:744][159]LogBlueprintUserMessages: [BP_SceneController_156] VALID
+[2018.05.07-22.33.21:956][173]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.21:957][173]LogBlueprintUserMessages: [BP_SceneController_156] balls#--1
+[2018.05.07-22.33.21:957][173]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.23:738][290]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.23:740][290]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.30:025][709]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.32:002][842]LogBlueprintUserMessages: [BP_SceneController_156] Dialogue Selected Event
+[2018.05.07-22.33.32:544][876]LogSlate: Window 'SotW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.07-22.33.48:555][641]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.05.07-22.33.50:697][641]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.143 s
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: 
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: Stack: 
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: [Callstack] 0x00000000B5FABA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-22.33.50:697][641]LogOutputDevice: Error: [Callstack] 0x00000000B5D0AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000B5D1ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000B09D3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000AFEDB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000AF52C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000AF3B77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000AF3BAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000AF4F6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD016057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD01BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD24C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD070475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD048360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000BD03B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000C893E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000C8931B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000C894052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000C892D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000DFFCB85D USER32.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000DFFCB1EF USER32.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000C8941666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000F6235475 UE4Editor.exe!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000F6246BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000F6246C4A UE4Editor.exe!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000F6254149 UE4Editor.exe!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000F6255B57 UE4Editor.exe!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000DD9E1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: [Callstack] 0x00000000E01EF061 ntdll.dll!UnknownFunction []
+[2018.05.07-22.33.50:698][641]LogOutputDevice: Error: 
+[2018.05.07-22.33.50:705][641]LogStats:                SubmitErrorReport -  0.000 s
