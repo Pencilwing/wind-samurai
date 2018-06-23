@@ -1,18 +1,32 @@
+<<<<<<< HEAD
 ﻿Log file open, 06/06/18 20:04:53
+=======
+﻿Log file open, 06/19/18 10:11:25
+>>>>>>> 195d7c7e6445fe39d2f469c48b0ff1329b22468e
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
-LogInit: Display: Running engine for game: SotW
+LogInit: Display: Running engine without a game
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(1180292468) SRandInit(1180292468).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.333837
+=======
+LogInit: Display: Loading recent project file: ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/SotW.uproject
+LogInit: Display: RandInit(-1909965537) SRandInit(-1909965537).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.269762
+>>>>>>> 195d7c7e6445fe39d2f469c48b0ff1329b22468e
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -171,7 +185,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  3.071s to configure plugins.
+=======
+LogStreaming: Display: Took  4.112s to configure plugins.
+>>>>>>> 195d7c7e6445fe39d2f469c48b0ff1329b22468e
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -191,7 +209,11 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+<<<<<<< HEAD
 LogInit: WinSock: I am Diego-PC (172.29.3.159:0)
+=======
+LogInit: WinSock: I am LAPTOP-U5A4UP5A (192.168.1.103:0)
+>>>>>>> 195d7c7e6445fe39d2f469c48b0ff1329b22468e
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -222,6 +244,7 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  /Game/Maps/Prototyping/LVL_HorizontalPlatTest -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -featureleveles2 -faketouches -windowed 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.011s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -6281,3 +6304,1303 @@ Make sure 'BP_SceneController' has been compiled for  BreakJson_Object
 [2018.06.06-23.06.39:522][ 94]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.06.06-23.06.39:532][ 94]LogExit: Exiting.
 [2018.06.06-23.06.39:536][ 94]Log file closed, 06/06/18 20:06:39
+=======
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.19-13.11.30:067][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-13.11.30:067][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.19-13.11.30:106][  0]LogInit: Computer: LAPTOP-U5A4UP5A
+[2018.06.19-13.11.30:106][  0]LogInit: User: NataliaHP
+[2018.06.19-13.11.30:106][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.19-13.11.30:106][  0]LogInit: High frequency timer resolution =2.339360 MHz
+[2018.06.19-13.11.30:106][  0]LogMemory: Memory total: Physical=11.5GB (12GB approx)
+[2018.06.19-13.11.30:107][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.19-13.11.30:107][  0]LogMemory: Process Physical Memory: 275.73 MB used, 275.73 MB peak
+[2018.06.19-13.11.30:107][  0]LogMemory: Process Virtual Memory: 265.07 MB used, 265.07 MB peak
+[2018.06.19-13.11.30:107][  0]LogMemory: Physical Memory: 4336.70 MB used,  7406.42 MB free, 11743.12 MB total
+[2018.06.19-13.11.30:107][  0]LogMemory: Virtual Memory: 4783.91 MB used,  7406.42 MB free, 134217728.00 MB total
+[2018.06.19-13.11.30:149][  0]LogInit: Using OS detected language (es-ES).
+[2018.06.19-13.11.30:149][  0]LogInit: Using OS detected locale (es-ES).
+[2018.06.19-13.11.30:161][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.06.19-13.11.30:996][  0]LogStreaming: Display: Took  0.848s to EndInitTextLocalization.
+[2018.06.19-13.11.30:997][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.19-13.11.31:050][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.19-13.11.31:050][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.19-13.11.31:643][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.19-13.11.31:739][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 Graphics' (Feature Level 11_0)
+[2018.06.19-13.11.31:739][  0]LogD3D11RHI:       499/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.06.19-13.11.31:745][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.19-13.11.31:745][  0]LogD3D11RHI:       0/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.19-13.11.31:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.19-13.11.31:764][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.19-13.11.31:765][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.19-13.11.31:765][  0]LogWindows: EnumDisplayDevices:
+[2018.06.19-13.11.31:765][  0]LogWindows:    0. 'AMD Radeon(TM) R5 Graphics' (P:1 D:1)
+[2018.06.19-13.11.31:766][  0]LogWindows:    1. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2018.06.19-13.11.31:766][  0]LogWindows:    2. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2018.06.19-13.11.31:766][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.19-13.11.31:766][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 Graphics
+[2018.06.19-13.11.31:767][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.19-13.11.31:767][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.19-13.11.31:767][  0]LogRHI: Texture pool is 349 MB (70% of 499 MB)
+[2018.06.19-13.11.31:896][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.19-13.11.31:928][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2018.06.19-13.11.31:931][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/Shaders/WorkingDirectory/8024/).
+[2018.06.19-13.11.31:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NataliaHP/AppData/Local/Temp/UnrealShaderWorkingDir/7ABF5CB546365AE42AB7FBAA8304E918/'.
+[2018.06.19-13.11.32:453][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.19-13.11.32:490][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.19-13.11.32:525][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.19-13.11.32:562][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.19-13.11.32:599][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.19-13.11.32:636][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.19-13.11.32:673][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.19-13.11.32:711][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.19-13.11.32:730][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.19-13.11.32:761][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.19-13.11.32:792][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.19-13.11.32:824][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.19-13.11.32:855][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.19-13.11.32:889][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.19-13.11.32:921][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.19-13.11.32:983][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.19-13.11.32:983][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.19-13.11.33:017][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.19-13.11.33:020][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.19-13.11.33:081][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.19-13.11.33:108][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.19-13.11.33:137][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.19-13.11.33:166][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.19-13.11.33:194][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.19-13.11.33:223][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.19-13.11.33:223][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.19-13.11.33:518][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.19-13.11.33:518][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.19-13.11.33:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.19-13.11.35:517][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: Loaded boot cache 0.20s 84MB C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.19-13.11.35:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.19-13.11.35:745][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.19-13.11.35:758][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NataliaHP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.19-13.11.35:758][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.19-13.11.35:758][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.19-13.11.35:785][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.19-13.11.35:786][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.19-13.11.35:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-13.11.35:787][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-13.11.36:055][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2018.06.19-13.11.36:751][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-13.11.37:061][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.19-13.11.37:069][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.19-13.11.37:069][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.19-13.11.37:069][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.19-13.11.37:069][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.19-13.11.37:069][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.19-13.11.37:153][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.06.19-13.11.38:192][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.200023 seconds
+[2018.06.19-13.11.38:202][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.19-13.11.38:203][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.19-13.11.38:203][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.19-13.11.41:891][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `45C1181D48DA2BB1AE5EED9A59CB5B1F` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.06.19-13.11.41:893][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.06.19-13.11.41:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.19-13.11.42:026][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.19-13.11.42:905][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.19-13.11.42:905][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.19-13.11.42:952][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.19-13.11.43:005][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.19-13.11.44:218][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.19-13.11.44:588][  0]LogOcInput: OculusInput pre-init called
+[2018.06.19-13.11.44:799][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.06.19-13.11.44:835][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.06.19-13.11.44:836][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `2E9B959C43364587A5AEBDB118A4BFAC` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.06.19-13.11.44:838][  0]LogDlgSystem: Refreshing data for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.06.19-13.11.44:839][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.06.19-13.11.44:949][  0]LogEngine: Initializing Engine...
+[2018.06.19-13.11.44:951][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.19-13.11.44:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-13.11.44:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-13.11.45:539][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.19-13.11.45:551][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.19-13.11.45:592][  0]LogInit: FAudioDevice initialized.
+[2018.06.19-13.11.46:182][  0]LogDerivedDataCache: Saved boot cache 0.59s 70MB C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-13.11.46:217][  0]LogInit: Texture streaming: Enabled
+[2018.06.19-13.11.46:256][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.19-13.11.46:292][  0]LogInit: Transaction tracking system initialized
+[2018.06.19-13.11.46:349][  0]BlueprintLog: New page: Cargar el editor
+[2018.06.19-13.11.46:530][  0]LocalizationService: Localization service is disabled
+[2018.06.19-13.11.47:087][  0]LogConsoleResponse: Display: 
+[2018.06.19-13.11.47:401][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.19-13.11.47:402][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.19-13.11.47:402][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.19-13.11.47:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-13.11.47:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-13.11.47:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' took 0.02s
+[2018.06.19-13.11.48:402][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.19-13.11.48:402][  0]Cmd: MAP LOAD FILE="../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.19-13.11.48:402][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.06.19-13.11.48:402][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.19-13.11.48:508][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105,227ms to complete.
+[2018.06.19-13.11.48:508][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.106
+[2018.06.19-13.11.48:711][  0]LogCollectionManager: Loaded 0 collections in 0.004567 seconds
+[2018.06.19-13.11.48:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Collections/' took 0.01s
+[2018.06.19-13.11.48:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Developers/NataliaHP/Collections/' took 0.01s
+[2018.06.19-13.11.48:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Collections/' took 0.01s
+[2018.06.19-13.11.48:763][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.19-13.11.48:784][  0]LogContentBrowser: Native class hierarchy populated in 0.0208 seconds. Added 2496 classes and 572 folders.
+[2018.06.19-13.11.48:801][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.19-13.11.48:937][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.19-13.11.48:950][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.19-13.11.48:987][  0]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.19-13.11.48:991][  0]LogSlate: Took 0.000672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.19-13.11.49:004][  0]LogSlate: Took 0.000501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.19-13.11.49:172][  0]LogRenderer: Reallocating scene render targets to support 856x332 Format 9 NumSamples 1 (Frame:1).
+[2018.06.19-13.11.49:331][  0]LogSlate: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-13.11.49:569][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.19-13.11.49:569][  0]LogLoad: (Engine Initialization) Total time: 26.98 seconds
+[2018.06.19-13.11.49:569][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.19-13.11.49:580][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.19-13.11.49:606][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.06.19-13.11.49:794][  3]LogAssetRegistry: Asset discovery search completed in 13.7628 seconds
+[2018.06.19-13.11.49:798][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.19-13.11.49:798][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000118 seconds (updated 0 objects)
+[2018.06.19-13.16.04:671][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-13.16.06:470][231]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-13.16.07:478][231]LogAIModule: Creating AISystem for world LVL_KiseguzaForest
+[2018.06.19-13.16.07:638][231]Cmd: MAP LOAD FILE="../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.19-13.16.07:638][231]LightingResults: New page: Diseñar la iluminación
+[2018.06.19-13.16.07:654][231]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2018.06.19-13.16.07:656][231]LoadErrors: New page: Cargando mapa: LVL_KiseguzaForest.umap
+[2018.06.19-13.16.07:656][231]MapCheck: New page: Revisión del mapa
+[2018.06.19-13.16.07:656][231]LightingResults: New page: Diseñar la iluminación
+[2018.06.19-13.16.07:827][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.19-13.16.07:966][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.19-13.16.08:086][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119,451ms to complete.
+[2018.06.19-13.16.08:090][231]LogFileHelpers: Loading map 'LVL_KiseguzaForest' took 0.463
+[2018.06.19-13.16.34:980][704]Cmd: DELETE
+[2018.06.19-13.16.34:981][704]Cmd: ACTOR DELETE
+[2018.06.19-13.16.35:053][704]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.19-13.16.35:078][704]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2018.06.19-13.19.08:961][634]Cmd: SELECT NONE
+[2018.06.19-13.19.09:184][645]Cmd: SELECT NONE
+[2018.06.19-13.19.24:187][368]Cmd: SELECT NONE
+[2018.06.19-13.19.24:450][381]Cmd: SELECT NONE
+[2018.06.19-13.19.24:613][389]Cmd: SELECT NONE
+[2018.06.19-13.19.25:552][444]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2045)
+[2018.06.19-13.19.31:988][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-13.19.39:042][107]Cmd: EDIT COPY
+[2018.06.19-13.19.39:289][120]Cmd: EDIT PASTE
+[2018.06.19-13.19.45:256][389]Cmd: EDIT COPY
+[2018.06.19-13.19.45:460][399]Cmd: EDIT PASTE
+[2018.06.19-13.19.50:538][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-13.20.01:265][231]Cmd: EDIT COPY
+[2018.06.19-13.20.01:471][242]Cmd: EDIT PASTE
+[2018.06.19-13.20.06:205][442]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2432)
+[2018.06.19-13.26.06:603][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-13.26.08:465][ 24]LogSavePackage: Save=1543.65ms
+[2018.06.19-13.26.08:465][ 24]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest_Auto1D4667B8542B0A12629425194B3E3DEF0.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto1.umap'
+[2018.06.19-13.26.08:485][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto1.umap
+[2018.06.19-13.26.08:497][ 24]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LVL_KiseguzaForest' took 1.805
+[2018.06.19-13.26.08:497][ 24]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.805
+[2018.06.19-14.37.24:341][274]Cmd: EDIT COPY
+[2018.06.19-14.37.24:558][285]Cmd: EDIT PASTE
+[2018.06.19-14.37.24:706][286]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.37.26:656][392]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.37.28:485][493]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2434)
+[2018.06.19-14.37.29:912][567]Cmd: EDIT COPY
+[2018.06.19-14.37.30:123][578]Cmd: EDIT PASTE
+[2018.06.19-14.37.34:164][757]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.37.35:418][821]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2433)
+[2018.06.19-14.37.36:937][899]Cmd: EDIT COPY
+[2018.06.19-14.37.37:150][910]Cmd: EDIT PASTE
+[2018.06.19-14.37.47:355][436]Cmd: EDIT COPY
+[2018.06.19-14.37.47:534][445]Cmd: EDIT PASTE
+[2018.06.19-14.38.01:527][128]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2311)
+[2018.06.19-14.38.03:448][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.38.08:601][535]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.38.14:497][877]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2436)
+[2018.06.19-14.38.18:764][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.38.23:092][306]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.38.27:086][536]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2309)
+[2018.06.19-14.38.28:703][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.38.32:444][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.38.33:629][896]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2435)
+[2018.06.19-14.38.46:603][554]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2122)
+[2018.06.19-14.38.47:185][578]Cmd: EDIT COPY
+[2018.06.19-14.38.47:386][589]Cmd: EDIT PASTE
+[2018.06.19-14.38.53:857][917]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2116)
+[2018.06.19-14.38.55:250][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.39.03:442][468]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.05:858][600]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2115)
+[2018.06.19-14.39.07:268][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.39.10:287][838]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.11:352][890]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2115)
+[2018.06.19-14.39.15:474][ 87]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.18:267][246]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2045)
+[2018.06.19-14.39.19:659][319]Cmd: EDIT COPY
+[2018.06.19-14.39.19:880][331]Cmd: EDIT PASTE
+[2018.06.19-14.39.23:485][494]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.30:390][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.39.37:736][250]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.43:699][556]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2039)
+[2018.06.19-14.39.45:231][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.39.50:171][880]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.51:216][934]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2034)
+[2018.06.19-14.39.54:893][104]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.39.57:305][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.40.01:920][402]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.04:978][576]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2034)
+[2018.06.19-14.40.06:376][648]Cmd: EDIT COPY
+[2018.06.19-14.40.06:585][659]Cmd: EDIT PASTE
+[2018.06.19-14.40.09:698][787]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.14:857][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2441)
+[2018.06.19-14.40.16:167][132]Cmd: EDIT COPY
+[2018.06.19-14.40.16:418][145]Cmd: EDIT PASTE
+[2018.06.19-14.40.21:693][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.40.28:271][729]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.29:934][818]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.40.32:952][974]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.34:567][ 59]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.40.38:217][248]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.39:378][307]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.40.45:152][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.46:907][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.40.48:942][651]LogSavePackage: Save=1655.26ms
+[2018.06.19-14.40.48:942][651]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest18A10A76428D14BEAD16B18D0908C7C4.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.40.48:953][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.40.49:255][655]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_19)
+[2018.06.19-14.40.52:018][772]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.40.53:859][869]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.40.55:598][958]Cmd: EDIT COPY
+[2018.06.19-14.40.55:805][968]Cmd: EDIT PASTE
+[2018.06.19-14.41.02:297][212]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.09:429][612]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_22)
+[2018.06.19-14.41.13:002][811]Cmd: EDIT COPY
+[2018.06.19-14.41.13:217][822]Cmd: EDIT PASTE
+[2018.06.19-14.41.17:517][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.22:839][272]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2435)
+[2018.06.19-14.41.23:911][321]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2311)
+[2018.06.19-14.41.25:142][381]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.27:229][496]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2435)
+[2018.06.19-14.41.28:324][547]Cmd: EDIT COPY
+[2018.06.19-14.41.28:516][555]Cmd: EDIT PASTE
+[2018.06.19-14.41.32:191][701]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.35:214][873]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2309)
+[2018.06.19-14.41.36:470][937]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.38:273][ 34]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2313)
+[2018.06.19-14.41.40:034][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.41.42:791][282]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.44:639][380]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2312)
+[2018.06.19-14.41.45:776][436]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2313)
+[2018.06.19-14.41.55:511][847]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.41.56:321][884]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2437)
+[2018.06.19-14.42.01:668][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.42.06:984][412]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.08:547][493]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2312)
+[2018.06.19-14.42.13:359][731]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.14:857][808]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2313)
+[2018.06.19-14.42.20:485][ 86]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.22:642][205]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_386)
+[2018.06.19-14.42.24:044][277]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.26:465][410]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2313)
+[2018.06.19-14.42.27:941][486]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.29:143][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.42.32:695][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.42.35:965][824]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.37:296][893]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_24)
+[2018.06.19-14.42.40:420][ 25]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.42.43:092][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.42.44:900][175]LogSavePackage: Save=1527.73ms
+[2018.06.19-14.42.44:900][175]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest63CC92CF4944E4D648A3C286F584E3B9.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.42.44:911][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.42.48:413][370]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2111)
+[2018.06.19-14.42.49:626][425]Cmd: EDIT COPY
+[2018.06.19-14.42.49:870][437]Cmd: EDIT PASTE
+[2018.06.19-14.42.53:558][580]Cmd: EDIT COPY
+[2018.06.19-14.42.53:761][590]Cmd: EDIT PASTE
+[2018.06.19-14.42.58:021][768]Cmd: EDIT COPY
+[2018.06.19-14.42.58:218][778]Cmd: EDIT PASTE
+[2018.06.19-14.43.02:328][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.43.12:900][469]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.43.17:543][737]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2309)
+[2018.06.19-14.43.22:669][965]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.43.26:130][157]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2433)
+[2018.06.19-14.43.27:393][208]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.43.29:510][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.43.31:302][331]LogSavePackage: Save=1486.86ms
+[2018.06.19-14.43.31:302][331]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest061FE8E74BA283C2F4B3D68C67CDF4C8.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.43.31:310][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.43.40:711][876]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2111)
+[2018.06.19-14.43.42:403][960]Cmd: EDIT COPY
+[2018.06.19-14.43.42:603][970]Cmd: EDIT PASTE
+[2018.06.19-14.43.54:558][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.43.58:407][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.44.04:912][ 11]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2451)
+[2018.06.19-14.44.06:311][ 76]Cmd: EDIT PASTE
+[2018.06.19-14.44.13:283][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.44.29:986][344]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.44.31:752][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.44.33:698][448]LogSavePackage: Save=1582.29ms
+[2018.06.19-14.44.33:705][448]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest6E99FC544552A8F65F52FEB769960A8E.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.44.33:719][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.45.06:873][424]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2452)
+[2018.06.19-14.45.08:147][486]Cmd: EDIT COPY
+[2018.06.19-14.45.08:376][498]Cmd: EDIT PASTE
+[2018.06.19-14.45.11:289][619]Cmd: EDIT COPY
+[2018.06.19-14.45.11:491][629]Cmd: EDIT PASTE
+[2018.06.19-14.45.14:602][746]Cmd: EDIT COPY
+[2018.06.19-14.45.14:811][757]Cmd: EDIT PASTE
+[2018.06.19-14.45.18:756][929]Cmd: EDIT COPY
+[2018.06.19-14.45.18:973][940]Cmd: EDIT PASTE
+[2018.06.19-14.45.23:894][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.45.36:146][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.45.42:467][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.45.44:376][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.45.46:824][219]LogSavePackage: Save=2079.58ms
+[2018.06.19-14.45.46:824][219]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest49E48FDB447A5CB017D7789BD030A7C9.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.45.46:835][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.46.22:368][318]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-14.46.26:618][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.46.32:073][862]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.46.33:239][919]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-14.46.36:222][ 45]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2405)
+[2018.06.19-14.46.39:088][166]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.46.42:773][373]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2111)
+[2018.06.19-14.46.43:702][416]Cmd: EDIT COPY
+[2018.06.19-14.46.43:927][428]Cmd: EDIT PASTE
+[2018.06.19-14.46.47:840][595]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2415)
+[2018.06.19-14.46.50:984][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.46.59:065][177]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.47.00:478][252]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2467)
+[2018.06.19-14.47.06:082][500]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.47.08:107][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2414)
+[2018.06.19-14.47.10:643][716]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2413)
+[2018.06.19-14.47.13:742][847]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.47.20:551][200]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_386)
+[2018.06.19-14.47.31:833][576]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.50.30:992][194]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2400)
+[2018.06.19-14.50.32:025][245]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2463)
+[2018.06.19-14.50.33:512][322]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.50.37:838][560]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.50.38:757][604]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2463)
+[2018.06.19-14.50.39:639][644]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.50.43:453][840]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2463)
+[2018.06.19-14.50.44:215][872]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.50.45:332][929]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2463)
+[2018.06.19-14.51.01:670][880]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.03:247][963]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.51.04:741][ 41]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.06:339][125]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2400)
+[2018.06.19-14.51.07:353][174]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.51.09:045][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.51.12:669][470]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.14:504][565]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.51.15:719][627]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.16:926][688]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2463)
+[2018.06.19-14.51.19:038][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.51.28:734][307]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2464)
+[2018.06.19-14.51.38:763][696]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.42:045][883]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2464)
+[2018.06.19-14.51.46:705][115]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-14.51.49:945][285]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.51.51:829][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.51.53:873][390]LogSavePackage: Save=1740.62ms
+[2018.06.19-14.51.53:873][390]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest5DEC162B41518A4CA8D35484385AD8D0.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.51.53:882][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.51.54:842][434]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2467)
+[2018.06.19-14.51.56:137][496]Cmd: EDIT COPY
+[2018.06.19-14.51.56:360][507]Cmd: EDIT PASTE
+[2018.06.19-14.52.00:106][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.52.06:758][980]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.52.08:829][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.52.10:627][100]LogSavePackage: Save=1515.49ms
+[2018.06.19-14.52.10:627][100]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest0AFFD33343E6B8FDBAD489B4B98AB1B5.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.52.10:636][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.52.11:620][148]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-14.52.16:328][377]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.52.17:819][452]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-14.52.19:493][535]Cmd: DELETE
+[2018.06.19-14.52.19:493][535]Cmd: ACTOR DELETE
+[2018.06.19-14.52.19:537][535]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.19-14.52.19:564][535]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.06.19-14.52.24:512][812]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_386)
+[2018.06.19-14.52.26:669][926]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_387)
+[2018.06.19-14.52.28:388][ 12]Cmd: EDIT COPY
+[2018.06.19-14.52.28:573][ 18]Cmd: EDIT PASTE
+[2018.06.19-14.52.48:301][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.53.00:263][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.53.12:221][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.53.24:626][706]Cmd: EDIT COPY
+[2018.06.19-14.53.24:834][716]Cmd: EDIT PASTE
+[2018.06.19-14.53.28:762][847]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.53.33:664][126]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_389)
+[2018.06.19-14.53.34:790][178]Cmd: EDIT COPY
+[2018.06.19-14.53.34:984][187]Cmd: EDIT PASTE
+[2018.06.19-14.53.47:254][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.53.59:759][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.54.06:921][785]Cmd: EDIT COPY
+[2018.06.19-14.54.07:159][796]Cmd: EDIT PASTE
+[2018.06.19-14.54.10:792][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.54.28:006][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.54.32:642][978]Cmd: EDIT COPY
+[2018.06.19-14.54.32:863][987]Cmd: EDIT PASTE
+[2018.06.19-14.54.36:285][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.54.57:243][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.55.03:323][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.55.11:016][823]Cmd: EDIT COPY
+[2018.06.19-14.55.11:302][837]Cmd: EDIT PASTE
+[2018.06.19-14.55.15:058][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.55.22:837][381]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_386)
+[2018.06.19-14.55.25:464][520]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_393)
+[2018.06.19-14.55.27:395][614]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_390)
+[2018.06.19-14.55.29:122][709]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.55.30:006][753]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.55.33:107][907]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.55.34:432][978]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.55.37:005][ 94]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.55.39:368][227]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.55.42:718][412]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.55.44:178][487]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.55.45:147][531]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2117)
+[2018.06.19-14.55.50:631][839]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2442)
+[2018.06.19-14.55.53:796][ 13]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite8)
+[2018.06.19-14.55.56:777][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.55.58:762][186]LogSavePackage: Save=1622.74ms
+[2018.06.19-14.55.58:762][186]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest3538F16A4B0D7201BCFCFF94C097EB69.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-14.55.58:771][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-14.56.31:953][710]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2303)
+[2018.06.19-14.56.33:985][824]Cmd: TRANSACTION UNDO
+[2018.06.19-14.56.33:986][824]LogEditorTransaction: Undo Move Actors
+[2018.06.19-14.56.33:992][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2275.RenderComponent) Component already registered.
+[2018.06.19-14.56.33:993][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2279.RenderComponent) Component already registered.
+[2018.06.19-14.56.33:996][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2298.RenderComponent) Component already registered.
+[2018.06.19-14.56.33:998][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2288.RenderComponent) Component already registered.
+[2018.06.19-14.56.34:903][862]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2303)
+[2018.06.19-14.56.36:246][934]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2287)
+[2018.06.19-14.56.37:867][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2302)
+[2018.06.19-14.56.39:306][101]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.56.42:118][253]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2284)
+[2018.06.19-14.56.43:205][310]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2272)
+[2018.06.19-14.56.45:000][409]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2271)
+[2018.06.19-14.56.51:168][754]Cmd: EDIT COPY
+[2018.06.19-14.56.52:333][821]Cmd: EDIT PASTE
+[2018.06.19-14.56.56:761][ 14]Cmd: TRANSACTION UNDO
+[2018.06.19-14.56.56:761][ 14]LogEditorTransaction: Undo Move Actors
+[2018.06.19-14.56.56:769][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2481.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:770][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2482.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:771][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_179.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:772][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2496.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:772][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2497.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:774][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2502.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:774][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2486.RenderComponent) Component already registered.
+[2018.06.19-14.56.56:774][ 14]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2487.RenderComponent) Component already registered.
+[2018.06.19-14.57.09:700][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-14.57.30:278][787]Cmd: SELECT NONE
+[2018.06.19-14.57.37:741][ 79]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1978)
+[2018.06.19-14.57.39:813][191]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1988)
+[2018.06.19-14.57.41:546][286]Cmd: EDIT COPY
+[2018.06.19-14.57.42:006][312]Cmd: EDIT PASTE
+[2018.06.19-14.57.51:981][767]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite9)
+[2018.06.19-14.57.53:434][845]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2503)
+[2018.06.19-14.57.57:046][ 14]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite9)
+[2018.06.19-14.58.07:598][490]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2287)
+[2018.06.19-14.58.09:784][609]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2303)
+[2018.06.19-14.58.14:235][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2302)
+[2018.06.19-14.58.16:178][973]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.58.17:512][ 44]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2284)
+[2018.06.19-14.58.19:706][166]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.58.24:852][426]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite9)
+[2018.06.19-14.58.26:778][527]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.58.27:483][561]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2284)
+[2018.06.19-14.58.29:326][664]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2285)
+[2018.06.19-14.58.30:529][727]Cmd: DELETE
+[2018.06.19-14.58.30:529][727]Cmd: ACTOR DELETE
+[2018.06.19-14.58.30:575][727]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.19-14.58.30:598][727]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.06.19-14.58.32:314][828]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.58.36:301][ 12]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2302)
+[2018.06.19-14.58.41:509][268]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2303)
+[2018.06.19-14.58.45:223][476]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2284)
+[2018.06.19-14.58.46:288][530]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2272)
+[2018.06.19-14.58.47:692][606]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2290)
+[2018.06.19-14.58.49:964][721]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2272)
+[2018.06.19-14.58.50:885][766]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2271)
+[2018.06.19-14.58.53:464][904]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2303)
+[2018.06.19-14.59.01:944][338]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2287)
+[2018.06.19-14.59.05:603][516]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-14.59.08:634][684]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2289)
+[2018.06.19-14.59.10:055][758]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2300)
+[2018.06.19-14.59.12:105][868]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-15.05.57:095][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-15.05.59:019][937]LogSavePackage: Save=1665.49ms
+[2018.06.19-15.05.59:019][937]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest_Auto24552C89A4F9968AFA31E72A1036301CB.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto2.umap'
+[2018.06.19-15.05.59:023][937]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto2.umap
+[2018.06.19-15.05.59:034][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LVL_KiseguzaForest' took 1.858
+[2018.06.19-15.05.59:034][937]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.858
+[2018.06.19-16.15.52:127][357]LogHttp: Warning: 000002875ECD6500: request failed, libcurl error: 35 (SSL connect error)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 0 (Connection 73 seems to be dead!)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 1 (Closing connection 73)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 3 (  Trying 52.205.159.66...)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.205.159.66) port 443 (#74))
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 7 (SSL re-using session ID)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 14 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 15 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 16 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.06.19-16.15.52:128][357]LogHttp: Warning: 000002875ECD6500: libcurl info message cache 17 (Closing connection 74)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: request failed, libcurl error: 35 (SSL connect error)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 0 (  Trying 34.206.56.152...)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (34.206.56.152) port 443 (#75))
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 4 (SSL re-using session ID)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 10 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 11 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 13 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.06.19-16.18.53:896][251]LogHttp: Warning: 000002875ECD6C80: libcurl info message cache 14 (Closing connection 75)
+[2018.06.19-16.32.51:518][240]LogHttp: Warning: 0000028727A0E080: request failed, libcurl error: 52 (Server returned nothing (no headers, no data))
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2873a69bfb8 [serially])
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 2 (  Trying 52.205.232.82...)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.205.232.82) port 443 (#82))
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 6 (SSL re-using session ID)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.19-16.32.51:519][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 9 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 11 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 13 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 14 (ALPN, server did not agree to a protocol)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 15 (Server certificate:)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 16 (	 subject: CN=*.ol.epicgames.com)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 17 (	 start date: Mar 12 00:00:00 2018 GMT)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 18 (	 expire date: Apr 12 12:00:00 2019 GMT)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 19 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 20 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 21 (	 SSL certificate verify ok.)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 22 (upload completely sent off: 357 out of 357 bytes)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 23 (Empty reply from server)
+[2018.06.19-16.32.51:520][240]LogHttp: Warning: 0000028727A0E080: libcurl info message cache 24 (Connection #82 to host datarouter.ol.epicgames.com left intact)
+[2018.06.19-16.34.22:022][509]LogHttp: Warning: 000002875C2C9000: request failed, libcurl error: 35 (SSL connect error)
+[2018.06.19-16.34.22:022][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2873a69bfb8 [can pipeline])
+[2018.06.19-16.34.22:022][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 1 (Re-using existing connection! (#81) with host datarouter.ol.epicgames.com)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.232.82) port 443 (#81))
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 3 (upload completely sent off: 357 out of 357 bytes)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 6 (Closing connection 81)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.19-16.34.22:023][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1481B7A0-436B-F920-7CB5-568A41BA9C92%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 9 (Connection 82 seems to be dead!)
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 10 (Closing connection 82)
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 11 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 12 (  Trying 34.204.55.248...)
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (34.204.55.248) port 443 (#83))
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 14 (ALPN, offering http/1.1)
+[2018.06.19-16.34.22:025][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 15 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 16 (SSL re-using session ID)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 17 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 22 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 23 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 24 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 25 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.06.19-16.34.22:026][509]LogHttp: Warning: 000002875C2C9000: libcurl info message cache 26 (Closing connection 83)
+[2018.06.19-17.00.39:897][931]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2504)
+[2018.06.19-17.00.43:050][102]Cmd: EDIT COPY
+[2018.06.19-17.00.43:300][115]Cmd: EDIT PASTE
+[2018.06.19-17.00.49:810][393]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_777)
+[2018.06.19-17.00.52:423][541]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2295)
+[2018.06.19-17.00.57:187][786]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-17.01.06:960][242]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-17.01.08:481][326]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-17.01.11:376][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.01.16:881][778]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2470)
+[2018.06.19-17.01.18:256][852]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-17.01.24:741][162]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2470)
+[2018.06.19-17.01.27:207][300]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2503)
+[2018.06.19-17.01.28:947][389]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2291)
+[2018.06.19-17.01.31:398][528]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2503)
+[2018.06.19-17.01.36:178][770]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2404)
+[2018.06.19-17.01.38:118][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2504)
+[2018.06.19-17.01.38:885][900]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_777)
+[2018.06.19-17.01.41:052][  3]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite9)
+[2018.06.19-17.02.07:025][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-17.02.08:780][487]LogSavePackage: Save=1554.31ms
+[2018.06.19-17.02.08:780][487]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest_Auto349FC3AE64E81542A6DDD1AB7B24E4443.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto3.umap'
+[2018.06.19-17.02.08:785][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto3.umap
+[2018.06.19-17.02.08:807][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LVL_KiseguzaForest' took 1.751
+[2018.06.19-17.02.08:807][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.751
+[2018.06.19-17.02.45:763][500]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2403)
+[2018.06.19-17.02.49:155][674]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_389)
+[2018.06.19-17.02.50:256][725]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2466)
+[2018.06.19-17.02.52:017][806]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite9)
+[2018.06.19-17.03.00:077][200]Cmd: EDIT COPY
+[2018.06.19-17.03.00:629][231]Cmd: EDIT PASTE
+[2018.06.19-17.03.06:833][378]Cmd: TRANSACTION UNDO
+[2018.06.19-17.03.06:834][378]LogEditorTransaction: Undo Move Actors
+[2018.06.19-17.03.06:843][378]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2510.RenderComponent) Component already registered.
+[2018.06.19-17.03.06:844][378]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2589.RenderComponent) Component already registered.
+[2018.06.19-17.03.19:500][778]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.03.21:334][876]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2511)
+[2018.06.19-17.03.26:505][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2512)
+[2018.06.19-17.03.35:895][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.03.39:890][687]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_28)
+[2018.06.19-17.03.42:157][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.03.49:798][176]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2506)
+[2018.06.19-17.03.53:124][332]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.03.54:972][432]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2513)
+[2018.06.19-17.03.56:624][517]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_776)
+[2018.06.19-17.03.57:633][565]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2508)
+[2018.06.19-17.03.59:250][651]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2507)
+[2018.06.19-17.04.05:272][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.04.08:323][171]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2508)
+[2018.06.19-17.04.10:665][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.04.13:764][476]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2509)
+[2018.06.19-17.04.15:378][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.04.18:463][731]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2510)
+[2018.06.19-17.04.19:207][762]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2511)
+[2018.06.19-17.04.20:710][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.04.23:503][993]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_776)
+[2018.06.19-17.04.25:102][ 73]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.04.29:780][327]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2507)
+[2018.06.19-17.04.31:848][442]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2588)
+[2018.06.19-17.04.44:767][209]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2513)
+[2018.06.19-17.04.46:270][291]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2588)
+[2018.06.19-17.04.47:728][368]Cmd: EDIT COPY
+[2018.06.19-17.04.47:952][380]Cmd: EDIT PASTE
+[2018.06.19-17.04.53:397][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.05.00:564][ 12]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2589)
+[2018.06.19-17.05.01:877][ 82]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2590)
+[2018.06.19-17.05.02:856][133]Cmd: EDIT COPY
+[2018.06.19-17.05.03:078][145]Cmd: EDIT PASTE
+[2018.06.19-17.05.08:094][403]Cmd: EDIT COPY
+[2018.06.19-17.05.08:298][414]Cmd: EDIT PASTE
+[2018.06.19-17.05.14:670][743]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2512)
+[2018.06.19-17.05.17:296][893]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2511)
+[2018.06.19-17.05.18:780][974]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2592)
+[2018.06.19-17.05.20:081][ 44]Cmd: EDIT COPY
+[2018.06.19-17.05.20:380][ 61]Cmd: EDIT PASTE
+[2018.06.19-17.05.27:412][418]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2593)
+[2018.06.19-17.05.28:941][501]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.05.30:780][601]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2512)
+[2018.06.19-17.05.32:015][663]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2594)
+[2018.06.19-17.05.33:423][734]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2593)
+[2018.06.19-17.05.34:945][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.05.42:654][237]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2594)
+[2018.06.19-17.05.46:379][426]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2595)
+[2018.06.19-17.05.50:068][606]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.05.51:778][701]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2512)
+[2018.06.19-17.05.56:532][947]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2511)
+[2018.06.19-17.05.57:640][  6]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.05.59:254][ 91]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.06.03:489][320]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.06.04:173][353]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2587)
+[2018.06.19-17.06.09:602][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.06.14:326][847]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.06.18:271][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2588)
+[2018.06.19-17.06.20:574][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.06.28:681][631]Cmd: EDIT COPY
+[2018.06.19-17.06.28:880][642]Cmd: EDIT PASTE
+[2018.06.19-17.06.38:022][ 91]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2593)
+[2018.06.19-17.06.39:568][176]Cmd: EDIT COPY
+[2018.06.19-17.06.39:779][187]Cmd: EDIT PASTE
+[2018.06.19-17.06.43:526][348]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.06.50:666][724]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2596)
+[2018.06.19-17.06.51:911][789]Cmd: EDIT COPY
+[2018.06.19-17.06.52:129][801]Cmd: EDIT PASTE
+[2018.06.19-17.06.58:117][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.07.02:376][352]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.07.03:980][440]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.07.06:316][555]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2598)
+[2018.06.19-17.07.07:191][596]Cmd: EDIT COPY
+[2018.06.19-17.07.07:386][606]Cmd: EDIT PASTE
+[2018.06.19-17.07.11:434][774]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.07.12:800][842]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.07.17:175][ 93]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2597)
+[2018.06.19-17.07.19:690][223]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2511)
+[2018.06.19-17.07.21:173][301]Cmd: EDIT COPY
+[2018.06.19-17.07.21:784][336]Cmd: EDIT PASTE
+[2018.06.19-17.07.29:116][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.07.48:066][681]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.07.49:484][752]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_777)
+[2018.06.19-17.07.50:498][802]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.07.54:570][  7]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_28)
+[2018.06.19-17.07.56:734][124]Cmd: EDIT COPY
+[2018.06.19-17.07.56:951][135]Cmd: EDIT PASTE
+[2018.06.19-17.08.01:441][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.08.07:119][628]Cmd: EDIT COPY
+[2018.06.19-17.08.07:349][640]Cmd: EDIT PASTE
+[2018.06.19-17.08.11:353][790]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_927)
+[2018.06.19-17.08.12:666][859]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.08.16:639][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.08.18:491][ 78]LogSavePackage: Save=1535.91ms
+[2018.06.19-17.08.18:491][ 78]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest71C34EB4480EEEC6BF8EDE82030BC6DE.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-17.08.18:499][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-17.08.52:893][767]Cmd: EDIT COPY
+[2018.06.19-17.08.53:167][782]Cmd: EDIT PASTE
+[2018.06.19-17.09.11:345][493]Cmd: EDIT PASTE
+[2018.06.19-17.09.14:374][663]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite19)
+[2018.06.19-17.09.15:889][735]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.15:889][735]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.16:681][760]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.16:682][760]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.09.18:595][860]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.18:596][860]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.19:990][928]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.19:990][928]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.09.22:566][ 67]Cmd: EDIT COPY
+[2018.06.19-17.09.23:130][ 96]Cmd: EDIT PASTE
+[2018.06.19-17.09.27:637][273]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.27:637][273]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.09.28:607][305]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.28:607][305]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.29:831][358]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.29:831][358]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.31:234][428]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.31:234][428]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.32:374][479]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.32:374][479]LogEditorTransaction: Undo Seleccionar marco
+[2018.06.19-17.09.35:774][644]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.09.40:575][741]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.40:575][741]LogEditorTransaction: Undo Move Actors
+[2018.06.19-17.09.41:744][785]Cmd: TRANSACTION UNDO
+[2018.06.19-17.09.41:744][785]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.09.47:622][ 70]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.09.49:272][161]Cmd: SELECT NONE
+[2018.06.19-17.09.57:766][597]Cmd: EDIT COPY
+[2018.06.19-17.09.58:112][616]Cmd: EDIT PASTE
+[2018.06.19-17.10.05:620][959]Cmd: TRANSACTION UNDO
+[2018.06.19-17.10.05:620][959]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.10.05:706][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.10.33:878][724]Cmd: SELECT NONE
+[2018.06.19-17.10.36:828][888]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2452)
+[2018.06.19-17.10.41:655][107]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_25)
+[2018.06.19-17.10.45:684][294]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2400)
+[2018.06.19-17.10.48:955][449]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2401)
+[2018.06.19-17.10.50:331][522]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2402)
+[2018.06.19-17.10.51:527][585]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2465)
+[2018.06.19-17.10.53:974][720]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2466)
+[2018.06.19-17.11.04:267][227]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1636)
+[2018.06.19-17.11.11:353][563]Cmd: EDIT COPY
+[2018.06.19-17.11.11:576][575]Cmd: EDIT PASTE
+[2018.06.19-17.11.16:696][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.11.23:246][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.11.25:782][267]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_785)
+[2018.06.19-17.11.28:470][410]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.11.29:835][481]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1636)
+[2018.06.19-17.11.34:335][701]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2466)
+[2018.06.19-17.11.41:670][ 64]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.11.42:998][136]Cmd: SELECT NONE
+[2018.06.19-17.11.46:699][342]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1636)
+[2018.06.19-17.11.50:855][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.11.53:844][744]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.11.56:591][887]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1706)
+[2018.06.19-17.12.02:051][152]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.12.04:074][248]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1921)
+[2018.06.19-17.12.05:509][323]Cmd: DELETE
+[2018.06.19-17.12.05:509][323]Cmd: ACTOR DELETE
+[2018.06.19-17.12.05:554][323]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.19-17.12.05:582][323]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.06.19-17.12.08:256][480]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1920)
+[2018.06.19-17.12.09:538][546]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1919)
+[2018.06.19-17.12.10:832][615]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1918)
+[2018.06.19-17.12.20:309][ 80]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1919)
+[2018.06.19-17.12.21:490][144]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1920)
+[2018.06.19-17.12.26:824][420]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1918)
+[2018.06.19-17.12.31:928][673]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1924)
+[2018.06.19-17.12.32:945][724]Cmd: EDIT COPY
+[2018.06.19-17.12.33:184][737]Cmd: EDIT PASTE
+[2018.06.19-17.12.36:913][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.12.43:236][243]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1706)
+[2018.06.19-17.12.45:342][362]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1915)
+[2018.06.19-17.12.49:321][566]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite11)
+[2018.06.19-17.12.53:881][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.12.56:259][820]LogSavePackage: Save=2060.18ms
+[2018.06.19-17.12.56:259][820]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest4ECC47C543544F7410B82E94A985EF06.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-17.12.56:268][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-17.12.57:918][892]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2465)
+[2018.06.19-17.13.01:836][ 76]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1636)
+[2018.06.19-17.13.03:102][141]Cmd: SELECT NONE
+[2018.06.19-17.13.03:816][182]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2402)
+[2018.06.19-17.13.05:270][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.13.08:580][439]Cmd: SELECT NONE
+[2018.06.19-17.13.09:185][473]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2400)
+[2018.06.19-17.13.12:264][618]Cmd: SELECT NONE
+[2018.06.19-17.13.14:026][719]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_25)
+[2018.06.19-17.13.17:846][929]Cmd: SELECT NONE
+[2018.06.19-17.13.19:139][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.13.21:116][  8]LogSavePackage: Save=1686.02ms
+[2018.06.19-17.13.21:116][  8]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest2C9C09194A1D8E8F6F743DA021A49A66.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-17.13.21:125][  8]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-17.13.24:687][165]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1706)
+[2018.06.19-17.13.25:928][226]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_785)
+[2018.06.19-17.13.26:975][277]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2466)
+[2018.06.19-17.13.28:469][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.13.28:788][373]Cmd: EDIT COPY
+[2018.06.19-17.13.29:041][383]Cmd: EDIT PASTE
+[2018.06.19-17.13.33:043][549]Cmd: SELECT NONE
+[2018.06.19-17.13.38:655][852]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2601)
+[2018.06.19-17.13.43:946][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.13.49:459][431]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_785)
+[2018.06.19-17.13.51:462][531]Cmd: SELECT NONE
+[2018.06.19-17.13.53:814][659]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1706)
+[2018.06.19-17.14.00:274][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.14.10:436][593]Cmd: SELECT NONE
+[2018.06.19-17.14.11:507][657]Cmd: TRANSACTION UNDO
+[2018.06.19-17.14.11:507][657]LogEditorTransaction: Undo No seleccionar ninguno
+[2018.06.19-17.14.12:136][678]Cmd: TRANSACTION UNDO
+[2018.06.19-17.14.12:136][678]LogEditorTransaction: Undo Set Scale
+[2018.06.19-17.14.18:165][ 24]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_785)
+[2018.06.19-17.14.20:140][133]Cmd: SELECT NONE
+[2018.06.19-17.14.20:334][144]Cmd: SELECT NONE
+[2018.06.19-17.14.22:608][263]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2601)
+[2018.06.19-17.14.28:386][492]Cmd: SELECT NONE
+[2018.06.19-17.14.30:406][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.14.32:505][618]LogSavePackage: Save=1801.55ms
+[2018.06.19-17.14.32:505][618]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest501716EC4E44E24CE185888D1872EAE5.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap'
+[2018.06.19-17.14.32:514][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap
+[2018.06.19-17.15.49:453][211]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_2285)
+[2018.06.19-17.15.55:019][504]Cmd: SELECT NONE
+[2018.06.19-17.16.13:080][364]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1914)
+[2018.06.19-17.16.15:093][457]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_785)
+[2018.06.19-17.16.18:381][617]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.18:382][617]LogEditorTransaction: Undo Move Actors
+[2018.06.19-17.16.18:389][617]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_784.RenderComponent) Component already registered.
+[2018.06.19-17.16.18:391][617]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2400.RenderComponent) Component already registered.
+[2018.06.19-17.16.22:837][820]Cmd: EDIT COPY
+[2018.06.19-17.16.23:410][850]Cmd: EDIT PASTE
+[2018.06.19-17.16.29:369][118]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.29:369][118]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.16.32:070][248]Cmd: EDIT COPY
+[2018.06.19-17.16.32:397][249]Cmd: EDIT PASTE
+[2018.06.19-17.16.34:897][335]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.34:897][335]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.16.36:567][407]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.36:568][407]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.16.38:031][474]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.38:031][474]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.16.39:581][549]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.39:582][549]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.16.40:898][603]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.40:898][603]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.16.50:562][ 67]Cmd: EDIT COPY
+[2018.06.19-17.16.51:181][101]Cmd: EDIT PASTE
+[2018.06.19-17.16.54:855][256]Cmd: TRANSACTION UNDO
+[2018.06.19-17.16.54:855][256]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.16.58:251][419]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1642)
+[2018.06.19-17.17.01:772][601]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1644)
+[2018.06.19-17.17.10:692][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1628)
+[2018.06.19-17.17.22:071][538]Cmd: EDIT COPY
+[2018.06.19-17.17.22:931][585]Cmd: EDIT PASTE
+[2018.06.19-17.17.24:769][673]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.24:769][673]LogEditorTransaction: Undo Pegar
+[2018.06.19-17.17.36:201][842]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.36:201][842]LogEditorTransaction: Undo Rotate Actors
+[2018.06.19-17.17.36:207][842]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.LevelKiseguza_Sprite8.RenderComponent) Component already registered.
+[2018.06.19-17.17.36:209][842]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2374.RenderComponent) Component already registered.
+[2018.06.19-17.17.36:210][842]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.LevelKiseguza_Sprite10.RenderComponent) Component already registered.
+[2018.06.19-17.17.36:211][842]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/LVL_KiseguzaForest.LVL_KiseguzaForest:PersistentLevel.KiseguzaTileset_Sprite_2402.RenderComponent) Component already registered.
+[2018.06.19-17.17.37:442][889]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.37:442][889]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.38:205][906]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.38:205][906]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.38:779][926]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.38:779][926]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.39:336][941]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.39:336][941]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.39:890][959]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.39:891][959]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.40:415][977]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.40:415][977]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.40:957][987]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.40:957][987]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.41:552][  5]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.41:552][  5]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.42:131][ 19]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.42:131][ 19]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.42:718][ 34]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.42:718][ 34]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.43:285][ 50]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.43:286][ 50]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.43:831][ 65]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.43:831][ 65]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.44:381][ 80]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.44:381][ 80]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.44:860][ 91]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.44:860][ 91]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.45:278][ 99]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.45:278][ 99]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.17.45:686][106]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.45:686][106]LogEditorTransaction: Undo Seleccionar marco
+[2018.06.19-17.17.46:135][108]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.46:135][108]LogEditorTransaction: Undo No seleccionar ninguno
+[2018.06.19-17.17.47:852][155]Cmd: SELECT NONE
+[2018.06.19-17.17.56:754][480]Cmd: SELECT NONE
+[2018.06.19-17.17.57:907][541]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.57:907][541]LogEditorTransaction: Undo No seleccionar ninguno
+[2018.06.19-17.17.58:867][572]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.58:867][572]LogEditorTransaction: Undo Seleccionar marco
+[2018.06.19-17.17.59:294][582]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.59:294][582]LogEditorTransaction: Undo No seleccionar ninguno
+[2018.06.19-17.17.59:822][600]Cmd: TRANSACTION UNDO
+[2018.06.19-17.17.59:822][600]LogEditorTransaction: Undo Move Actors
+[2018.06.19-17.18.00:315][619]Cmd: TRANSACTION UNDO
+[2018.06.19-17.18.00:315][619]LogEditorTransaction: Undo Pinchar en los actores
+[2018.06.19-17.18.06:507][979]Cmd: SELECT NONE
+[2018.06.19-17.18.09:322][137]Cmd: TRANSACTION UNDO
+[2018.06.19-17.18.09:322][137]LogEditorTransaction: Undo No seleccionar ninguno
+[2018.06.19-17.18.15:098][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-17.18.25:265][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-17.18.31:046][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-17.18.34:018][532]LogSlate: Window 'Deshacer historial' being destroyed
+[2018.06.19-17.18.34:026][532]LogSlate: Window 'Deshacer historial' being destroyed
+[2018.06.19-17.18.35:519][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-17.18.52:141][614]Cmd: SELECT NONE
+[2018.06.19-17.18.52:369][615]Cmd: SELECT NONE
+[2018.06.19-17.18.55:315][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-17.18.55:866][789]LogSlate: Window 'SotW - Editor Unreal' being destroyed
+[2018.06.19-17.18.55:869][789]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.19-17.18.56:305][790]Cmd: QUIT_EDITOR
+[2018.06.19-17.18.56:391][790]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.19-17.18.56:392][790]LogExit: Preparing to exit.
+[2018.06.19-17.18.57:561][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.19-17.18.57:561][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.19-17.18.57:561][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.19-17.18.57:572][790]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' was aborted.
+[2018.06.19-17.18.57:628][790]LogExit: Editor shut down
+[2018.06.19-17.18.57:649][790]LogExit: Transaction tracking system shut down
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' was aborted.
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Marketplace/DlgSystem/Content/' was aborted.
+[2018.06.19-17.18.57:922][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.19-17.18.57:923][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.19-17.18.57:923][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.19-17.18.57:923][790]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.19-17.18.58:062][790]LogExit: Object subsystem successfully closed.
+[2018.06.19-17.18.58:096][790]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.19-17.18.58:100][790]LogD3D11RHI: Shutdown
+[2018.06.19-17.18.58:100][790]LogD3D11RHI: CleanupD3DDevice
+[2018.06.19-17.18.58:141][790]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.19-17.18.58:188][790]LogModuleManager: Shutting down and abandoning module StatsViewer (578)
+[2018.06.19-17.18.58:198][790]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.06.19-17.18.58:198][790]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.06.19-17.18.58:198][790]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.06.19-17.18.58:198][790]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.19-17.18.58:201][790]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.06.19-17.18.58:201][790]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.06.19-17.18.58:201][790]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.06.19-17.18.58:201][790]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Collections/' was aborted.
+[2018.06.19-17.18.58:201][790]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Developers/NataliaHP/Collections/' was aborted.
+[2018.06.19-17.18.58:201][790]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Collections/' was aborted.
+[2018.06.19-17.18.58:201][790]LogModuleManager: Shutting down and abandoning module FoliageEdit (564)
+[2018.06.19-17.18.58:201][790]LogModuleManager: Shutting down and abandoning module LandscapeEditor (562)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module MeshPaintMode (560)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (558)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module ActorPickerMode (556)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module GeometryMode (554)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module TextureAlignMode (552)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module BspMode (550)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (548)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module HardwareSurvey (546)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (544)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module AutomationWorker (542)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (540)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module SequenceRecorder (539)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (536)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (534)
+[2018.06.19-17.18.58:202][790]LogModuleManager: Shutting down and abandoning module PlacementMode (533)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (528)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (526)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (524)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (522)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (520)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (518)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (516)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (514)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (512)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (510)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module CharacterAI (508)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module SmartSnapping (506)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module ViewportSnapping (502)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module ViewportInteraction (500)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module ClothPainter (498)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (497)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module LogVisualizer (494)
+[2018.06.19-17.18.58:203][790]LogModuleManager: Shutting down and abandoning module IntroTutorials (492)
+[2018.06.19-17.18.58:204][790]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (491)
+[2018.06.19-17.18.58:204][790]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (488)
+[2018.06.19-17.18.58:204][790]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (486)
+[2018.06.19-17.18.58:204][790]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (484)
+[2018.06.19-17.18.58:204][790]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (483)
+[2018.06.19-17.18.58:333][790]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (480)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (478)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (476)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module InputBindingEditor (474)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module MergeActors (472)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (470)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module LocalizationService (469)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module HardwareTargeting (466)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (464)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module UndoHistory (462)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module XmlParser (460)
+[2018.06.19-17.18.58:334][790]LogModuleManager: Shutting down and abandoning module Blutility (458)
+[2018.06.19-17.18.58:335][790]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (456)
+[2018.06.19-17.18.58:335][790]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (455)
+[2018.06.19-17.18.58:335][790]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (452)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module SettingsEditor (450)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module ProjectLauncher (448)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module SessionFrontend (446)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module ProfilerClient (444)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module DeviceManager (442)
+[2018.06.19-17.18.58:336][790]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (441)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module AutomationController (438)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module AutomationWindow (436)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module Layers (434)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (432)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module DetailCustomizations (430)
+[2018.06.19-17.18.58:390][790]LogModuleManager: Shutting down and abandoning module PackagesDialog (428)
+[2018.06.19-17.18.58:391][790]LogModuleManager: Shutting down and abandoning module Persona (426)
+[2018.06.19-17.18.58:391][790]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (425)
+[2018.06.19-17.18.58:391][790]LogModuleManager: Shutting down and abandoning module AnimGraph (423)
+[2018.06.19-17.18.58:391][790]LogModuleManager: Shutting down and abandoning module Kismet (420)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module GraphEditor (418)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module ClassViewer (416)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module Toolbox (414)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module ModuleUI (412)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module MovieSceneTools (410)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module OutputLog (408)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module GammaUI (406)
+[2018.06.19-17.18.58:392][790]LogModuleManager: Shutting down and abandoning module Documentation (404)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (402)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module MovieScene (400)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (398)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module LauncherPlatform (396)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module AnalyticsET (394)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module PortalServices (392)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module PortalRpc (390)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module MessagingRpc (388)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module AIModule (386)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module DesktopPlatform (382)
+[2018.06.19-17.18.58:393][790]LogModuleManager: Shutting down and abandoning module ProfilerService (380)
+[2018.06.19-17.18.58:589][790]LogModuleManager: Shutting down and abandoning module TaskGraph (378)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module DlgSystemEditor (376)
+[2018.06.19-17.18.58:590][790]LogDlgSystemEditor: Verbose: Stopped DlgSystemEditorModule
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module SteamVRController (374)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (372)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (370)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module OculusInput (368)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (366)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (364)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module CableComponent (362)
+[2018.06.19-17.18.58:590][790]LogModuleManager: Shutting down and abandoning module AudioCapture (360)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (358)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module AndroidPermission (356)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (352)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (350)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (348)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module MediaCompositing (346)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module LinearTimecode (344)
+[2018.06.19-17.18.58:591][790]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2018.06.19-17.18.58:602][790]LogModuleManager: Shutting down and abandoning module HTML5Networking (340)
+[2018.06.19-17.18.58:602][790]LogModuleManager: Shutting down and abandoning module AlembicImporter (338)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module AlembicLibrary (337)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module GeometryCache (336)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (335)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module DatasmithContent (330)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2018.06.19-17.18.58:603][790]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2018.06.19-17.18.58:604][790]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (282)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (280)
+[2018.06.19-17.18.58:605][790]LogModuleManager: Shutting down and abandoning module ActorSequence (278)
+[2018.06.19-17.18.58:606][790]LogModuleManager: Shutting down and abandoning module UdpMessaging (276)
+[2018.06.19-17.18.58:706][790]LogModuleManager: Shutting down and abandoning module TcpMessaging (274)
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module DlgSystem (272)
+[2018.06.19-17.18.58:807][790]LogDlgSystem: Verbose: Stopped DlgSystemModule
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module GameplayDebugger (271)
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.19-17.18.58:807][790]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.19-17.18.58:808][790]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.19-17.18.58:808][790]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.19-17.18.58:810][790]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.19-17.18.58:810][790]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.19-17.18.58:811][790]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.19-17.18.58:811][790]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.19-17.18.58:813][790]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.19-17.18.58:816][790]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.19-17.18.58:816][790]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.19-17.18.58:816][790]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.19-17.18.58:816][790]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.19-17.18.59:739][790]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.19-17.18.59:739][790]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.19-17.18.59:739][790]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.19-17.18.59:743][790]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.19-17.18.59:750][790]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.19-17.18.59:751][790]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.19-17.18.59:752][790]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.19-17.18.59:753][790]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.19-17.18.59:753][790]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.19-17.18.59:758][790]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.19-17.18.59:758][790]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.19-17.18.59:758][790]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.19-17.18.59:758][790]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.19-17.18.59:758][790]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.19-17.18.59:759][790]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.19-17.18.59:765][790]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.19-17.18.59:850][790]LogDerivedDataCache: Shutdown
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.19-17.18.59:850][790]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.19-17.18.59:851][790]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.19-17.18.59:852][790]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.19-17.18.59:853][790]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.19-17.18.59:853][790]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.19-17.18.59:853][790]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.19-17.18.59:853][790]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.19-17.18.59:853][790]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.19-17.18.59:853][790]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.19-17.18.59:853][790]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1481B7A0-436B-F920-7CB5-568A41BA9C92%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.19-17.18.59:887][790]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.19-17.18.59:890][790]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.19-17.18.59:890][790]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.19-17.18.59:890][790]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.19-17.18.59:890][790]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.19-17.18.59:891][790]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.19-17.18.59:891][790]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.19-17.18.59:891][790]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.19-17.18.59:894][790]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.19-17.18.59:909][790]LogExit: Exiting.
+[2018.06.19-17.18.59:974][790]Log file closed, 06/19/18 14:18:59
+>>>>>>> 195d7c7e6445fe39d2f469c48b0ff1329b22468e

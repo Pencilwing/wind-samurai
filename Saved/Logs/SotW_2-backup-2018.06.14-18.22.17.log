@@ -1,0 +1,1249 @@
+﻿Log file open, 06/14/18 13:32:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SotW
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1950347362) SRandInit(1950347362).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.309867
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DlgSystem/Binaries/Win64/UE4Editor-DlgSystemEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DlgSystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.971s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LAPTOP-U5A4UP5A (192.168.1.102:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.14-16.32.42:753][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.14-16.32.42:753][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.14-16.32.42:791][  0]LogInit: Computer: LAPTOP-U5A4UP5A
+[2018.06.14-16.32.42:791][  0]LogInit: User: NataliaHP
+[2018.06.14-16.32.42:791][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.14-16.32.42:791][  0]LogInit: High frequency timer resolution =2.339359 MHz
+[2018.06.14-16.32.42:792][  0]LogMemory: Memory total: Physical=11.5GB (12GB approx)
+[2018.06.14-16.32.42:792][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.14-16.32.42:792][  0]LogMemory: Process Physical Memory: 276.88 MB used, 276.88 MB peak
+[2018.06.14-16.32.42:792][  0]LogMemory: Process Virtual Memory: 265.27 MB used, 265.27 MB peak
+[2018.06.14-16.32.42:792][  0]LogMemory: Physical Memory: 4074.75 MB used,  7668.37 MB free, 11743.12 MB total
+[2018.06.14-16.32.42:792][  0]LogMemory: Virtual Memory: 688.10 MB used,  7668.37 MB free, 134217728.00 MB total
+[2018.06.14-16.32.42:841][  0]LogInit: Using OS detected language (es-ES).
+[2018.06.14-16.32.42:841][  0]LogInit: Using OS detected locale (es-ES).
+[2018.06.14-16.32.42:851][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.06.14-16.32.43:683][  0]LogStreaming: Display: Took  0.842s to EndInitTextLocalization.
+[2018.06.14-16.32.43:683][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.14-16.32.43:781][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.14-16.32.43:781][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.14-16.32.51:766][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.14-16.32.51:924][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 Graphics' (Feature Level 11_0)
+[2018.06.14-16.32.51:924][  0]LogD3D11RHI:       499/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.06.14-16.32.51:933][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.14-16.32.51:933][  0]LogD3D11RHI:       0/0/5871 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.14-16.32.51:933][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.14-16.32.51:964][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.14-16.32.51:964][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.14-16.32.51:964][  0]LogWindows: EnumDisplayDevices:
+[2018.06.14-16.32.51:965][  0]LogWindows:    0. 'AMD Radeon(TM) R5 Graphics' (P:1 D:1)
+[2018.06.14-16.32.51:965][  0]LogWindows:    1. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2018.06.14-16.32.51:966][  0]LogWindows:    2. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2018.06.14-16.32.51:967][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.14-16.32.51:967][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 Graphics
+[2018.06.14-16.32.51:967][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.14-16.32.51:967][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.14-16.32.51:967][  0]LogRHI: Texture pool is 349 MB (70% of 499 MB)
+[2018.06.14-16.32.52:320][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.14-16.32.52:365][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2018.06.14-16.32.52:377][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/Shaders/WorkingDirectory/14568/).
+[2018.06.14-16.32.52:378][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NataliaHP/AppData/Local/Temp/UnrealShaderWorkingDir/A1518BCF414969556EF720A22C49E4FC/'.
+[2018.06.14-16.32.54:851][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.14-16.32.54:893][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.14-16.32.54:933][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.14-16.32.54:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.14-16.32.55:069][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.14-16.32.55:108][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.14-16.32.55:145][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.14-16.32.55:184][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.14-16.32.55:202][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.14-16.32.55:237][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.14-16.32.55:269][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.14-16.32.55:303][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.14-16.32.55:337][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.14-16.32.55:370][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.14-16.32.55:403][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.14-16.32.55:470][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.14-16.32.55:471][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.14-16.32.55:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.14-16.32.55:544][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.14-16.32.55:716][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.14-16.32.55:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.14-16.32.55:780][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.14-16.32.55:813][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.14-16.32.55:847][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.14-16.32.55:936][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.14-16.32.55:936][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.14-16.32.57:734][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.14-16.32.57:735][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.14-16.32.57:735][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.14-16.33.05:156][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.14-16.33.06:264][  0]LogDerivedDataCache: Loaded boot cache 1.11s 75MB C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.14-16.33.06:265][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.14-16.33.06:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.14-16.33.06:265][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.14-16.33.06:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.14-16.33.06:265][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.14-16.33.06:367][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.14-16.33.06:382][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NataliaHP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.14-16.33.06:382][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.14-16.33.06:382][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.14-16.33.06:479][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.14-16.33.06:480][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.14-16.33.06:534][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.14-16.33.06:534][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.14-16.33.21:114][  0]LogAssetRegistry: FAssetRegistry took 0.0401 seconds to start up
+[2018.06.14-16.33.22:455][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.14-16.33.23:833][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.14-16.33.23:846][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.14-16.33.23:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.14-16.33.23:847][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.14-16.33.23:847][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.14-16.33.23:847][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.14-16.33.24:106][  0]LogNetVersion: SotW , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 175056507)
+[2018.06.14-16.33.28:190][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/cfccc7b2.bin
+[2018.06.14-16.33.28:226][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/88ffd561.bin
+[2018.06.14-16.33.28:260][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/016b673c.bin
+[2018.06.14-16.33.28:290][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/bc6dd5c5.bin
+[2018.06.14-16.33.28:320][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/0cf1756e.bin
+[2018.06.14-16.33.28:351][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/d90d8dea.bin
+[2018.06.14-16.33.28:381][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/d16d4b52.bin
+[2018.06.14-16.33.28:413][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/c578467b.bin
+[2018.06.14-16.33.28:444][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/5b5c530a.bin
+[2018.06.14-16.33.28:475][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Intermediate/AssetRegistryCache/2abcac51.bin
+[2018.06.14-16.33.28:502][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.313585 seconds
+[2018.06.14-16.33.28:524][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.14-16.33.28:524][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.14-16.33.28:524][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.14-16.34.01:630][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `D2BF3DF446458378404D709E0EAF8E33` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.06.14-16.34.01:633][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.06.14-16.34.01:717][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.14-16.34.01:791][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.14-16.34.03:232][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.14-16.34.03:232][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.14-16.34.03:297][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.14-16.34.03:358][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.14-16.34.05:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.14-16.34.05:545][  0]LogOcInput: OculusInput pre-init called
+[2018.06.14-16.34.05:798][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.06.14-16.34.05:944][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.06.14-16.34.05:945][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `88295FD54A28A6702D2CB4BE3C9EAB99` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.06.14-16.34.05:950][  0]LogDlgSystem: Refreshing data for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.06.14-16.34.05:950][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.06.14-16.34.06:470][  0]LogEngine: Initializing Engine...
+[2018.06.14-16.34.06:473][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.14-16.34.06:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.14-16.34.06:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.14-16.34.08:542][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.14-16.34.08:660][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-16.34.09:044][  0]LogInit: FAudioDevice initialized.
+[2018.06.14-16.34.09:083][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/NataliaHP/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.14-16.34.09:134][  0]LogInit: Texture streaming: Enabled
+[2018.06.14-16.34.09:190][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.14-16.34.09:248][  0]LogInit: Transaction tracking system initialized
+[2018.06.14-16.34.09:331][  0]BlueprintLog: New page: Cargar el editor
+[2018.06.14-16.34.09:689][  0]LocalizationService: Localization service is disabled
+[2018.06.14-16.34.10:109][  0]LogConsoleResponse: Display: 
+[2018.06.14-16.34.12:444][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.14-16.34.12:444][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.14-16.34.12:444][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.14-16.34.12:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.14-16.34.12:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.14-16.34.12:737][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' took 0.04s
+[2018.06.14-16.34.14:554][  0]SourceControl: El control de código fuente está desactivado
+[2018.06.14-16.34.14:554][  0]Cmd: MAP LOAD FILE="../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.14-16.34.14:555][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.06.14-16.34.14:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.14-16.34.14:728][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 172,339ms to complete.
+[2018.06.14-16.34.14:728][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.174
+[2018.06.14-16.34.14:825][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.14-16.34.15:198][  0]LogCollectionManager: Loaded 0 collections in 0.008321 seconds
+[2018.06.14-16.34.15:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Collections/' took 0.01s
+[2018.06.14-16.34.15:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Developers/NataliaHP/Collections/' took 0.01s
+[2018.06.14-16.34.15:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Collections/' took 0.01s
+[2018.06.14-16.34.15:256][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.14-16.34.15:280][  0]LogContentBrowser: Native class hierarchy populated in 0.0237 seconds. Added 2496 classes and 572 folders.
+[2018.06.14-16.34.15:302][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.14-16.34.17:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.14-16.34.17:451][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.06.14-16.34.17:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.14-16.34.17:540][  0]LogLoad: (Engine Initialization) Total time: 102.41 seconds
+[2018.06.14-16.34.17:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.14-16.34.17:579][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.14-16.34.17:630][  0]LogSlate: Took 0.047646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.14-16.34.17:658][  0]LogSlate: Took 0.024933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.14-16.34.17:713][  0]LogSlate: Took 0.043569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.14-16.34.18:025][  0]LogSlate: Took 0.057358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.14-16.34.18:087][  1]LogRenderer: Reallocating scene render targets to support 712x360 Format 10 NumSamples 1 (Frame:1).
+[2018.06.14-16.34.18:728][  4]LogAssetRegistry: Asset discovery search completed in 57.6372 seconds
+[2018.06.14-16.34.18:732][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.14-16.34.18:732][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000176 seconds (updated 0 objects)
+[2018.06.14-16.34.40:880][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.34.46:274][980]LogSlate: Took 0.000801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.14-16.34.46:359][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.46:359][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap.
+[2018.06.14-16.34.46:360][980]LoadErrors: Error: /Game/Maps/LVL_KiseguzaForest : No puede encontrar el archivo para el activo. /Game/VisualAssets/Environment/LevelKiseguza_Sprite
+[2018.06.14-16.34.46:363][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.46:364][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap.
+[2018.06.14-16.34.47:128][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.47:129][980]LoadErrors: Error al cargar /Game/VisualAssets/Environment/LevelKiseguza_Sprite.LevelKiseguza_Sprite Referenciado por LevelKiseguza_Sprite2_2
+[2018.06.14-16.34.47:130][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga NULL.
+[2018.06.14-16.34.47:131][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.47:131][980]LoadErrors: Error al cargar /Game/VisualAssets/Environment/LevelKiseguza_Sprite.LevelKiseguza_Sprite Referenciado por LevelKiseguza_Sprite3
+[2018.06.14-16.34.47:132][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga NULL.
+[2018.06.14-16.34.47:132][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.47:132][980]LoadErrors: Error al cargar /Game/VisualAssets/Environment/LevelKiseguza_Sprite.LevelKiseguza_Sprite Referenciado por LevelKiseguza_Sprite4
+[2018.06.14-16.34.47:133][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga NULL.
+[2018.06.14-16.34.47:133][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.47:133][980]LoadErrors: Error al cargar /Game/VisualAssets/Environment/LevelKiseguza_Sprite.LevelKiseguza_Sprite Referenciado por LevelKiseguza_Sprite5
+[2018.06.14-16.34.47:133][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga NULL.
+[2018.06.14-16.34.47:134][980]LogLinker: Warning: No puede encontrar el archivo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite'
+[2018.06.14-16.34.47:134][980]LoadErrors: Error al cargar /Game/VisualAssets/Environment/LevelKiseguza_Sprite.LevelKiseguza_Sprite Referenciado por LevelKiseguza_Sprite6
+[2018.06.14-16.34.47:134][980]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/VisualAssets/Environment/LevelKiseguza_Sprite' mientras carga NULL.
+[2018.06.14-16.34.47:239][980]LogAIModule: Creating AISystem for world LVL_KiseguzaForest
+[2018.06.14-16.34.47:484][980]Cmd: MAP LOAD FILE="../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Maps/LVL_KiseguzaForest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.14-16.34.47:484][980]LightingResults: New page: Diseñar la iluminación
+[2018.06.14-16.34.47:496][980]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0008 seconds. Added 5 classes and 0 folders.
+[2018.06.14-16.34.47:499][980]LoadErrors: New page: Cargando mapa: LVL_KiseguzaForest.umap
+[2018.06.14-16.34.47:500][980]MapCheck: New page: Revisión del mapa
+[2018.06.14-16.34.47:500][980]LightingResults: New page: Diseñar la iluminación
+[2018.06.14-16.34.47:714][980]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.06.14-16.34.47:882][980]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.14-16.34.48:033][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 150,746ms to complete.
+[2018.06.14-16.34.48:037][980]LogFileHelpers: Loading map 'LVL_KiseguzaForest' took 0.556
+[2018.06.14-16.34.57:637][ 95]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (KiseguzaTileset_Sprite_400)
+[2018.06.14-16.34.58:997][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.35.00:355][ 98]LogEditorViewport: Clicking Background
+[2018.06.14-16.35.05:372][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.35.19:356][356]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1260)
+[2018.06.14-16.35.25:213][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.36.05:388][ 66]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1764)
+[2018.06.14-16.36.10:613][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.36.47:925][757]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1764)
+[2018.06.14-16.37.01:302][382]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1759)
+[2018.06.14-16.37.04:792][569]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1757)
+[2018.06.14-16.37.06:350][642]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1312)
+[2018.06.14-16.37.10:964][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.37.20:608][376]LogEditorViewport: Clicking Background
+[2018.06.14-16.37.35:599][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.37.54:443][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.38.48:999][940]LogEditorViewport: Clicking Background
+[2018.06.14-16.39.16:632][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.39.21:475][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.39.21:523][ 23]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Assets/Art/Environment/LevelKiseguza.png)
+[2018.06.14-16.39.24:287][ 23]LogTexture: Display: Building textures: LevelKiseguza (AutoDXT, 4096X4096)
+[2018.06.14-16.40.45:125][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.41.50:713][ 57]LogEditorViewport: Clicking Background
+[2018.06.14-16.41.51:726][ 57]LogEditorViewport: Clicking Background
+[2018.06.14-16.41.52:883][ 57]LogEditorViewport: Clicking Background
+[2018.06.14-16.41.54:934][ 57]LogEditorViewport: Clicking Background
+[2018.06.14-16.42.01:018][ 64]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.42.04:233][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.42.58:015][284]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.43.00:560][286]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.43.01:528][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.43.03:069][329]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.43.15:148][354]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1816)
+[2018.06.14-16.43.17:015][357]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.09:015][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.12:223][551]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.13:097][551]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2018.06.14-16.44.14:264][554]Cmd: TRANSACTION UNDO
+[2018.06.14-16.44.14:264][554]LogEditorTransaction: Undo Clicking on Components
+[2018.06.14-16.44.15:316][555]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.17:664][558]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.19:464][560]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1672)
+[2018.06.14-16.44.20:405][560]Cmd: SELECT NONE
+[2018.06.14-16.44.20:407][560]Cmd: SELECT NONE
+[2018.06.14-16.44.21:260][562]Cmd: SELECT NONE
+[2018.06.14-16.44.21:262][562]Cmd: SELECT NONE
+[2018.06.14-16.44.23:275][563]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.44.27:512][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.44.43:147][625]Cmd: TRANSACTION UNDO
+[2018.06.14-16.44.43:147][625]LogEditorTransaction: Undo Set Location
+[2018.06.14-16.45.00:471][699]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.45.00:968][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.45.01:931][736]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.45.02:907][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.45.17:437][ 52]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1216)
+[2018.06.14-16.45.19:837][ 54]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.45.38:620][125]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.46.09:468][242]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.46.12:504][245]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.46.18:810][263]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.46.20:992][265]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.46.45:619][390]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.02:245][563]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.06:271][591]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.15:358][675]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.23:028][745]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.27:762][786]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.47.27:934][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.47.29:014][844]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.48.17:471][947]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.48.20:295][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.48.41:057][485]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.48.44:792][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.48.46:344][488]Cmd: SELECT NONE
+[2018.06.14-16.48.48:819][490]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_472)
+[2018.06.14-16.48.58:706][493]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.49.58:010][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.50.23:777][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.50.32:711][ 10]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.50.39:588][388]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1527)
+[2018.06.14-16.50.42:992][577]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.50.44:387][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.50.48:102][712]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.50.58:896][335]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.51.04:384][647]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.07:591][816]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.51.18:995][443]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.51.22:298][632]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.23:151][676]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.51.27:008][897]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.31:773][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.51.36:037][349]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.43:345][774]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1527)
+[2018.06.14-16.51.46:519][955]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.47:914][ 28]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.51.51:547][235]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.51.52:699][296]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1531)
+[2018.06.14-16.51.57:092][538]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.51.59:332][660]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.07:798][149]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.09:344][234]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.52.10:219][277]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.10:808][305]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.12:908][423]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.52.16:200][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.17:425][677]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.21:891][930]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.24:233][ 62]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.26:779][204]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.28:132][278]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.29:971][381]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1531)
+[2018.06.14-16.52.33:983][607]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.39:507][905]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1903)
+[2018.06.14-16.52.40:765][973]Cmd: EDIT COPY
+[2018.06.14-16.52.41:027][988]Cmd: EDIT PASTE
+[2018.06.14-16.52.48:428][417]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.50:509][524]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.52.55:501][806]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.52.56:895][876]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1904)
+[2018.06.14-16.53.01:764][152]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.03:631][256]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1531)
+[2018.06.14-16.53.06:758][430]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.13:029][738]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1904)
+[2018.06.14-16.53.14:665][820]Cmd: EDIT COPY
+[2018.06.14-16.53.14:889][831]Cmd: EDIT PASTE
+[2018.06.14-16.53.22:282][218]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.26:617][448]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1905)
+[2018.06.14-16.53.31:485][723]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.33:442][823]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1905)
+[2018.06.14-16.53.36:082][964]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.39:376][145]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1522)
+[2018.06.14-16.53.44:067][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.53.45:728][477]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1522)
+[2018.06.14-16.53.55:687][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.54.02:312][260]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.54.04:664][377]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1905)
+[2018.06.14-16.54.09:188][618]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.54.12:522][779]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1905)
+[2018.06.14-16.54.15:022][897]Cmd: EDIT COPY
+[2018.06.14-16.54.15:427][919]Cmd: EDIT PASTE
+[2018.06.14-16.54.20:214][178]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1528)
+[2018.06.14-16.54.29:701][716]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.54.31:412][809]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1528)
+[2018.06.14-16.54.34:507][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.54.41:825][254]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1533)
+[2018.06.14-16.54.43:494][340]Cmd: EDIT COPY
+[2018.06.14-16.54.43:795][354]Cmd: EDIT PASTE
+[2018.06.14-16.54.49:967][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.55.00:773][271]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.55.02:407][358]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1907)
+[2018.06.14-16.55.06:950][600]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.55.17:454][995]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1907)
+[2018.06.14-16.55.19:132][ 65]Cmd: EDIT COPY
+[2018.06.14-16.55.19:533][ 81]Cmd: EDIT PASTE
+[2018.06.14-16.55.24:812][317]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1534)
+[2018.06.14-16.55.26:249][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.55.32:967][684]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1908)
+[2018.06.14-16.55.34:049][726]Cmd: EDIT COPY
+[2018.06.14-16.55.34:305][735]Cmd: EDIT PASTE
+[2018.06.14-16.55.41:077][ 84]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.55.54:956][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.55.55:141][649]LogRenderer: Reallocating scene render targets to support 712x372 Format 10 NumSamples 1 (Frame:24920).
+[2018.06.14-16.55.55:230][650]LogRenderer: Reallocating scene render targets to support 712x376 Format 10 NumSamples 1 (Frame:24922).
+[2018.06.14-16.55.55:386][653]LogRenderer: Reallocating scene render targets to support 712x380 Format 10 NumSamples 1 (Frame:24926).
+[2018.06.14-16.55.55:518][656]LogRenderer: Reallocating scene render targets to support 712x384 Format 10 NumSamples 1 (Frame:24930).
+[2018.06.14-16.55.55:643][658]LogRenderer: Reallocating scene render targets to support 712x392 Format 10 NumSamples 1 (Frame:24934).
+[2018.06.14-16.55.55:730][659]LogRenderer: Reallocating scene render targets to support 712x400 Format 10 NumSamples 1 (Frame:24936).
+[2018.06.14-16.55.55:822][660]LogRenderer: Reallocating scene render targets to support 712x412 Format 10 NumSamples 1 (Frame:24938).
+[2018.06.14-16.55.55:903][661]LogRenderer: Reallocating scene render targets to support 712x428 Format 10 NumSamples 1 (Frame:24940).
+[2018.06.14-16.55.55:970][662]LogRenderer: Reallocating scene render targets to support 712x444 Format 10 NumSamples 1 (Frame:24942).
+[2018.06.14-16.55.56:035][663]LogRenderer: Reallocating scene render targets to support 712x452 Format 10 NumSamples 1 (Frame:24944).
+[2018.06.14-16.55.56:101][664]LogRenderer: Reallocating scene render targets to support 712x468 Format 10 NumSamples 1 (Frame:24946).
+[2018.06.14-16.55.56:175][665]LogRenderer: Reallocating scene render targets to support 712x472 Format 10 NumSamples 1 (Frame:24948).
+[2018.06.14-16.55.56:289][669]LogRenderer: Reallocating scene render targets to support 712x476 Format 10 NumSamples 1 (Frame:24950).
+[2018.06.14-16.56.02:701][877]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1553)
+[2018.06.14-16.56.04:045][936]Cmd: EDIT COPY
+[2018.06.14-16.56.04:297][946]Cmd: EDIT PASTE
+[2018.06.14-16.56.08:987][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-16.56.13:417][272]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.56.24:974][862]Cmd: TRANSACTION UNDO
+[2018.06.14-16.56.24:974][862]LogEditorTransaction: Undo Seleccionar marco
+[2018.06.14-16.56.26:109][900]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1910)
+[2018.06.14-16.56.30:948][163]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-16.57.12:848][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-16.57.15:544][226]LogSavePackage: Save=2397.53ms
+[2018.06.14-16.57.15:544][226]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest_Auto123BFB36D43CE6730FDDD7C89BA986199.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto1.umap'
+[2018.06.14-16.57.15:552][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto1.umap
+[2018.06.14-16.57.15:564][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LVL_KiseguzaForest' took 2.606
+[2018.06.14-16.57.15:564][226]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.606
+[2018.06.14-16.57.15:576][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Sprite] ([1] browsable assets)...
+[2018.06.14-16.57.15:601][226]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Sprite.LevelKiseguza_Sprite]
+[2018.06.14-16.57.15:601][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Sprite]
+[2018.06.14-16.57.15:625][226]LogSavePackage: Save=18.98ms
+[2018.06.14-16.57.15:625][226]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LevelKiseguza_Sprite_Auto13422603941573706650224A0C77173F4.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Sprite_Auto1.uasset'
+[2018.06.14-16.57.15:629][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Sprite_Auto1.uasset
+[2018.06.14-16.57.15:631][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza] ([1] browsable assets)...
+[2018.06.14-16.57.15:650][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza.LevelKiseguza]
+[2018.06.14-16.57.15:650][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza]
+[2018.06.14-16.57.16:184][226]LogSavePackage: Save=529.04ms
+[2018.06.14-16.57.16:184][226]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LevelKiseguza_Auto1E9CA18994E6F7B7A6BD5548B433B5047.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Auto1.uasset'
+[2018.06.14-16.57.16:192][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/VisualAssets/Environment/KiseguzaForest/Tiles/LevelKiseguza_Auto1.uasset
+[2018.06.14-16.57.16:192][226]LogFileHelpers: Auto-saving content packages took 0.618
+[2018.06.14-17.05.05:949][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-17.05.06:120][351]LogRenderer: Reallocating scene render targets to support 856x492 Format 10 NumSamples 1 (Frame:31435).
+[2018.06.14-17.05.27:424][426]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.05.29:840][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.05.31:497][452]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.05.56:541][489]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.05.57:876][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.05.59:183][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.06.01:405][521]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.06.04:530][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.06.08:654][523]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.07.54:144][660]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.07:891][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-17.08.16:960][664]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.19:298][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.08.22:949][666]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.33:716][668]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.37:427][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.08.42:185][668]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.48:252][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.08.48:326][668]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.53:766][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.08.53:829][668]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.08.59:932][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-17.09.12:034][670]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.09.31:815][688]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-17.09.33:631][688]LogEditorViewport: Clicking Background
+[2018.06.14-17.40.07:914][ 76]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d737fb8 [can pipeline])
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.255.118) port 443 (#23))
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 6 (Closing connection 23)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-18.03.56:127][361]LogHttp: Warning: 00000241022F9D80: libcurl info message cache 9 (Closing connection 24)
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d737fb8 [can pipeline])
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.145.104) port 443 (#26))
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-18.16.05:932][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-18.16.05:933][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-18.16.05:933][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 6 (Closing connection 26)
+[2018.06.14-18.16.05:933][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-18.16.05:935][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 8 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d737fb8 [can pipeline])
+[2018.06.14-18.16.05:935][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 9 (Connection 27 seems to be dead!)
+[2018.06.14-18.16.05:935][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 10 (Closing connection 27)
+[2018.06.14-18.16.05:935][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 11 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.14-18.16.05:935][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-18.16.05:936][550]LogHttp: Warning: 00000241022FB580: libcurl info message cache 13 (Closing connection 28)
+[2018.06.14-18.16.05:936][550]LogHttp: Warning: 00000241022FBB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-18.16.05:936][550]LogHttp: Warning: 00000241022FBB80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d737fd0 [serially])
+[2018.06.14-18.16.05:936][550]LogHttp: Warning: 00000241022FBB80: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-18.16.05:936][550]LogHttp: Warning: 00000241022FBB80: libcurl info message cache 2 (Closing connection 29)
+[2018.06.14-18.18.17:642][945]LogHttp: Warning: 00000241022FBB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-18.18.17:643][945]LogHttp: Warning: 00000241022FBB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-18.18.17:643][945]LogHttp: Warning: 00000241022FBB80: libcurl info message cache 1 (Closing connection 30)
+[2018.06.14-18.20.29:391][339]LogHttp: Warning: 00000241022FAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-18.20.29:392][339]LogHttp: Warning: 00000241022FAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-18.20.29:392][339]LogHttp: Warning: 00000241022FAB00: libcurl info message cache 1 (Closing connection 31)
+[2018.06.14-19.17.50:937][654]LogHttp: Warning: 00000241022FA380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.17.50:937][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d737fd0 [can pipeline])
+[2018.06.14-19.17.50:937][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 1 (Re-using existing connection! (#40) with host datarouter.ol.epicgames.com)
+[2018.06.14-19.17.50:937][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.225.225) port 443 (#40))
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 6 (Closing connection 40)
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.17.50:938][654]LogHttp: Warning: 00000241022FA380: libcurl info message cache 9 (Closing connection 41)
+[2018.06.14-19.23.26:348][660]LogHttp: Warning: 00000241022FBA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d7367b8 [can pipeline])
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 1 (Re-using existing connection! (#43) with host datarouter.ol.epicgames.com)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.159.66) port 443 (#43))
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 6 (Closing connection 43)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.23.26:349][660]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 9 (Closing connection 44)
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d7366f8 [can pipeline])
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 1 (Re-using existing connection! (#45) with host datarouter.ol.epicgames.com)
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.108.73) port 443 (#45))
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-19.27.48:468][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-19.27.48:469][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 6 (Closing connection 45)
+[2018.06.14-19.27.48:469][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-19.27.48:469][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.27.48:469][446]LogHttp: Warning: 00000241022F9F00: libcurl info message cache 9 (Closing connection 46)
+[2018.06.14-19.36.39:781][ 29]LogHttp: Warning: 00000241022FB280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d7366f8 [can pipeline])
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 1 (Re-using existing connection! (#48) with host datarouter.ol.epicgames.com)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.197.128.1) port 443 (#48))
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 6 (Closing connection 48)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.36.39:782][ 29]LogHttp: Warning: 00000241022FB280: libcurl info message cache 9 (Closing connection 49)
+[2018.06.14-19.38.51:537][424]LogHttp: Warning: 00000241022FB280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.38.51:537][424]LogHttp: Warning: 00000241022FB280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.38.51:537][424]LogHttp: Warning: 00000241022FB280: libcurl info message cache 1 (Closing connection 50)
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d7364e8 [can pipeline])
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 1 (Re-using existing connection! (#53) with host datarouter.ol.epicgames.com)
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.90.239) port 443 (#53))
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-19.48.54:148][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-19.48.54:149][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-19.48.54:149][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 6 (Closing connection 53)
+[2018.06.14-19.48.54:149][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-19.48.54:149][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-19.48.54:149][231]LogHttp: Warning: 00000241022F8A00: libcurl info message cache 9 (Closing connection 54)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d736350 [can pipeline])
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 1 (Re-using existing connection! (#57) with host datarouter.ol.epicgames.com)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.171.141.53) port 443 (#57))
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 6 (Closing connection 57)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-20.01.00:523][410]LogHttp: Warning: 00000241022F8E80: libcurl info message cache 9 (Closing connection 58)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d7361a0 [can pipeline])
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 1 (Re-using existing connection! (#64) with host datarouter.ol.epicgames.com)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.202.169.250) port 443 (#64))
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 6 (Closing connection 64)
+[2018.06.14-20.17.46:817][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-20.17.46:818][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-20.17.46:818][428]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 9 (Closing connection 65)
+[2018.06.14-20.19.58:513][823]LogHttp: Warning: 00000241022FBA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-20.19.58:514][823]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-20.19.58:514][823]LogHttp: Warning: 00000241022FBA00: libcurl info message cache 1 (Closing connection 66)
+[2018.06.14-20.25.00:213][728]LogHttp: Warning: 00000241022FA080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d735ee8 [can pipeline])
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 1 (Re-using existing connection! (#67) with host datarouter.ol.epicgames.com)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.171.136.65) port 443 (#67))
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 3 (upload completely sent off: 373 out of 373 bytes)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 6 (Closing connection 67)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-20.25.00:214][728]LogHttp: Warning: 00000241022FA080: libcurl info message cache 9 (Closing connection 68)
+[2018.06.14-20.27.00:894][ 90]LogHttp: Warning: 00000241022FA080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-20.27.00:894][ 90]LogHttp: Warning: 00000241022FA080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-20.27.00:894][ 90]LogHttp: Warning: 00000241022FA080: libcurl info message cache 1 (Closing connection 69)
+[2018.06.14-21.03.16:872][599]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.03.34:496][643]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (KiseguzaTileset_Sprite_349)
+[2018.06.14-21.03.35:273][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-21.03.36:445][674]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.03.40:346][694]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.03.40:838][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-21.03.41:820][724]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.04.03:346][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.04.03:418][258]LogRenderer: Reallocating scene render targets to support 856x496 Format 10 NumSamples 1 (Frame:32259).
+[2018.06.14-21.06.45:219][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.06.49:460][413]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1177)
+[2018.06.14-21.06.50:665][466]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.06.55:003][668]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.07.01:075][948]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1586)
+[2018.06.14-21.07.04:761][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.07.11:004][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.07.15:796][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.07.21:429][830]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.07.24:850][  8]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1653)
+[2018.06.14-21.07.28:585][204]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.07.29:744][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.07.40:354][828]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.07.45:125][987]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1255)
+[2018.06.14-21.07.55:702][ 34]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1706)
+[2018.06.14-21.07.56:956][ 34]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LevelKiseguza_Sprite7)
+[2018.06.14-21.08.10:692][ 88]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_433)
+[2018.06.14-21.08.14:306][ 99]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_434)
+[2018.06.14-21.08.25:960][143]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1228)
+[2018.06.14-21.08.48:113][243]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_407)
+[2018.06.14-21.08.52:447][255]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_434)
+[2018.06.14-21.08.55:802][262]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_437)
+[2018.06.14-21.09.17:318][359]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1701)
+[2018.06.14-21.09.19:880][370]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1708)
+[2018.06.14-21.09.30:808][435]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1667)
+[2018.06.14-21.09.35:341][465]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (KiseguzaTileset_Sprite_1707)
+[2018.06.14-21.10.05:875][820]Cmd: DELETE
+[2018.06.14-21.10.05:875][820]Cmd: ACTOR DELETE
+[2018.06.14-21.10.06:015][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:016][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:016][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:017][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:018][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:019][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:019][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:019][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:019][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:019][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:020][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:020][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:020][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:020][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:020][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:021][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:021][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:021][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:021][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:021][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:022][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:023][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:023][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:023][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:024][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:024][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:024][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:024][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:025][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:025][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:025][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:026][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:026][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:026][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:026][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:026][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:027][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:027][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:028][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:028][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:028][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:028][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:028][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:029][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:029][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:029][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:029][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:030][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:030][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:030][820]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.06.14-21.10.06:054][820]LogEditorActor: Deleted 65 Actors (0.178 secs)
+[2018.06.14-21.10.08:905][852]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (KiseguzaTileset_Sprite_430)
+[2018.06.14-21.10.13:109][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.11.48:411][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.12.08:517][290]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Assets/Art/Environment/LevelKiseguza.png)
+[2018.06.14-21.12.10:670][290]LogTexture: Display: Building textures: LevelKiseguza (AutoDXT, 4096X4096)
+[2018.06.14-21.12.22:193][317]LogSavePackage: Save=2346.68ms
+[2018.06.14-21.12.22:193][317]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LVL_KiseguzaForest_Auto2B22F413240E04D8D918003AFC74C3AA9.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto2.umap'
+[2018.06.14-21.12.22:200][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LVL_KiseguzaForest_Auto2.umap
+[2018.06.14-21.12.22:210][317]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LVL_KiseguzaForest' took 2.713
+[2018.06.14-21.12.22:210][317]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.713
+[2018.06.14-21.12.22:223][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/LevelKiseguza] ([1] browsable assets)...
+[2018.06.14-21.12.22:246][317]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/LevelKiseguza.LevelKiseguza]
+[2018.06.14-21.12.22:246][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/LevelKiseguza]
+[2018.06.14-21.12.22:768][317]LogSavePackage: Save=517.81ms
+[2018.06.14-21.12.22:768][317]LogSavePackage: Moving '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/LevelKiseguza_Auto28BFB41D34CC938556B080A9C3B98DACA.tmp' to '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LevelKiseguza_Auto2.uasset'
+[2018.06.14-21.12.22:775][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Autosaves/Game/Maps/LevelKiseguza_Auto2.uasset
+[2018.06.14-21.12.22:775][317]LogFileHelpers: Auto-saving content packages took 0.555
+[2018.06.14-21.13.02:442][922]Cmd: SELECT NONE
+[2018.06.14-21.13.41:298][832]LogEditorViewport: Clicking Background
+[2018.06.14-21.13.49:601][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-21.14.29:401][ 96]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2415d735e88 [can pipeline])
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 1 (Re-using existing connection! (#85) with host datarouter.ol.epicgames.com)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.255.118) port 443 (#85))
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 3 (upload completely sent off: 361 out of 361 bytes)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 6 (Closing connection 85)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.14-21.18.51:576][786]LogHttp: Warning: 00000241C0B52380: libcurl info message cache 9 (Closing connection 86)
+[2018.06.14-21.21.51:121][404]LogSlate: Window 'Guardar contenido' being destroyed
+[2018.06.14-21.21.51:516][404]LogSlate: Window 'SotW - Editor Unreal' being destroyed
+[2018.06.14-21.21.51:943][405]Cmd: QUIT_EDITOR
+[2018.06.14-21.21.52:043][405]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.14-21.21.52:097][405]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.14-21.21.52:098][405]LogExit: Preparing to exit.
+[2018.06.14-21.21.52:801][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.14-21.21.52:801][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.14-21.21.52:801][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.14-21.21.52:890][405]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' was aborted.
+[2018.06.14-21.21.53:075][405]LogExit: Editor shut down
+[2018.06.14-21.21.53:140][405]LogExit: Transaction tracking system shut down
+[2018.06.14-21.21.53:365][405]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../../../../../Users/NataliaHP/Documents/GitHub/wind-samurai/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Marketplace/DlgSystem/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.14-21.21.53:366][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.14-21.21.53:367][405]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.14-21.21.53:790][405]LogExit: Object subsystem successfully closed.
+[2018.06.14-21.21.53:861][405]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.14-21.21.53:869][405]LogD3D11RHI: Shutdown
+[2018.06.14-21.21.53:869][405]LogD3D11RHI: CleanupD3DDevice
+[2018.06.14-21.21.54:384][405]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.14-21.21.54:461][405]LogModuleManager: Shutting down and abandoning module StatsViewer (578)
+[2018.06.14-21.21.54:472][405]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.06.14-21.21.54:472][405]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.06.14-21.21.54:472][405]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.06.14-21.21.54:486][405]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.14-21.21.54:501][405]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.06.14-21.21.54:501][405]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.06.14-21.21.54:501][405]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.06.14-21.21.54:502][405]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Collections/' was aborted.
+[2018.06.14-21.21.54:502][405]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Content/Developers/NataliaHP/Collections/' was aborted.
+[2018.06.14-21.21.54:502][405]LogDirectoryWatcher: A directory notification for 'C:/Users/NataliaHP/Documents/GitHub/wind-samurai/Saved/Collections/' was aborted.
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module FoliageEdit (564)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module LandscapeEditor (562)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module MeshPaintMode (560)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (558)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module ActorPickerMode (556)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module GeometryMode (554)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module TextureAlignMode (552)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module BspMode (550)
+[2018.06.14-21.21.54:502][405]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (548)
+[2018.06.14-21.21.54:503][405]LogModuleManager: Shutting down and abandoning module HardwareSurvey (546)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (544)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module AutomationWorker (542)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (540)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module SequenceRecorder (539)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (536)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (534)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module PlacementMode (533)
+[2018.06.14-21.21.54:504][405]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (528)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (526)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (524)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (522)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (520)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (518)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (516)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (514)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (512)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (510)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module CharacterAI (508)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module SmartSnapping (506)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module ViewportSnapping (502)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module ViewportInteraction (500)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module ClothPainter (498)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (497)
+[2018.06.14-21.21.54:505][405]LogModuleManager: Shutting down and abandoning module LogVisualizer (494)
+[2018.06.14-21.21.54:506][405]LogModuleManager: Shutting down and abandoning module IntroTutorials (492)
+[2018.06.14-21.21.54:518][405]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (491)
+[2018.06.14-21.21.54:518][405]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (488)
+[2018.06.14-21.21.54:518][405]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (486)
+[2018.06.14-21.21.54:518][405]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (484)
+[2018.06.14-21.21.54:518][405]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (483)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (480)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (478)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (476)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module InputBindingEditor (474)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module MergeActors (472)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (470)
+[2018.06.14-21.21.55:218][405]LogModuleManager: Shutting down and abandoning module LocalizationService (469)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module HardwareTargeting (466)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (464)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module UndoHistory (462)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module XmlParser (460)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module Blutility (458)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (456)
+[2018.06.14-21.21.55:219][405]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (455)
+[2018.06.14-21.21.55:220][405]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (452)
+[2018.06.14-21.21.55:220][405]LogModuleManager: Shutting down and abandoning module SettingsEditor (450)
+[2018.06.14-21.21.55:221][405]LogModuleManager: Shutting down and abandoning module ProjectLauncher (448)
+[2018.06.14-21.21.55:221][405]LogModuleManager: Shutting down and abandoning module SessionFrontend (446)
+[2018.06.14-21.21.55:221][405]LogModuleManager: Shutting down and abandoning module ProfilerClient (444)
+[2018.06.14-21.21.55:221][405]LogModuleManager: Shutting down and abandoning module DeviceManager (442)
+[2018.06.14-21.21.55:221][405]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (441)
+[2018.06.14-21.21.55:277][405]LogModuleManager: Shutting down and abandoning module AutomationController (438)
+[2018.06.14-21.21.55:277][405]LogModuleManager: Shutting down and abandoning module AutomationWindow (436)
+[2018.06.14-21.21.55:277][405]LogModuleManager: Shutting down and abandoning module Layers (434)
+[2018.06.14-21.21.55:277][405]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (432)
+[2018.06.14-21.21.55:278][405]LogModuleManager: Shutting down and abandoning module DetailCustomizations (430)
+[2018.06.14-21.21.55:278][405]LogModuleManager: Shutting down and abandoning module PackagesDialog (428)
+[2018.06.14-21.21.55:283][405]LogModuleManager: Shutting down and abandoning module Persona (426)
+[2018.06.14-21.21.55:284][405]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (425)
+[2018.06.14-21.21.55:284][405]LogModuleManager: Shutting down and abandoning module AnimGraph (423)
+[2018.06.14-21.21.55:284][405]LogModuleManager: Shutting down and abandoning module Kismet (420)
+[2018.06.14-21.21.55:284][405]LogModuleManager: Shutting down and abandoning module GraphEditor (418)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module ClassViewer (416)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module Toolbox (414)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module ModuleUI (412)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module MovieSceneTools (410)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module OutputLog (408)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module GammaUI (406)
+[2018.06.14-21.21.55:285][405]LogModuleManager: Shutting down and abandoning module Documentation (404)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (402)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module MovieScene (400)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (398)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module LauncherPlatform (396)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module AnalyticsET (394)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module PortalServices (392)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module PortalRpc (390)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module MessagingRpc (388)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module AIModule (386)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2018.06.14-21.21.55:286][405]LogModuleManager: Shutting down and abandoning module DesktopPlatform (382)
+[2018.06.14-21.21.55:287][405]LogModuleManager: Shutting down and abandoning module ProfilerService (380)
+[2018.06.14-21.21.55:371][405]LogModuleManager: Shutting down and abandoning module TaskGraph (378)
+[2018.06.14-21.21.55:371][405]LogModuleManager: Shutting down and abandoning module DlgSystemEditor (376)
+[2018.06.14-21.21.55:416][405]LogDlgSystemEditor: Verbose: Stopped DlgSystemEditorModule
+[2018.06.14-21.21.55:416][405]LogModuleManager: Shutting down and abandoning module SteamVRController (374)
+[2018.06.14-21.21.55:416][405]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (372)
+[2018.06.14-21.21.55:416][405]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (370)
+[2018.06.14-21.21.55:416][405]LogModuleManager: Shutting down and abandoning module OculusInput (368)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (366)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (364)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module CableComponent (362)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module AudioCapture (360)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (358)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module AndroidPermission (356)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (352)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (350)
+[2018.06.14-21.21.55:417][405]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (348)
+[2018.06.14-21.21.55:418][405]LogModuleManager: Shutting down and abandoning module MediaCompositing (346)
+[2018.06.14-21.21.55:418][405]LogModuleManager: Shutting down and abandoning module LinearTimecode (344)
+[2018.06.14-21.21.55:418][405]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module HTML5Networking (340)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module AlembicImporter (338)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module AlembicLibrary (337)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module GeometryCache (336)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (335)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module DatasmithContent (330)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2018.06.14-21.21.55:434][405]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2018.06.14-21.21.55:435][405]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2018.06.14-21.21.55:436][405]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2018.06.14-21.21.55:437][405]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2018.06.14-21.21.55:459][405]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2018.06.14-21.21.55:459][405]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2018.06.14-21.21.55:459][405]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2018.06.14-21.21.55:459][405]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (282)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (280)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module ActorSequence (278)
+[2018.06.14-21.21.55:460][405]LogModuleManager: Shutting down and abandoning module UdpMessaging (276)
+[2018.06.14-21.21.55:561][405]LogModuleManager: Shutting down and abandoning module TcpMessaging (274)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module DlgSystem (272)
+[2018.06.14-21.21.55:663][405]LogDlgSystem: Verbose: Stopped DlgSystemModule
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module GameplayDebugger (271)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.14-21.21.55:663][405]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.14-21.21.55:668][405]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.14-21.21.55:668][405]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.14-21.21.55:669][405]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.14-21.21.55:670][405]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.14-21.21.55:672][405]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.14-21.21.55:683][405]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.14-21.21.55:683][405]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.14-21.21.55:683][405]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.14-21.21.55:684][405]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.14-21.21.56:320][405]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.14-21.21.56:320][405]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.14-21.21.56:320][405]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.14-21.21.56:333][405]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.14-21.21.56:345][405]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.14-21.21.56:345][405]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.14-21.21.56:346][405]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.14-21.21.56:435][405]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.14-21.21.56:435][405]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.14-21.21.56:435][405]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.14-21.21.56:435][405]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.14-21.21.56:436][405]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.14-21.21.56:437][405]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.14-21.21.56:437][405]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.14-21.21.56:441][405]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.14-21.21.56:441][405]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.14-21.21.56:441][405]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.14-21.21.56:442][405]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.14-21.21.56:480][405]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.14-21.21.56:548][405]LogDerivedDataCache: Shutdown
+[2018.06.14-21.21.56:548][405]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.14-21.21.56:549][405]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.14-21.21.56:549][405]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.14-21.21.56:549][405]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.14-21.21.56:927][405]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.14-21.21.57:002][405]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.14-21.21.57:003][405]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.14-21.21.57:004][405]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.14-21.21.57:005][405]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.14-21.21.57:051][405]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.14-21.21.57:051][405]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.14-21.21.57:051][405]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.14-21.21.57:051][405]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE8C9830-4911-6AB1-3EDF-D2A4791A6AB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=330e5a2045c304c2f1ffdaa4d7811232%7Ca345ad7d4f264abe80dce6b88bd1a870%7Ccc0720a3-79ea-43b1-afa5-0b7f4a7b1b30&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.14-21.21.57:067][405]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.14-21.21.57:070][405]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.14-21.21.57:070][405]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.14-21.21.57:070][405]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.14-21.21.57:071][405]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.14-21.21.57:071][405]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.14-21.21.57:071][405]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.14-21.21.57:071][405]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.14-21.21.57:079][405]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.14-21.21.57:094][405]LogExit: Exiting.
+[2018.06.14-21.21.57:170][405]Log file closed, 06/14/18 18:21:57
