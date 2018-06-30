@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"Blue_Jump instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":70,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10001":
+{
+	"frame": {"x":5,"y":5,"w":70,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10002":
+{
+	"frame": {"x":80,"y":5,"w":68,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10003":
+{
+	"frame": {"x":80,"y":5,"w":68,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10004":
+{
+	"frame": {"x":153,"y":5,"w":68,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10005":
+{
+	"frame": {"x":153,"y":5,"w":68,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10006":
+{
+	"frame": {"x":5,"y":93,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Blue_Jump instance 10007":
+{
+	"frame": {"x":5,"y":93,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "blue_character_jump.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

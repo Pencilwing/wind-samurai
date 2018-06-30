@@ -1,0 +1,147 @@
+﻿{"frames": {
+
+"Blue_Fall instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":71,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10001":
+{
+	"frame": {"x":81,"y":5,"w":71,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10002":
+{
+	"frame": {"x":157,"y":5,"w":71,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10003":
+{
+	"frame": {"x":233,"y":5,"w":71,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10004":
+{
+	"frame": {"x":309,"y":5,"w":72,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10005":
+{
+	"frame": {"x":386,"y":5,"w":72,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10006":
+{
+	"frame": {"x":5,"y":94,"w":71,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10007":
+{
+	"frame": {"x":81,"y":94,"w":71,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10008":
+{
+	"frame": {"x":157,"y":94,"w":71,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10009":
+{
+	"frame": {"x":233,"y":94,"w":71,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10010":
+{
+	"frame": {"x":309,"y":94,"w":71,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10011":
+{
+	"frame": {"x":385,"y":94,"w":72,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10012":
+{
+	"frame": {"x":5,"y":184,"w":72,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10013":
+{
+	"frame": {"x":82,"y":184,"w":71,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10014":
+{
+	"frame": {"x":158,"y":184,"w":71,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10015":
+{
+	"frame": {"x":234,"y":184,"w":71,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+},
+"Blue_Fall instance 10016":
+{
+	"frame": {"x":5,"y":5,"w":71,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":86},
+	"sourceSize": {"w":72,"h":86}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "blue_character_fall.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

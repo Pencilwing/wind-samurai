@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"Blue_WallSlide instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":55,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10001":
+{
+	"frame": {"x":5,"y":5,"w":55,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10002":
+{
+	"frame": {"x":65,"y":5,"w":56,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10003":
+{
+	"frame": {"x":65,"y":5,"w":56,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10004":
+{
+	"frame": {"x":126,"y":5,"w":57,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10005":
+{
+	"frame": {"x":126,"y":5,"w":57,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10006":
+{
+	"frame": {"x":188,"y":5,"w":57,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10007":
+{
+	"frame": {"x":188,"y":5,"w":57,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10008":
+{
+	"frame": {"x":5,"y":123,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10009":
+{
+	"frame": {"x":5,"y":123,"w":54,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+},
+"Blue_WallSlide instance 10010":
+{
+	"frame": {"x":64,"y":123,"w":55,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":57,"h":115},
+	"sourceSize": {"w":57,"h":115}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "blue_character_wallslide.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

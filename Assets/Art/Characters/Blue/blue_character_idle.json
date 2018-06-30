@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Blue_Neutral instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":71,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":86},
+	"sourceSize": {"w":71,"h":86}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "blue_character_idle.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}
