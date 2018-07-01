@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Cloud 1 instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":612,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":613,"h":324},
+	"sourceSize": {"w":613,"h":324}
+},
+"Cloud 1 instance 10001":
+{
+	"frame": {"x":5,"y":334,"w":613,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":613,"h":324},
+	"sourceSize": {"w":613,"h":324}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "kiseguza_clouds.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
