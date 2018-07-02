@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 1 instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":200,"h":1091},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":1091},
+	"sourceSize": {"w":200,"h":1091}
+},
+"Symbol 1 instance 10001":
+{
+	"frame": {"x":5,"y":1101,"w":131,"h":724},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":240,"w":200,"h":1091},
+	"sourceSize": {"w":200,"h":1091}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "bamboo_stalks.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":2048},
+	"scale": "1"
+}
+}
