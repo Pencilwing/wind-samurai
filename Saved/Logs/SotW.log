@@ -36453,3 +36453,19 @@ LogInit: Object subsystem initialized
 [2018.07.04-05.12.13:207][421]LogSavePackage: Save=37.04ms
 [2018.07.04-05.12.13:207][421]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_GameOverMenu72A55E3E46E780851A075B828E490312.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/UI/UI_Menus/BP_GameOverMenu.uasset'
 [2018.07.04-05.12.13:226][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Content/BP/UI/UI_Menus/BP_GameOverMenu.uasset
+[2018.07.04-05.12.55:221][783]LogSavePackage: Save=1138.91ms
+[2018.07.04-05.12.55:221][783]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/LVL_KiseguzaForest_Auto16D3267D94052F8D2AF832492EE0803A1.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/Maps/Levels/LVL_KiseguzaForest_Auto1.umap'
+[2018.07.04-05.12.55:231][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/Maps/Levels/LVL_KiseguzaForest_Auto1.umap
+[2018.07.04-05.12.55:240][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/LVL_KiseguzaForest' took 1.514
+[2018.07.04-05.12.55:240][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.514
+[2018.07.04-05.12.55:250][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/BP_Enemy_Melee] ([1] browsable assets)...
+[2018.07.04-05.12.55:250][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/BP_Enemy_Melee]
+[2018.07.04-05.12.55:620][783]LogSavePackage: Save=53.64ms
+[2018.07.04-05.12.55:620][783]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Enemy_Melee_Auto167C1870048905E735AC8C5896A3D9CE7.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/Characters/BP_Enemy_Melee_Auto1.uasset'
+[2018.07.04-05.12.55:629][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/Characters/BP_Enemy_Melee_Auto1.uasset
+[2018.07.04-05.12.55:637][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/Blue/BP_Blue] ([1] browsable assets)...
+[2018.07.04-05.12.55:637][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/Blue/BP_Blue]
+[2018.07.04-05.12.56:377][783]LogSavePackage: Save=427.63ms
+[2018.07.04-05.12.56:378][783]LogSavePackage: Moving '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/BP_Blue_Auto19FDEFD26484308034515EE8A6E790620.tmp' to '../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/Characters/Blue/BP_Blue_Auto1.uasset'
+[2018.07.04-05.12.56:387][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Franco/Documents/GameDevelopment/Son of the Wind/wind-samurai/Saved/Autosaves/Game/BP/Characters/Blue/BP_Blue_Auto1.uasset
+[2018.07.04-05.12.56:387][783]LogFileHelpers: Auto-saving content packages took 1.145
